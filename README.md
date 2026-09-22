@@ -1,4 +1,3 @@
-# thelastcircuit
 Welcome to the repository for the modpack "The Last Circuit" *(as of v.0.1.0 no different from the [modrinth page](https://modrinth.com/project/the-last-circuit))*
 
 
