@@ -37,8 +37,11 @@ I decided to call the outcome "**The Last Circuit**" *(Idk, just felt appropriat
 ![A fancy text saying "Key Functions & Included Content" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/0494359f9f42e8b4f26a1711c992856259922a06.png)
 
 
-Below are some "***core***" mods listed to give you a hint of what this modpack includes.
+Below are some "***core***" mods listed to give you a hint of what this modpack includes. 
+
 *(if you wish to look through the full modlist, each version specific one can be found further down the page)* 
+
+
 
 
 
@@ -46,6 +49,11 @@ Below are some "***core***" mods listed to give you a hint of what this modpack 
 
 
 Players can construct complex, multi-block factories and digital storage networks to automate resources:
+
+
+<details>
+<summary>Heavy Industry, Logistics & Automation</summary>
+
 *   **[Mekanism](https://modrinth.com/mod/mekanism) & [Mekanism Generators](https://modrinth.com/mod/mekanism)** – Used for advanced ore processing, chemical processing, and early-to-mid game power networks.
 *   **[Ender IO](https://modrinth.com/mod/enderio)** – Handles tight logistical management using compact, advanced item, fluid, and energy conduits.
 *   **[Extreme Reactors](https://modrinth.com/mod/extremereactors)** – Provides massive, customizable multi-block reactors to fuel high-tier late-game energy grids.
@@ -53,17 +61,30 @@ Players can construct complex, multi-block factories and digital storage network
 *   **[Create](https://modrinth.com/mod/create)** & **Additions** – Integrates kinetic rotation force, power transformation, and extensive logistical transport using **[Threaded Trains](https://modrinth.com/mod/create-threaded-trains)** and **[Railways Navigator](https://modrinth.com/mod/create-railways-navigator)**.
 *   ***..and many more!***
 
+</details>
+
+
+
 
 
 ![A fancy text saying "Weapons & TechMagic Crossovers" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/b27d581861d76a35e4b5150c202faf22e741a548.png)
 
 
 To combat the stalking elements, the pack introduces high-tier automated defensive options and magical industrialization:
+
+<details>
+<summary>Weapons & TechMagic Crossovers</summary>
+
+
 *   **[TacZ](https://modrinth.com/mod/tacz-1.21.1)** – Adds fully animated, modular firearms.
 *   **[Create: Precise Manufacturing](https://modrinth.com/datapack/precise-manufacturing)** – Enables players to build factory lines dedicated entirely to automated firearm and ammunition mass production.
 *   **[Create: Big Cannons](https://modrinth.com/mod/create-big-cannons)** – Allows the construction of functional, large-scale defensive artillery for base perimeters.
 *   **[Ars Nouveau](https://modrinth.com/mod/ars-nouveau) & [Ars Creo](https://modrinth.com/mod/ars-creo)** – Implements a flexible, customizable spellcasting system that bridges directly into **[Create](https://modrinth.com/mod/create)** contraptions, automated logistics, and moving train platforms.
 *   ***..and many more!***
+
+</details>
+
+
 
 
 
@@ -71,11 +92,19 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 
 
 The world generation and audio design are overhauled to maximize isolation and psychological terror:
+
+<details>
+<summary>Horror & Enviromental Mods</summary>
+
 *   **[The Broken Script](https://modrinth.com/mod/the-broken-script) *(with add-on's)* & Stalkers** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like **[The Knocker](https://modrinth.com/mod/the-knocker)** and **[The Obsessed](https://modrinth.com/mod/obsessed)** actively stalk and terrorize the player's position.
 *   **[Server-Side Horror](https://modrinth.com/mod/server-side-horror) & [Sound Physics (remastered)](https://modrinth.com/mod/sound-physics-remastered)** – Adds dynamic echo localization and atmospheric scares that bounce realistically through factory pipes and walls.
 *   **[True Darkness (Biomes)](https://modrinth.com/mod/true-darkness-biomes)** – Enforces pitch-black environments, making an established, automated power grid with working industrial light setups an absolute necessity for survival.
 *   **[Regions Unexplored](https://modrinth.com/mod/regions-unexplored)** – Overhauls the landscape with dark, dense, and bleak overworld biomes that blend seamlessly with the building blocks provided by *[Chipped](https://modrinth.com/mod/chipped)* and *[Rechiseled](https://modrinth.com/mod/rechiseled)*.
 *   ***..and many more!***
+
+</details>
+
+
 
 
 
@@ -83,21 +112,37 @@ The world generation and audio design are overhauled to maximize isolation and p
 
 
 With performance in mind, I have gathered alot of optimization mods, enough to handle over 600 projects smoothly within a client-side environment *(unless ur playing on a potato, or well, v0.1.0 has 600+ mods so..)*:
+
+<details>
+
+<summary>QoL & Optimization Mods</summary>
+
 *   **Rendering & Optimization** – Uses **[Sodium](https://modrinth.com/mod/sodium)** and **[Iris Shaders](https://modrinth.com/mod/iris)** alongside **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** for extended level-of-detail rendering over massive distances without sacrificing frame rates. *(When using shaders, make sure you're using a shader that has support for DH, otherwise DH won't render when Iris Shaders is active)*
 *   **Stability Libraries** – Utilizes core dependencies such as *[Melody](https://modrinth.com/mod/melody), [Bookshelf](https://modrinth.com/mod/bookshelf), [GlitchCore](https://modrinth.com/mod/glitchcore), [TerraBlender](https://modrinth.com/mod/terrablender), [Indium](https://modrinth.com/mod/indium), [Patchouli](https://modrinth.com/mod/patchouli),* and *GeckoLib* to ensure cross-mod functionality and prevent crash loops.
 *   **Recipe & Material Unity** – Implements **[Roughly Enough Items (REI)](https://modrinth.com/mod/rei)** for comprehensive recipe viewing, and **[Almost Unified](https://modrinth.com/mod/almostunified)** to merge duplicate ores (Copper, Tin, Iron) from different tech mods into single, functional item IDs.
 *   ***..and many more!***
 
+</details>
+
+
 ---
+
 
 ### *Versions*
 
 Full modlist are dependant on the latest version of the modpack.
 Older versions are listed below and can also be found on my profile under "Collections".
-*   As the modpack updates, I will link the individual versions below since mods etc will most likeley be replaced and/or removed.*
+*   *As the modpack updates, I will link the individual versions below since mods etc will most likeley be replaced and/or removed.*
 
+
+
+<details>
+
+<summary>Versions</summary>
 
 [Beta v0.1.0](https://modrinth.com/collection/VgaTeepe)
+
+</details>
 
 ---
 
@@ -112,7 +157,13 @@ This is a huge modpack that I have mixed together, so most issues are just mod c
 If a problem turns out to be a genuine bug with a specific mod, I will direct you to report it to the mod author.
 
 ***Some mods are not available on modrinth and might have to be manually installed/updated***
-*(they will be a part of the modpack, but just a fyi)*
+*(they will be a part of the modpack, but just a fyi).*
+
+
+<details>
+
+<summary>Mods that has to be updated/downloaded manually</summary>
+
 *   [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 *   [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
 *   [Forgified](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api)
@@ -121,6 +172,8 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 *   [ProjectRed Core](https://www.curseforge.com/minecraft/mc-mods/project-red-core)
 *   [Epic Fight x Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)
 *   [Curios Compat x Epic Fight](https://www.curseforge.com/minecraft/mc-mods/epicfightcurioscompat)
+
+</details>
 
 The modpack is configured as I personally want it. 
 Any and all configurations are still available, and instructions on how to do so can be found on each respective mod page.
@@ -163,9 +216,10 @@ More information regarding server setups will be provided in the future if there
 
 *   There are multiple recomended mods if you're playing with friends that can be found [here](https://modrinth.com/collection/aOz1DpbX) *(work in progress)*. 
 
-
+---
 
 ## **Credits:** 
+
 *   *I do ***NOT*** own any of the individual mods or libraries included in this package. 
 All credit, intellectual property rights, and appreciation go entirely to their respective creators and developers in the open-source community who made these amazing projects possible. *
 
