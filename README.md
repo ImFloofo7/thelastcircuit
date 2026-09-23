@@ -10,7 +10,7 @@
 
 ---
 
-![A fancy text saying "Project purpose & Overview" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/3ae77e0987466c294a21a0b158b10aa36bd04861.png)
+![A fancy text saying "Project purpose & Overview" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/3ae77e0987466c294a21a0b158b10aa36bd04861.png)
 
 
 **The Last Circuit** is an industrial tech-horror and dark magic progression modpack built for **Minecraft 1.21.1 on the NeoForge loader**. 
@@ -21,7 +21,7 @@ Basically I always ended up playing a modified version of a pack until I was sat
 
 So, I decided to build something from scratch this time. 
 After watching a lot of **Minecraft Horror** content on various platforms *(shoutout @Claygamer2003 on TT)*. 
-I got really hooked on the idea of a modpack built around **TBS** *(The Broken Script)*, so I gathered all of my absolute favorite mods together amd paired them with almost every horror and magic mod I could possibly find that would fit the theme.
+I got really hooked on the idea of a modpack built around **TBS** *(The Broken Script)*, so I gathered all of my absolute favorite mods together and paired them with almost every horror and magic mod I could possibly find that would fit the theme.
 I decided to call the outcome "**The Last Circuit**" *(Idk, just felt appropriate tbh)*
 
 *   The main purpose of this project is to deliver a **challenging and atmospheric** survival experience where the world is actively corrupted by *"a broken script"* and stalking anomalies. 
@@ -29,7 +29,7 @@ Players cannot rely on standard vanilla gear; instead, the core gameplay loop fu
 
 ---
 
-![A fancy text saying "Key Functions & Included Content" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/0494359f9f42e8b4f26a1711c992856259922a06.png)
+![A fancy text saying "Key Functions & Included Content" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/0494359f9f42e8b4f26a1711c992856259922a06.png)
 
 
 Below are some "***core***" mods listed to give you a hint of what this modpack includes. 
@@ -62,7 +62,7 @@ Players can construct complex, multi-block factories and digital storage network
 ---
 
 
-![A fancy text saying "Weapons & TechMagic Crossovers" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/b27d581861d76a35e4b5150c202faf22e741a548.png)
+![A fancy text saying "Weapons & TechMagic Crossovers" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/b27d581861d76a35e4b5150c202faf22e741a548.png)
 
 
 To combat the stalking elements, the pack introduces high-tier automated defensive options and magical industrialization:
@@ -83,7 +83,7 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 ---
 
 
-![A fancy text saying "The Haunting, Survival & Enviroment" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/1be61a28b34203928555228cefc2c29a02a83c2c_0.webp)
+![A fancy text saying "The Haunting, Survival & Enviroment" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/1be61a28b34203928555228cefc2c29a02a83c2c_0.webp)
 
 
 The world generation and audio design are overhauled to maximize isolation and psychological terror:
@@ -103,17 +103,17 @@ The world generation and audio design are overhauled to maximize isolation and p
 ---
 
 
-![A fancy text saying "Technical Framework & Performance" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/65c7fc2cd2a273f81a0206dc18406f00b10c431b.png)
+![A fancy text saying "Technical Framework & Performance" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/65c7fc2cd2a273f81a0206dc18406f00b10c431b.png)
 
 
-With performance in mind, I have gathered alot of optimization mods, enough to handle over 600 projects smoothly within a client-side environment *(unless ur playing on a potato, or well, v0.1.0 has 600+ mods so..)*:
+With performance in mind, I have gathered a lot of optimization mods, enough to handle over 600 projects smoothly within a client-side environment *(unless ur playing on a potato, or well, v0.1.0 has 600+ mods so..)*:
 
 <details>
 
 <summary>:arrow_forward: QoL & Optimization Mods</summary>
 
 *   **Rendering & Optimization** – Uses **[Sodium](https://modrinth.com/mod/sodium)** and **[Iris Shaders](https://modrinth.com/mod/iris)** alongside **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** for extended level-of-detail rendering over massive distances without sacrificing frame rates. *(When using shaders, make sure you're using a shader that has support for DH, otherwise DH won't render when Iris Shaders is active)*
-*   **Stability Libraries** – Utilizes core dependencies such as *[Melody](https://modrinth.com/mod/melody), [Bookshelf](https://modrinth.com/mod/bookshelf), [GlitchCore](https://modrinth.com/mod/glitchcore), [TerraBlender](https://modrinth.com/mod/terrablender), [Indium](https://modrinth.com/mod/indium), [Patchouli](https://modrinth.com/mod/patchouli),* and *GeckoLib* to ensure cross-mod functionality and prevent crash loops.
+*   **Stability Libraries** – Utilizes core dependencies such as *[Melody](https://modrinth.com/mod/melody), [Bookshelf](https://modrinth.com/mod/bookshelf), [GlitchCore](https://modrinth.com/mod/glitchcore), [TerraBlender](https://modrinth.com/mod/terrablender), [Indium](https://modrinth.com/mod/indium), [Patchouli](https://modrinth.com/mod/patchouli),* and *[GeckoLib](https://modrinth.com/mod/geckolib)* to ensure cross-mod functionality and prevent crash loops.
 *   **Recipe & Material Unity** – Implements **[Roughly Enough Items (REI)](https://modrinth.com/mod/rei)** for comprehensive recipe viewing, and **[Almost Unified](https://modrinth.com/mod/almostunified)** to merge duplicate ores (Copper, Tin, Iron) from different tech mods into single, functional item IDs.
 *   ***..and many more!***
 
