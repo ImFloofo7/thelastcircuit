@@ -47,7 +47,7 @@ Players can construct complex, multi-block factories and digital storage network
 
 
 <details>
-<summary>**Heavy Industry, Logistics & Automation**</summary>
+<summary>:arrow_forward: Heavy Industry, Logistics & Automation</summary>
 
 *   **[Mekanism](https://modrinth.com/mod/mekanism) & [Mekanism Generators](https://modrinth.com/mod/mekanism)** – Used for advanced ore processing, chemical processing, and early-to-mid game power networks.
 *   **[Ender IO](https://modrinth.com/mod/enderio)** – Handles tight logistical management using compact, advanced item, fluid, and energy conduits.
@@ -68,7 +68,7 @@ Players can construct complex, multi-block factories and digital storage network
 To combat the stalking elements, the pack introduces high-tier automated defensive options and magical industrialization:
 
 <details>
-<summary>Weapons & TechMagic Crossovers</summary>
+<summary>:arrow_forward: Weapons & TechMagic Crossovers</summary>
 
 
 *   **[TacZ](https://modrinth.com/mod/tacz-1.21.1)** – Adds fully animated, modular firearms.
@@ -89,7 +89,7 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 The world generation and audio design are overhauled to maximize isolation and psychological terror:
 
 <details>
-<summary>Horror & Enviromental Mods</summary>
+<summary>:arrow_forward: Horror & Enviromental Mods</summary>
 
 *   **[The Broken Script](https://modrinth.com/mod/the-broken-script) *(with add-on's)* & Stalkers** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like **[The Knocker](https://modrinth.com/mod/the-knocker)** and **[The Obsessed](https://modrinth.com/mod/obsessed)** actively stalk and terrorize the player's position.
 *   **[Server-Side Horror](https://modrinth.com/mod/server-side-horror) & [Sound Physics (remastered)](https://modrinth.com/mod/sound-physics-remastered)** – Adds dynamic echo localization and atmospheric scares that bounce realistically through factory pipes and walls.
@@ -110,7 +110,7 @@ With performance in mind, I have gathered alot of optimization mods, enough to h
 
 <details>
 
-<summary>QoL & Optimization Mods</summary>
+<summary>:arrow_forward: QoL & Optimization Mods</summary>
 
 *   **Rendering & Optimization** – Uses **[Sodium](https://modrinth.com/mod/sodium)** and **[Iris Shaders](https://modrinth.com/mod/iris)** alongside **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** for extended level-of-detail rendering over massive distances without sacrificing frame rates. *(When using shaders, make sure you're using a shader that has support for DH, otherwise DH won't render when Iris Shaders is active)*
 *   **Stability Libraries** – Utilizes core dependencies such as *[Melody](https://modrinth.com/mod/melody), [Bookshelf](https://modrinth.com/mod/bookshelf), [GlitchCore](https://modrinth.com/mod/glitchcore), [TerraBlender](https://modrinth.com/mod/terrablender), [Indium](https://modrinth.com/mod/indium), [Patchouli](https://modrinth.com/mod/patchouli),* and *GeckoLib* to ensure cross-mod functionality and prevent crash loops.
@@ -133,7 +133,7 @@ Older versions are listed below and can also be found on my profile under "Colle
 
 <details>
 
-<summary>Versions</summary>
+<summary>:arrow_forward: Versions</summary>
 
 [Beta v0.1.0](https://modrinth.com/collection/VgaTeepe)
 
@@ -159,7 +159,7 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 
 <details>
 
-<summary>Mods that has to be updated/downloaded manually</summary>
+<summary>:arrow_forward: Mods that has to be updated/downloaded manually</summary>
 
 *   [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 *   [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
