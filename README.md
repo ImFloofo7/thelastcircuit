@@ -1,11 +1,4 @@
-Welcome to the repository for the modpack "The Last Circuit" *(as of v.0.1.0 no different from the [modrinth page](https://modrinth.com/project/the-last-circuit))*
-
-
-
-
-
-
-![A banner containing "The Last Circuit" logo aswell as a fancy background symbolizing the "TechMagic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
+![A banner containing "The Last Circuit" official logo aswell as a fancy background symbolizing the clas between "TechMagic & Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
 
 
 ***Anomalies are twisting the world and your only shot at survival is to master both advanced engineering and ancient sorcery.***
@@ -22,7 +15,8 @@ Welcome to the repository for the modpack "The Last Circuit" *(as of v.0.1.0 no 
 
 **The Last Circuit** is an industrial tech-horror and dark magic progression modpack built for **Minecraft 1.21.1 on the NeoForge loader**. 
 
-*   Inspired by many years of playing Minecraft, including heavily modded setups, I wanted to try something new. I've played many different pre-made modpacks over the years, but always felt like something was missing—whether it was specific features like elevators or just a bit more ambience, sometimes something really "*dumb*" like [Appleskin](https://modrinth.com/mod/appleskin).
+*   Inspired by many years of playing Minecraft, including heavily modded setups, I wanted to try something new. 
+I've played many different pre-made modpacks over the years, but always felt like something was missing—whether it was specific features like elevators or just a bit more ambience, sometimes something really "*dumb*" like [Appleskin](https://modrinth.com/mod/appleskin).
 Basically I always ended up playing a modified version of a pack until I was satisfied. 
 
 So, I decided to build something from scratch this time. 
@@ -30,7 +24,8 @@ After watching a lot of **Minecraft Horror** content on various platforms *(shou
 I got really hooked on the idea of a modpack built around **TBS** *(The Broken Script)*, so I gathered all of my absolute favorite mods together amd paired them with almost every horror and magic mod I could possibly find that would fit the theme.
 I decided to call the outcome "**The Last Circuit**" *(Idk, just felt appropriate tbh)*
 
-*   The main purpose of this project is to deliver a challenging, atmospheric survival experience where the world is actively corrupted by a broken script and stalking anomalies. Players cannot rely on standard vanilla gear; instead, the core gameplay loop functions as a race against the dark, forcing players to advance technologically and master ancient sorcery to build a highly automated, fortified sanctuary capable of holding back the hostile entities.
+*   The main purpose of this project is to deliver a **challenging and atmospheric** survival experience where the world is actively corrupted by *"a broken script"* and stalking anomalies. 
+Players cannot rely on standard vanilla gear; instead, the core gameplay loop functions as a race against the dark, forcing players to advance technologically and master ancient sorcery to build a highly automated, fortified sanctuary capable of holding back the entities that lurk in the dark.
 
 ---
 
@@ -42,7 +37,7 @@ Below are some "***core***" mods listed to give you a hint of what this modpack 
 *(if you wish to look through the full modlist, each version specific one can be found further down the page)* 
 
 
-
+---
 
 
 ![A fancy text saying "Heavy Industry, Logistics & Automation" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/10aa02d72b6f03941ec412f4c08bbaec950528ed.png)
@@ -64,7 +59,7 @@ Players can construct complex, multi-block factories and digital storage network
 </details>
 
 
-
+---
 
 
 ![A fancy text saying "Weapons & TechMagic Crossovers" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/b27d581861d76a35e4b5150c202faf22e741a548.png)
@@ -73,7 +68,7 @@ Players can construct complex, multi-block factories and digital storage network
 To combat the stalking elements, the pack introduces high-tier automated defensive options and magical industrialization:
 
 <details>
-<summary>**Weapons & TechMagic Crossovers**</summary>
+<summary>Weapons & TechMagic Crossovers</summary>
 
 
 *   **[TacZ](https://modrinth.com/mod/tacz-1.21.1)** – Adds fully animated, modular firearms.
@@ -85,7 +80,7 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 </details>
 
 
-
+---
 
 
 ![A fancy text saying "The Haunting, Survival & Enviroment" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/1be61a28b34203928555228cefc2c29a02a83c2c_0.webp)
@@ -94,7 +89,7 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 The world generation and audio design are overhauled to maximize isolation and psychological terror:
 
 <details>
-<summary>**Horror & Enviromental Mods**</summary>
+<summary>Horror & Enviromental Mods</summary>
 
 *   **[The Broken Script](https://modrinth.com/mod/the-broken-script) *(with add-on's)* & Stalkers** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like **[The Knocker](https://modrinth.com/mod/the-knocker)** and **[The Obsessed](https://modrinth.com/mod/obsessed)** actively stalk and terrorize the player's position.
 *   **[Server-Side Horror](https://modrinth.com/mod/server-side-horror) & [Sound Physics (remastered)](https://modrinth.com/mod/sound-physics-remastered)** – Adds dynamic echo localization and atmospheric scares that bounce realistically through factory pipes and walls.
@@ -105,7 +100,7 @@ The world generation and audio design are overhauled to maximize isolation and p
 </details>
 
 
-
+---
 
 
 ![A fancy text saying "Technical Framework & Performance" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/65c7fc2cd2a273f81a0206dc18406f00b10c431b.png)
@@ -115,7 +110,7 @@ With performance in mind, I have gathered alot of optimization mods, enough to h
 
 <details>
 
-<summary>**QoL & Optimization Mods**</summary>
+<summary>QoL & Optimization Mods</summary>
 
 *   **Rendering & Optimization** – Uses **[Sodium](https://modrinth.com/mod/sodium)** and **[Iris Shaders](https://modrinth.com/mod/iris)** alongside **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** for extended level-of-detail rendering over massive distances without sacrificing frame rates. *(When using shaders, make sure you're using a shader that has support for DH, otherwise DH won't render when Iris Shaders is active)*
 *   **Stability Libraries** – Utilizes core dependencies such as *[Melody](https://modrinth.com/mod/melody), [Bookshelf](https://modrinth.com/mod/bookshelf), [GlitchCore](https://modrinth.com/mod/glitchcore), [TerraBlender](https://modrinth.com/mod/terrablender), [Indium](https://modrinth.com/mod/indium), [Patchouli](https://modrinth.com/mod/patchouli),* and *GeckoLib* to ensure cross-mod functionality and prevent crash loops.
@@ -138,13 +133,15 @@ Older versions are listed below and can also be found on my profile under "Colle
 
 <details>
 
-<summary>**Versions**</summary>
+<summary>Versions</summary>
 
 [Beta v0.1.0](https://modrinth.com/collection/VgaTeepe)
 
 </details>
 
+
 ---
+
 
 ![A fancy text saying "Credits & Disclaimer" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/4396a3223f79b5d00181ba31e406708c89decbee.png)
 
@@ -162,7 +159,7 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 
 <details>
 
-<summary>**Mods that has to be updated/downloaded manually**</summary>
+<summary>Mods that has to be updated/downloaded manually</summary>
 
 *   [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 *   [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
