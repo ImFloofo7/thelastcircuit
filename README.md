@@ -167,9 +167,9 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 ---
 
 <details>
-<summary>**Mods that are not on Modrinth** *(but are included in the modpack)*</summary>
+<summary>Mods that are not on Modrinth</summary>
 
-These mods are in the modpack but are not available for download on Modrinth, so you have to get them on Curseforge *(or elsewhere)*
+These mods **are** in the modpack but are not available for download on Modrinth, so you have to get them on CurseForge *(or elsewhere)*
 
 *   [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 *   [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
