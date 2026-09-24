@@ -135,7 +135,8 @@ Older versions are listed below and can also be found on my profile under "Colle
 
 <summary>▶️Versions</summary>
 
-[Beta v0.1.0](https://modrinth.com/collection/VgaTeepe)
+[v0.1.1-Alpha-r.dev](https://modrinth.com/collection/VgaTeepe)
+[v0.1.0-Alpha]([https://modrinth.com/collection/VgaTeepe](https://modrinth.com/modpack/the-last-circuit/version/0.1.0-alpha)) *(not available right now)*
 
 </details>
 
@@ -212,6 +213,7 @@ To be absolutely sure about how each mod operates and to secure your gameplay ex
 **I highly recommend** going into the configuration menu *(or files)* before playing to manually toggle ON/OFF any mechanics you do not want. 
 
 *Please see each mods respective page for instructions on how to do so or create a ticket on my [Discord](https://discord.gg/A3TFF6TqEU) if you can't figure it out.*
+  
 *Note: It will **NOT** turn off your PC, read personal files or brick your instance.
 
 ### ***Server Info***
