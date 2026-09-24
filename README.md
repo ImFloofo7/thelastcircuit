@@ -1,4 +1,4 @@
-![A banner containing "The Last Circuit" official logo aswell as a fancy background symbolizing the clas between "TechMagic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
+![A banner containing "The Last Circuit" official logo as well as a fancy background symbolizing the clash between "TechMagic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
 
 
 ***Anomalies are twisting the world and your only shot at survival is to master both advanced engineering and ancient sorcery.***
@@ -10,18 +10,18 @@
 
 ---
 
-![A fancy text saying "Project purpose & Overview" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/3ae77e0987466c294a21a0b158b10aa36bd04861.png)
+![A fancy text saying "Project purpose & Overview" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/3ae77e0987466c294a21a0b158b10aa36bd04861.png)
 
 
 **The Last Circuit** is an industrial tech-horror and dark magic progression modpack built for **Minecraft 1.21.1 on the NeoForge loader**. 
 
 *   Inspired by many years of playing Minecraft, including heavily modded setups, I wanted to try something new. 
-I've played many different pre-made modpacks over the years, but always felt like something was missing—whether it was specific features like elevators or just a bit more ambience, sometimes something really "*dumb*" like [Appleskin](https://modrinth.com/mod/appleskin).
+I've played many different premade modpacks over the years, but always felt like something was missing—whether it was specific features like elevators or just a bit more ambience, sometimes something really "*dumb*" like [Appleskin](https://modrinth.com/mod/appleskin).
 Basically I always ended up playing a modified version of a pack until I was satisfied. 
 
 So, I decided to build something from scratch this time. 
 After watching a lot of **Minecraft Horror** content on various platforms *(shoutout @Claygamer2003 on TT)*. 
-I got really hooked on the idea of a modpack built around **TBS** *(The Broken Script)*, so I gathered all of my absolute favorite mods together amd paired them with almost every horror and magic mod I could possibly find that would fit the theme.
+I got really hooked on the idea of a modpack built around **TBS** *(The Broken Script)*, so I gathered most of of my absolute favorite mods together and paired them with the majority of horror and magic mods I could possibly find that would fit the theme.
 I decided to call the outcome "**The Last Circuit**" *(Idk, just felt appropriate tbh)*
 
 *   The main purpose of this project is to deliver a **challenging and atmospheric** survival experience where the world is actively corrupted by *"a broken script"* and stalking anomalies. 
@@ -29,7 +29,7 @@ Players cannot rely on standard vanilla gear; instead, the core gameplay loop fu
 
 ---
 
-![A fancy text saying "Key Functions & Included Content" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/0494359f9f42e8b4f26a1711c992856259922a06.png)
+![A fancy text saying "Key Functions & Included Content" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/0494359f9f42e8b4f26a1711c992856259922a06.png)
 
 
 Below are some "***core***" mods listed to give you a hint of what this modpack includes. 
@@ -40,7 +40,7 @@ Below are some "***core***" mods listed to give you a hint of what this modpack 
 ---
 
 
-![A fancy text saying "Heavy Industry, Logistics & Automation" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/10aa02d72b6f03941ec412f4c08bbaec950528ed.png)
+![A fancy text saying "Heavy Industry, Logistics & Automation" with some nice background details around it to match the aesthetic of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/10aa02d72b6f03941ec412f4c08bbaec950528ed.png)
 
 
 Players can construct complex, multi-block factories and digital storage networks to automate resources:
@@ -63,7 +63,7 @@ Players can construct complex, multi-block factories and digital storage network
 ---
 
 
-![A fancy text saying "Weapons & TechMagic Crossovers" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/b27d581861d76a35e4b5150c202faf22e741a548.png)
+![A fancy text saying "Weapons & TechMagic Crossovers" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/b27d581861d76a35e4b5150c202faf22e741a548.png)
 
 
 To combat the stalking elements, the pack introduces high-tier automated defensive options and magical industrialization:
@@ -83,7 +83,7 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 ---
 
 
-![A fancy text saying "The Haunting, Survival & Enviroment" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/1be61a28b34203928555228cefc2c29a02a83c2c_0.webp)
+![A fancy text saying "The Haunting, Survival & Environment" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/1be61a28b34203928555228cefc2c29a02a83c2c_0.webp)
 
 
 The world generation and audio design are overhauled to maximize isolation and psychological terror:
@@ -91,7 +91,7 @@ The world generation and audio design are overhauled to maximize isolation and p
 <details>
 <summary>▶️Horror & Enviromental Mods</summary>
 
-*   **[The Broken Script](https://modrinth.com/mod/the-broken-script) *(with add-on's)* & Stalkers** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like **[The Knocker](https://modrinth.com/mod/the-knocker)** and **[The Obsessed](https://modrinth.com/mod/obsessed)** actively stalk and terrorize the player's position.
+*   **[The Broken Script](https://modrinth.com/mod/the-broken-script) *(with add-ons)* & Stalkers** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like **[The Knocker](https://modrinth.com/mod/the-knocker)** and **[The Obsessed](https://modrinth.com/mod/obsessed)** actively stalk and terrorize the player's position.
 *   **[Server-Side Horror](https://modrinth.com/mod/server-side-horror) & [Sound Physics (remastered)](https://modrinth.com/mod/sound-physics-remastered)** – Adds dynamic echo localization and atmospheric scares that bounce realistically through factory pipes and walls.
 *   **[True Darkness (Biomes)](https://modrinth.com/mod/true-darkness-biomes)** – Enforces pitch-black environments, making an established, automated power grid with working industrial light setups an absolute necessity for survival.
 *   **[Regions Unexplored](https://modrinth.com/mod/regions-unexplored)** – Overhauls the landscape with dark, dense, and bleak overworld biomes that blend seamlessly with the building blocks provided by *[Chipped](https://modrinth.com/mod/chipped)* and *[Rechiseled](https://modrinth.com/mod/rechiseled)*.
@@ -103,10 +103,10 @@ The world generation and audio design are overhauled to maximize isolation and p
 ---
 
 
-![A fancy text saying "Technical Framework & Performance" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/65c7fc2cd2a273f81a0206dc18406f00b10c431b.png)
+![A fancy text saying "Technical Framework & Performance" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/65c7fc2cd2a273f81a0206dc18406f00b10c431b.png)
 
 
-With performance in mind, I have gathered alot of optimization mods, enough to handle over 600 projects smoothly within a client-side environment *(unless ur playing on a potato, or well, v0.1.0 has 600+ mods so..)*:
+With performance in mind, I have gathered a lot of optimization mods, enough to handle over 600 projects smoothly within a client-side environment *(unless ur playing on a potato, or well, v0.1.0 has 600+ mods so..)*:
 
 <details>
 
@@ -125,7 +125,7 @@ With performance in mind, I have gathered alot of optimization mods, enough to h
 
 ### *Versions*
 
-Full modlist are dependant on the latest version of the modpack.
+Full modlist are dependent on the latest version of the modpack.
 Older versions are listed below and can also be found on my profile under "Collections".
 *   *As the modpack updates, I will link the individual versions below since mods etc will most likely be replaced and/or removed.*
 
@@ -144,7 +144,7 @@ Older versions are listed below and can also be found on my profile under "Colle
 ---
 
 
-![A fancy text saying "Credits & Disclaimer" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/4396a3223f79b5d00181ba31e406708c89decbee.png)
+![A fancy text saying "Credits & Disclaimer" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/4396a3223f79b5d00181ba31e406708c89decbee.png)
 
 
 
@@ -154,7 +154,7 @@ Older versions are listed below and can also be found on my profile under "Colle
 This is a huge modpack that I have mixed together, so most issues are just mod conflicts. 
 If a problem turns out to be a genuine bug with a specific mod, I will direct you to report it to the mod author.
 
-### ***Some mods are not available on modrinth and might have to be manually installed/updated***
+### ***Some mods are not available on Modrinth and might have to be manually installed/updated***
 *(Some of the mods are included in the pack, but some are not for the moment (licensing/permission reasons)).*
 
 <details>
@@ -167,9 +167,9 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 ---
 
 <details>
-<summary>**Mods that are not on modrinth** *(but are included in the modpack)*</summary>
+<summary>**Mods that are not on Modrinth** *(but are included in the modpack)*</summary>
 
-These mods are in the modpack but are not available for download on Modrinth, so you have to get them on curseforge *(or elsewhere)*
+These mods are in the modpack but are not available for download on Modrinth, so you have to get them on Curseforge *(or elsewhere)*
 
 *   [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 *   [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
@@ -183,7 +183,7 @@ These mods are in the modpack but are not available for download on Modrinth, so
 </details>
 
 
-The modpack is configured as we want it to be experienced but you are ofcourse allowed to make the changes you want. 
+The modpack is configured as we want it to be experienced but you are of course allowed to make the changes you want. 
 Any and all configurations are still available, and instructions on how to do so can be found on each respective mod page.
 
 ---
@@ -218,12 +218,15 @@ To be absolutely sure about how each mod operates and to secure your gameplay ex
 *Note: It will **NOT** turn off your PC, read personal files or brick your instance.
 
 ### ***Server Info***
-*   If you are planning to install this on a server, please note that there are several client-side mods *(like [unknown_file.jar](https://modrinth.com/mod/unknown_file.jar))* that need to be removed, or in some cases moved to the server-side directory, meaning you don't have to have them on your client, however this only applies to some mods like "server core". 
+*   If you are planning to install this on a server, please note that there are several client-side mods *(like [unknown_file.jar](https://modrinth.com/mod/unknown_file.jar))* that need to be removed, or in some cases moved to the server-side directory, meaning you don't have to have them on your client. 
+**However** this only applies to some mods like "[server core](https://modrinth.com/mod/servercore)".
+*Most* mods you do actually need to have client-side, but some break if they're on your client and on a server.
+
 
 More information regarding server setups will be provided in the future if there is enough interest in running this on servers
-*(I recommend looking through the mods yourself or use the modrinth launcher that has a filter where you can filter by "Environment" > "Singleplayer Only"/"Server-side Only")*.
+*(I recommend looking through the mods yourself or use the Modrinth launcher that has a filter where you can filter by "Environment" > "Singleplayer Only"/"Server-side Only")*.
 
-*   There are multiple recomended mods if you're playing with friends that can be found [here](https://modrinth.com/collection/aOz1DpbX) *(work in progress)*. 
+*   There are multiple recommended mods if you're playing with friends that can be found [here](https://modrinth.com/collection/aOz1DpbX) *(work in progress - not tested)*. 
 
 ---
 
