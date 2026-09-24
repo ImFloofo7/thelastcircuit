@@ -153,13 +153,22 @@ Older versions are listed below and can also be found on my profile under "Colle
 This is a huge modpack that I have mixed together, so most issues are just mod conflicts. 
 If a problem turns out to be a genuine bug with a specific mod, I will direct you to report it to the mod author.
 
-***Some mods are not available on modrinth and might have to be manually installed/updated***
-*(they will be a part of the modpack, but just a fyi).*
-
+### ***Some mods are not available on modrinth and might have to be manually installed/updated***
+*(Some of the mods are included in the pack, but some are not for the moment (licensing/permission reasons)).*
 
 <details>
 
 <summary>Mods that has to be updated/downloaded manually</summary>
+
+*   [Gabou Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)
+   *   *(as of version 0.1.0-alpha, I do not have the license to redistribute this mod, so you have to get this yourself and put it into the modpack.)*
+*   [Epic Fight x Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall) 
+   *   *(as of version 0.1.0-alpha, I do not have the license to redistribute this mod, so you have to get this yourself and put it into the modpack.)*
+</details>
+---
+
+<details>
+<summary>**Mods that are not on modrinth** *(but are included in the modpack)*</summary>
 
 *   [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 *   [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
@@ -167,15 +176,12 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 *   [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)
 *   [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
 *   [ProjectRed Core](https://www.curseforge.com/minecraft/mc-mods/project-red-core)
-*   [Epic Fight x Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall) 
-   *   *(as of version 0.1.0-alpha, I do not have the license to redistribute this mod, so you have to get this yourself and put it into the modpack.)*
 *   [Curios Compat x Epic Fight](https://www.curseforge.com/minecraft/mc-mods/epicfightcurioscompat)
-*   [Gabou Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)
-   *   *(as of version 0.1.0-alpha, I do not have the license to redistribute this mod, so you have to get this yourself and put it into the modpack.)*
 
 </details>
 
-The modpack is configured as I personally want it. 
+
+The modpack is configured as we want it to be experienced but you are ofcourse allowed to make the changes you want. 
 Any and all configurations are still available, and instructions on how to do so can be found on each respective mod page.
 
 ---
@@ -205,7 +211,7 @@ It is entirely safe and **does NOT contain malware**, but it can affect your gam
 To be absolutely sure about how each mod operates and to secure your gameplay experience, 
 **I highly recommend** going into the configuration menu *(or files)* before playing to manually toggle ON/OFF any mechanics you do not want. 
 
-*Please see each mods respective page for instructions on how to do so or create a ticket on my [Discord](https://discord.gg/mzeDux3Wpe) if you can't figure it out.*
+*Please see each mods respective page for instructions on how to do so or create a ticket on my [Discord](https://discord.gg/A3TFF6TqEU) if you can't figure it out.*
 *Note: It will **NOT** turn off your PC, read personal files or brick your instance.
 
 ### ***Server Info***
