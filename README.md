@@ -218,8 +218,8 @@ More information regarding server setups will be provided in the future if there
 
 ## **Credits:** 
 
-*   *I do ***NOT*** own any of the individual mods or libraries included in this package. 
-All credit, intellectual property rights, and appreciation go entirely to their respective creators and developers in the open-source community who made these amazing projects possible. *
+*   I do ***NOT*** own any of the individual mods or libraries included in this package. 
+*All credit, intellectual property rights, and appreciation go entirely to their respective creators and developers in the open-source community who made these amazing projects possible.* 
 
 *(You can find each respective creator on their individual mod page).*
 
