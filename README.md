@@ -10,7 +10,7 @@
 
 ---
 
-![A fancy text saying "Project purpose & Overview" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/3ae77e0987466c294a21a0b158b10aa36bd04861.png)
+![A fancy text saying "Project purpose & Overview" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/3ae77e0987466c294a21a0b158b10aa36bd04861.png)
 
 
 **The Last Circuit** is an industrial tech-horror and dark magic progression modpack built for **Minecraft 1.21.1 on the NeoForge loader**. 
@@ -21,7 +21,7 @@ Basically I always ended up playing a modified version of a pack until I was sat
 
 So, I decided to build something from scratch this time. 
 After watching a lot of **Minecraft Horror** content on various platforms *(shoutout @Claygamer2003 on TT)*. 
-I got really hooked on the idea of a modpack built around **TBS** *(The Broken Script)*, so I gathered all of my absolute favorite mods together and paired them with almost every horror and magic mod I could possibly find that would fit the theme.
+I got really hooked on the idea of a modpack built around **TBS** *(The Broken Script)*, so I gathered all of my absolute favorite mods together amd paired them with almost every horror and magic mod I could possibly find that would fit the theme.
 I decided to call the outcome "**The Last Circuit**" *(Idk, just felt appropriate tbh)*
 
 *   The main purpose of this project is to deliver a **challenging and atmospheric** survival experience where the world is actively corrupted by *"a broken script"* and stalking anomalies. 
@@ -29,7 +29,7 @@ Players cannot rely on standard vanilla gear; instead, the core gameplay loop fu
 
 ---
 
-![A fancy text saying "Key Functions & Included Content" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/0494359f9f42e8b4f26a1711c992856259922a06.png)
+![A fancy text saying "Key Functions & Included Content" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/0494359f9f42e8b4f26a1711c992856259922a06.png)
 
 
 Below are some "***core***" mods listed to give you a hint of what this modpack includes. 
@@ -47,12 +47,13 @@ Players can construct complex, multi-block factories and digital storage network
 
 
 <details>
-<summary>:arrow_forward: Heavy Industry, Logistics & Automation</summary>
+<summary>▶️Heavy Industry, Logistics & Automation</summary>
 
 *   **[Mekanism](https://modrinth.com/mod/mekanism) & [Mekanism Generators](https://modrinth.com/mod/mekanism)** – Used for advanced ore processing, chemical processing, and early-to-mid game power networks.
 *   **[Ender IO](https://modrinth.com/mod/enderio)** – Handles tight logistical management using compact, advanced item, fluid, and energy conduits.
 *   **[Extreme Reactors](https://modrinth.com/mod/extremereactors)** – Provides massive, customizable multi-block reactors to fuel high-tier late-game energy grids.
-*   **[Applied Energistics (AE2)](https://modrinth.com/mod/ae2)** – Offers full digital inventory control, auto-crafting capabilities, and gas/chemical integration via *Applied Mekanistics*.
+*   **[Applied Energistics (AE2)](https://modrinth.com/mod/ae2)** – Offers full digital inventory control, auto-crafting capabilities, and gas/chemical integration via *[Applied Mekanistics](https://modrinth.com/mod/applied-mekanistics)*.
+*   **[Refined Storage](https://modrinth.com/mod/refined-storage)
 *   **[Create](https://modrinth.com/mod/create)** & **Additions** – Integrates kinetic rotation force, power transformation, and extensive logistical transport using **[Threaded Trains](https://modrinth.com/mod/create-threaded-trains)** and **[Railways Navigator](https://modrinth.com/mod/create-railways-navigator)**.
 *   ***..and many more!***
 
@@ -62,17 +63,16 @@ Players can construct complex, multi-block factories and digital storage network
 ---
 
 
-![A fancy text saying "Weapons & TechMagic Crossovers" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/b27d581861d76a35e4b5150c202faf22e741a548.png)
+![A fancy text saying "Weapons & TechMagic Crossovers" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/b27d581861d76a35e4b5150c202faf22e741a548.png)
 
 
 To combat the stalking elements, the pack introduces high-tier automated defensive options and magical industrialization:
 
 <details>
-<summary>:arrow_forward: Weapons & TechMagic Crossovers</summary>
+<summary>▶️Weapons & TechMagic Crossovers</summary>
 
 
 *   **[TacZ](https://modrinth.com/mod/tacz-1.21.1)** – Adds fully animated, modular firearms.
-*   **[Create: Precise Manufacturing](https://modrinth.com/datapack/precise-manufacturing)** – Enables players to build factory lines dedicated entirely to automated firearm and ammunition mass production.
 *   **[Create: Big Cannons](https://modrinth.com/mod/create-big-cannons)** – Allows the construction of functional, large-scale defensive artillery for base perimeters.
 *   **[Ars Nouveau](https://modrinth.com/mod/ars-nouveau) & [Ars Creo](https://modrinth.com/mod/ars-creo)** – Implements a flexible, customizable spellcasting system that bridges directly into **[Create](https://modrinth.com/mod/create)** contraptions, automated logistics, and moving train platforms.
 *   ***..and many more!***
@@ -83,13 +83,13 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 ---
 
 
-![A fancy text saying "The Haunting, Survival & Enviroment" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/1be61a28b34203928555228cefc2c29a02a83c2c_0.webp)
+![A fancy text saying "The Haunting, Survival & Enviroment" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/1be61a28b34203928555228cefc2c29a02a83c2c_0.webp)
 
 
 The world generation and audio design are overhauled to maximize isolation and psychological terror:
 
 <details>
-<summary>:arrow_forward: Horror & Enviromental Mods</summary>
+<summary>▶️Horror & Enviromental Mods</summary>
 
 *   **[The Broken Script](https://modrinth.com/mod/the-broken-script) *(with add-on's)* & Stalkers** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like **[The Knocker](https://modrinth.com/mod/the-knocker)** and **[The Obsessed](https://modrinth.com/mod/obsessed)** actively stalk and terrorize the player's position.
 *   **[Server-Side Horror](https://modrinth.com/mod/server-side-horror) & [Sound Physics (remastered)](https://modrinth.com/mod/sound-physics-remastered)** – Adds dynamic echo localization and atmospheric scares that bounce realistically through factory pipes and walls.
@@ -103,17 +103,17 @@ The world generation and audio design are overhauled to maximize isolation and p
 ---
 
 
-![A fancy text saying "Technical Framework & Performance" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/65c7fc2cd2a273f81a0206dc18406f00b10c431b.png)
+![A fancy text saying "Technical Framework & Performance" with some nice background details around it to match the aestethics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/65c7fc2cd2a273f81a0206dc18406f00b10c431b.png)
 
 
-With performance in mind, I have gathered a lot of optimization mods, enough to handle over 600 projects smoothly within a client-side environment *(unless ur playing on a potato, or well, v0.1.0 has 600+ mods so..)*:
+With performance in mind, I have gathered alot of optimization mods, enough to handle over 600 projects smoothly within a client-side environment *(unless ur playing on a potato, or well, v0.1.0 has 600+ mods so..)*:
 
 <details>
 
-<summary>:arrow_forward: QoL & Optimization Mods</summary>
+<summary>▶️QoL & Optimization Mods</summary>
 
 *   **Rendering & Optimization** – Uses **[Sodium](https://modrinth.com/mod/sodium)** and **[Iris Shaders](https://modrinth.com/mod/iris)** alongside **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** for extended level-of-detail rendering over massive distances without sacrificing frame rates. *(When using shaders, make sure you're using a shader that has support for DH, otherwise DH won't render when Iris Shaders is active)*
-*   **Stability Libraries** – Utilizes core dependencies such as *[Melody](https://modrinth.com/mod/melody), [Bookshelf](https://modrinth.com/mod/bookshelf), [GlitchCore](https://modrinth.com/mod/glitchcore), [TerraBlender](https://modrinth.com/mod/terrablender), [Indium](https://modrinth.com/mod/indium), [Patchouli](https://modrinth.com/mod/patchouli),* and *[GeckoLib](https://modrinth.com/mod/geckolib)* to ensure cross-mod functionality and prevent crash loops.
+*   **Stability Libraries** – Utilizes core dependencies such as *[Melody](https://modrinth.com/mod/melody), [Bookshelf](https://modrinth.com/mod/bookshelf), [GlitchCore](https://modrinth.com/mod/glitchcore), [TerraBlender](https://modrinth.com/mod/terrablender), [Indium](https://modrinth.com/mod/indium), [Patchouli](https://modrinth.com/mod/patchouli),* and *GeckoLib* to ensure cross-mod functionality and prevent crash loops.
 *   **Recipe & Material Unity** – Implements **[Roughly Enough Items (REI)](https://modrinth.com/mod/rei)** for comprehensive recipe viewing, and **[Almost Unified](https://modrinth.com/mod/almostunified)** to merge duplicate ores (Copper, Tin, Iron) from different tech mods into single, functional item IDs.
 *   ***..and many more!***
 
@@ -133,7 +133,7 @@ Older versions are listed below and can also be found on my profile under "Colle
 
 <details>
 
-<summary>:arrow_forward: Versions</summary>
+<summary>▶️Versions</summary>
 
 [Beta v0.1.0](https://modrinth.com/collection/VgaTeepe)
 
@@ -159,7 +159,7 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 
 <details>
 
-<summary>:arrow_forward: Mods that has to be updated/downloaded manually</summary>
+<summary>Mods that has to be updated/downloaded manually</summary>
 
 *   [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 *   [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
@@ -169,6 +169,7 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 *   [ProjectRed Core](https://www.curseforge.com/minecraft/mc-mods/project-red-core)
 *   [Epic Fight x Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)
 *   [Curios Compat x Epic Fight](https://www.curseforge.com/minecraft/mc-mods/epicfightcurioscompat)
+*   [Gabou Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)
 
 </details>
 
