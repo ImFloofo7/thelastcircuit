@@ -127,9 +127,9 @@ With performance in mind, I have gathered alot of optimization mods, enough to h
 
 Full modlist are dependant on the latest version of the modpack.
 Older versions are listed below and can also be found on my profile under "Collections".
-*   *As the modpack updates, I will link the individual versions below since mods etc will most likeley be replaced and/or removed.*
+*   *As the modpack updates, I will link the individual versions below since mods etc will most likely be replaced and/or removed.*
 
-
+## [Modrinth Page](https://modrinth.com/project/the-last-circuit)
 
 <details>
 
