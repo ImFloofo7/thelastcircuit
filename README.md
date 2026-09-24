@@ -1,4 +1,4 @@
-![A banner containing "The Last Circuit" official logo aswell as a fancy background symbolizing the clas between "TechMagic & Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
+![A banner containing "The Last Circuit" official logo aswell as a fancy background symbolizing the clas between "TechMagic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
 
 
 ***Anomalies are twisting the world and your only shot at survival is to master both advanced engineering and ancient sorcery.***
