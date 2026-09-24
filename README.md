@@ -167,9 +167,11 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 *   [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)
 *   [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
 *   [ProjectRed Core](https://www.curseforge.com/minecraft/mc-mods/project-red-core)
-*   [Epic Fight x Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)
+*   [Epic Fight x Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall) 
+   *   *(as of version 0.1.0-alpha, I do not have the license to redistribute this mod, so you have to get this yourself and put it into the modpack.)*
 *   [Curios Compat x Epic Fight](https://www.curseforge.com/minecraft/mc-mods/epicfightcurioscompat)
 *   [Gabou Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)
+   *   *(as of version 0.1.0-alpha, I do not have the license to redistribute this mod, so you have to get this yourself and put it into the modpack.)*
 
 </details>
 
