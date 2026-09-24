@@ -161,8 +161,6 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 
 <summary>Mods that has to be updated/downloaded manually</summary>
 
-*   [Gabou Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)
-   *   *(as of version 0.1.0-alpha, I do not have the license to redistribute this mod, so you have to get this yourself and put it into the modpack.)*
 *   [Epic Fight x Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall) 
    *   *(as of version 0.1.0-alpha, I do not have the license to redistribute this mod, so you have to get this yourself and put it into the modpack.)*
 </details>
@@ -171,6 +169,8 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 <details>
 <summary>**Mods that are not on modrinth** *(but are included in the modpack)*</summary>
 
+These mods are in the modpack but are not available for download on Modrinth, so you have to get them on curseforge *(or elsewhere)*
+
 *   [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 *   [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
 *   [Forgified](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api)
@@ -178,6 +178,7 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 *   [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
 *   [ProjectRed Core](https://www.curseforge.com/minecraft/mc-mods/project-red-core)
 *   [Curios Compat x Epic Fight](https://www.curseforge.com/minecraft/mc-mods/epicfightcurioscompat)
+*   [Gabou Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)
 
 </details>
 
@@ -217,7 +218,7 @@ To be absolutely sure about how each mod operates and to secure your gameplay ex
 *Note: It will **NOT** turn off your PC, read personal files or brick your instance.
 
 ### ***Server Info***
-*   If you are planning to install this on a server, please note that there are several client-side mods *(like [unknown_file.jar](https://modrinth.com/mod/unknown_file.jar))* that need to be removed, or in some cases moved to the server-side directory, meaning you don't have to have them on your client instance. 
+*   If you are planning to install this on a server, please note that there are several client-side mods *(like [unknown_file.jar](https://modrinth.com/mod/unknown_file.jar))* that need to be removed, or in some cases moved to the server-side directory, meaning you don't have to have them on your client, however this only applies to some mods like "server core". 
 
 More information regarding server setups will be provided in the future if there is enough interest in running this on servers
 *(I recommend looking through the mods yourself or use the modrinth launcher that has a filter where you can filter by "Environment" > "Singleplayer Only"/"Server-side Only")*.
