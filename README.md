@@ -1,3 +1,24 @@
+Before you get to read about this modpack I just have a few words..
+
+As of the initial [v0.1.1](https://modrinth.com/modpack/the-last-circuit/version/0.1.1-alpha-r.dev) release I got a bunch of hate on various platforms, for many different things.
+
+Let me be very clear on something - 
+
+**"AI SLOP"**
+*   Art is made by me, in Gimp and Krita. *(I did ask an AI to enhance it by removing rough edges and blend it together a bit more)*
+**Nah, by the looks of it, doesn't seem like you put any effort into it. Can't endorse it. **
+*   As of the time writing this, I have poured 2 weeks of my time into art, configuring and making it even run. All by myself.
+
+There were a lot more comments, but these two were repeated.
+
+I have not yet done a ton of config or implemented much but this is in Alpha.
+There is still alot left to do and so many things I want, and will implement.
+
+This is far from finished, but it will be finished.
+I promise ya'll that.
+
+---
+
 ![A banner containing "The Last Circuit" official logo as well as a fancy background symbolizing the clash between "TechMagic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
 
 
