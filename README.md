@@ -7,7 +7,7 @@ Let me be very clear on something -
 **"AI SLOP"**
 *   Art is made by me, in Gimp and Krita. *(I did ask an AI to enhance it by removing rough edges and blend it together a bit more)*
 
-**Nah, by the looks of it, doesn't seem like you put any effort into it. Can't endorse it. **
+**"Nah, by the looks of it, doesn't seem like you put any effort into it. Can't endorse it."**
 *   As of the time writing this, I have poured 2 weeks of my time into art, configuring and making it even run. All by myself.
 
 There were a lot more comments, but these two were repeated.
