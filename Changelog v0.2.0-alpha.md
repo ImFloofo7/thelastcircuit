@@ -43,7 +43,7 @@ If the game layout resets or doesn't load them automatically on your first boot,
 
 * **Updated:**
      *   **CITResewnPatcher** -> Updated from Fabric version *(ran with Sinytra Connector)* to [NeoForge version](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)
-     *   [**AE2 Growth Accelerator Tiers](https://www.curseforge.com/minecraft/mc-mods/ae2-growth-accelerators)** -> Updated to `AGA Neo 1.21.1 2.2.0`
+     *   **[AE2 Growth Accelerator Tiers](https://www.curseforge.com/minecraft/mc-mods/ae2-growth-accelerators)** -> Updated to `AGA Neo 1.21.1 2.2.0`
      *   **Applied Pneumatics** -> Updated from `1.0.8` to `1.0.9`
      *   **Ars QOL** -> Updated from `1.0.0` to `1.1.0`
      *   **AutoEMC** -> Updated from `2.1.0` to `2.1.1`
