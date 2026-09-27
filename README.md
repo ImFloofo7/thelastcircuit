@@ -1,3 +1,5 @@
+# Before you start your journey.. 
+
 When I released the initial [v0.1.1-alpha-r.dev](https://modrinth.com/modpack/the-last-circuit/version/0.1.1-alpha-r.dev), I got a **bunch** of hate on various platforms, for many different things and I writing this to clarify some things. 
 
 
