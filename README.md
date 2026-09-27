@@ -1,28 +1,29 @@
-Before you get to read about this modpack I just have a few words..
+When I released the initial [v0.1.1-alpha-r.dev](https://modrinth.com/modpack/the-last-circuit/version/0.1.1-alpha-r.dev), I got a **bunch** of hate on various platforms, for many different things and I writing this to clarify some things. 
 
-As of the initial [v0.1.1](https://modrinth.com/modpack/the-last-circuit/version/0.1.1-alpha-r.dev) release I got a bunch of hate on various platforms, for many different things.
 
-Let me be very clear on something - 
+### **"AI SLOP"**
+*   Art is made by me, in [Gimp](https://www.gimp.org/) and [Krita](https://krita.org/sv/).    
+*(I did ask an AI to enhance it by removing rough edges and blend it together a bit more, hence the "AI feel" I guess..)*
 
-**"AI SLOP"**
-*   Art is made by me, in Gimp and Krita. *(I did ask an AI to enhance it by removing rough edges and blend it together a bit more)*
+### **"Nah, by the looks of it, doesn't seem like you put any effort into it. Can't endorse it."**
+*   As of the time writing this, I have poured 2 weeks of my time into art, configuring and making it even run. All by myself.   
+Which might make you think *"Oh but that's not so hard, just throw them together and play"*.   
+I'll tell you right now, *in **most** cases* putting together something with 600+ mods *(v0.1.0)* and make it run flawlessly, it's not easy. Even if something says it's compatible or no listings of incompatible mods, it still might when you throw so many mods together.
 
-**"Nah, by the looks of it, doesn't seem like you put any effort into it. Can't endorse it."**
-*   As of the time writing this, I have poured 2 weeks of my time into art, configuring and making it even run. All by myself.
-
-There were a lot more comments, but these two were repeated.
-
-I have not yet done a ton of config or implemented much but please do remember that this is still in **Alpha**.
-There is still a lot left to do and so many things I want, and will implement.
-
+Anyway, there were a lot more comments, but these two were repeated *(in different manners)*.   
+And no, I have not yet done a ton of config or implemented much in the way of uniqueness, but let me remind you, this is in Alpha.
 This is far from finished, but it will be finished.
-I promise you all that.
-It might just take some time because I am for the moment alone 
+
+There is still a lot left to do and so many things I want, and will implement - features, improvements and uniqueness.
+### I **promise** you all that.   
+*(Though it mike take a sec because I am at the time of writing this the only one working on it).*
+
+*(if you want to contribute to the project in anyway, please join our [Discord](https://discord.gg/A3TFF6TqEU) and open a ticket)*
 
 
 ---
 
-![A banner containing "The Last Circuit" official logo as well as a fancy background symbolizing the clash between "TechMagic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
+![A banner containing "The Last Circuit" official logo as well as a fancy background symbolizing the clash between "Tech & Magic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
 
 
 ***Anomalies are twisting the world and your only shot at survival is to master both advanced engineering and ancient sorcery.***
@@ -77,7 +78,7 @@ Players can construct complex, multi-block factories and digital storage network
 *   **[Ender IO](https://modrinth.com/mod/enderio)** – Handles tight logistical management using compact, advanced item, fluid, and energy conduits.
 *   **[Extreme Reactors](https://modrinth.com/mod/extremereactors)** – Provides massive, customizable multi-block reactors to fuel high-tier late-game energy grids.
 *   **[Applied Energistics (AE2)](https://modrinth.com/mod/ae2)** – Offers full digital inventory control, auto-crafting capabilities, and gas/chemical integration via *[Applied Mekanistics](https://modrinth.com/mod/applied-mekanistics)*.
-*   **[Refined Storage](https://modrinth.com/mod/refined-storage)
+*   **[Refined Storage](https://modrinth.com/mod/refined-storage)**
 *   **[Create](https://modrinth.com/mod/create)** & **Additions** – Integrates kinetic rotation force, power transformation, and extensive logistical transport using **[Threaded Trains](https://modrinth.com/mod/create-threaded-trains)** and **[Railways Navigator](https://modrinth.com/mod/create-railways-navigator)**.
 *   ***..and many more!***
 
@@ -130,7 +131,8 @@ The world generation and audio design are overhauled to maximize isolation and p
 ![A fancy text saying "Technical Framework & Performance" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/65c7fc2cd2a273f81a0206dc18406f00b10c431b.png)
 
 
-With performance in mind, I have gathered a lot of optimization mods, enough to handle over 600 projects smoothly within a client-side environment *(unless ur playing on a potato, or well, v0.1.0 has 600+ mods so..)*:
+With performance in mind, I have gathered a lot of optimization mods, enough to handle over 600+ mods smoothly within a client-side environment 
+*(unless you're playing on a potato..)*:
 
 <details>
 
@@ -153,14 +155,18 @@ Full modlist are dependent on the latest version of the modpack.
 Older versions are listed below and can also be found on my profile under "Collections".
 *   *As the modpack updates, I will link the individual versions below since mods etc will most likely be replaced and/or removed.*
 
-## [Modrinth Page](https://modrinth.com/project/the-last-circuit)
+## [CurseForge Page](www.curseforge.com/minecraft/modpacks/the-last-circuit)
 
 <details>
 
-<summary>▶️Versions</summary>
+<summary>▶️Changelogs</summary>
 
-[v0.1.1-Alpha-r.dev](https://modrinth.com/collection/VgaTeepe)
-[v0.1.0-Alpha]([https://modrinth.com/collection/VgaTeepe](https://modrinth.com/modpack/the-last-circuit/version/0.1.0-alpha)) *(not available right now)*
+***Note that versions above "v0.1.0-Alpha" does NOT link to a collection***
+*(They link to the changelogs where everything is mentioned. I decided to do it this way instead to save time and minimize clutter and the pain of having to update the collections for each version, which takes forever because there are so many mods).*
+
+* **v0.2.0-Alpha** ***(coming soon)***
+* **v0.1.1-Alpha-r.dev - v0.1.9** *(skipped upload)*
+* **[v0.1.0-Alpha](https://modrinth.com/collection/VgaTeepe)**
 
 </details>
 
@@ -185,27 +191,13 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 
 <summary>Mods that has to be updated/downloaded manually</summary>
 
-*   [Epic Fight x Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall) 
-   *   *(as of version 0.1.0-alpha, I do not have the license to redistribute this mod, so you have to get this yourself and put it into the modpack.)*
-</details>
----
+Since switching to CurseForge for Alpha v.0.2.0, there are a decent amount of mods not available for "quick update".
+Therefore, I strongly recommend leaving the mods in the modpack as is, until full modpack updates are released.
 
-<details>
-<summary>Mods that are not on Modrinth</summary>
-
-These mods **are** in the modpack but are not available for download on Modrinth, so you have to get them on CurseForge *(or elsewhere)*
-
-*   [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
-*   [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
-*   [Forgified](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api)
-*   [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)
-*   [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
-*   [ProjectRed Core](https://www.curseforge.com/minecraft/mc-mods/project-red-core)
-*   [Curios Compat x Epic Fight](https://www.curseforge.com/minecraft/mc-mods/epicfightcurioscompat)
-*   [Gabou Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)
+* *(If you don't want to wait and still want to update the mods manually, you will have to look up newer versions not available on CurseForge yourself on Modrinth or elsewhere, though I cannot guarantee compatibility and do I will also **NOT** assist in troubleshooting).*
+     *   *If you do find bugs with newer versions, it is highly appreciated if you would share them in the discord or here on GitHub under "[issues](https://github.com/ImFloofo7/thelastcircuit/issues)"*
 
 </details>
-
 
 The modpack is configured as we want it to be experienced but you are of course allowed to make the changes you want. 
 Any and all configurations are still available, and instructions on how to do so can be found on each respective mod page.
@@ -259,7 +251,16 @@ More information regarding server setups will be provided in the future if there
 *   I do ***NOT*** own any of the individual mods or libraries included in this package. 
 *All credit, intellectual property rights, and appreciation go entirely to their respective creators and developers in the open-source community who made these amazing projects possible.* 
 
+## **Special thanks:**
+
+Special thanks to:
+* [Gaboouu](https://github.com/xGabou) 
+* ["Super_awespme_baby"](https://www.curseforge.com/members/super_awesome_baby)
+for giving me permission to use their mods, permissions can be found on my [GitHub](https://github.com/ImFloofo7/thelastcircuit).
+
 *(You can find each respective creator on their individual mod page).*
 
+## ***This modpack is created solely for gameplay distribution purposes.***
+***
 ## ***This modpack is created solely for gameplay distribution purposes.***
 ***
