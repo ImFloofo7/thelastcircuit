@@ -39,26 +39,27 @@ There is still a lot left to do and so many things I want, and will implement - 
 
 **The Last Circuit** is an industrial tech-horror and dark magic progression modpack built for **Minecraft 1.21.1 on the NeoForge loader**. 
 
+*   The main purpose of this project is to deliver a **challenging and atmospheric** survival experience where the world is actively corrupted by *"a broken script"* and stalking anomalies. 
+Players cannot rely on standard vanilla gear; instead, the core gameplay loop functions as a race against the dark, forcing players to advance technologically and master ancient sorcery to build a highly automated, fortified sanctuary capable of holding back the entities that lurk in the dark.
+
 *   Inspired by many years of playing Minecraft, including heavily modded setups, I wanted to try something new. 
 I've played many different premade modpacks over the years, but always felt like something was missing—whether it was specific features like elevators or just a bit more ambience, sometimes something really "*dumb*" like [Appleskin](https://modrinth.com/mod/appleskin).
 Basically I always ended up playing a modified version of a pack until I was satisfied. 
 
 So, I decided to build something from scratch this time. 
-After watching a lot of **Minecraft Horror** content on various platforms *(shoutout @Claygamer2003 on TT)*. 
-I got really hooked on the idea of a modpack built around **TBS** *(The Broken Script)*, so I gathered most of of my absolute favorite mods together and paired them with the majority of horror and magic mods I could possibly find that would fit the theme.
-I decided to call the outcome "**The Last Circuit**" *(Idk, just felt appropriate tbh)*
+After watching a lot of **Minecraft Horror** content on various platforms *(shoutout [@Claygamer2003 on TikTok](https://www.tiktok.com/@claygamer2003))*. 
 
-*   The main purpose of this project is to deliver a **challenging and atmospheric** survival experience where the world is actively corrupted by *"a broken script"* and stalking anomalies. 
-Players cannot rely on standard vanilla gear; instead, the core gameplay loop functions as a race against the dark, forcing players to advance technologically and master ancient sorcery to build a highly automated, fortified sanctuary capable of holding back the entities that lurk in the dark.
+I got really hooked on the idea of a modpack built around **TBS** *(The Broken Script)*, so I gathered most of of my absolute favorite mods together and paired them with the majority of horror and magic mods I could possibly find that would fit the theme.
+
+I decided to call the outcome "**The Last Circuit**" *(Idk, just felt appropriate tbh)*
 
 ---
 
 ![A fancy text saying "Key Functions & Included Content" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/0494359f9f42e8b4f26a1711c992856259922a06.png)
 
 
-Below are some "***core***" mods listed to give you a hint of what this modpack includes. 
-
-*(if you wish to look through the full modlist, each version specific one can be found further down the page)* 
+Below are some "***core***" mods listed to give you a hint of what this modpack has to offer.   
+*(if you wish to look through the full modlist *(for the latest version)*, look it up on CurseForge or you will have to check each version specific link under **[versions](https://github.com/ImFloofo7/thelastcircuit/blob/main/README.md#versions)**)* 
 
 ---
 
@@ -71,12 +72,12 @@ Players can construct complex, multi-block factories and digital storage network
 <details>
 <summary>▶️Heavy Industry, Logistics & Automation</summary>
 
-*   **[Mekanism](https://modrinth.com/mod/mekanism) & [Mekanism Generators](https://modrinth.com/mod/mekanism)** – Used for advanced ore processing, chemical processing, and early-to-mid game power networks.
-*   **[Ender IO](https://modrinth.com/mod/enderio)** – Handles tight logistical management using compact, advanced item, fluid, and energy conduits.
-*   **[Extreme Reactors](https://modrinth.com/mod/extremereactors)** – Provides massive, customizable multi-block reactors to fuel high-tier late-game energy grids.
 *   **[Applied Energistics (AE2)](https://modrinth.com/mod/ae2)** – Offers full digital inventory control, auto-crafting capabilities, and gas/chemical integration via *[Applied Mekanistics](https://modrinth.com/mod/applied-mekanistics)*.
 *   **[Refined Storage](https://modrinth.com/mod/refined-storage)**
-*   **[Create](https://modrinth.com/mod/create)** & **Additions** – Integrates kinetic rotation force, power transformation, and extensive logistical transport using **[Threaded Trains](https://modrinth.com/mod/create-threaded-trains)** and **[Railways Navigator](https://modrinth.com/mod/create-railways-navigator)**.
+*   **[Mekanism](https://modrinth.com/mod/mekanism)** *+ [Mekanism Generators](https://modrinth.com/mod/mekanism) & [Mekanism Tools](https://modrinth.com/mod/mekanism-tools)* – Used for advanced ore processing, chemical processing, and early-to-mid game power networks.
+*   **[Ender IO](https://modrinth.com/mod/enderio)** – Handles tight logistical management using compact, advanced item, fluid, and energy conduits.
+*   **[Extreme Reactors](https://modrinth.com/mod/extremereactors)** – Provides massive, customizable multi-block reactors to fuel high-tier late-game energy grids.
+*   **[Create](https://modrinth.com/mod/create)** & **Additions** – Integrates kinetic rotation force, power transformation, and extensive logistical transport using **[Threaded Trains](https://modrinth.com/mod/create-threaded-trains)** & **[Railways Navigator](https://modrinth.com/mod/create-railways-navigator)**.
 *   ***..and many more!***
 
 </details>
@@ -138,9 +139,7 @@ With performance in mind, I have gathered a lot of optimization mods, enough to 
 
 </details>
 
-
 ---
-
 
 ### *Versions*
 
