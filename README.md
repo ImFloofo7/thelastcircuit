@@ -95,7 +95,7 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 
 *   **[TacZ](https://modrinth.com/mod/tacz-1.21.1)** – Adds fully animated, modular firearms.
 *   **[Create: Big Cannons](https://modrinth.com/mod/create-big-cannons)** – Allows the construction of functional, large-scale defensive artillery for base perimeters.
-*   **[Ars Nouveau](https://modrinth.com/mod/ars-nouveau) & [Ars Creo](https://modrinth.com/mod/ars-creo)** – Implements a flexible, customizable spellcasting system that bridges directly into **[Create](https://modrinth.com/mod/create)** contraptions, automated logistics, and moving train platforms.
+*   **[Ars Nouveau](https://modrinth.com/mod/ars-nouveau)** *+ [Ars Creo](https://modrinth.com/mod/ars-creo)* – Implements a flexible, customizable spellcasting system, and also bridges directly into *[Create](https://modrinth.com/mod/create)* contraptions, automated logistics, and moving train platforms.
 *   ***..and many more!***
 
 </details>
@@ -110,8 +110,9 @@ The world generation and audio design are overhauled to maximize isolation and p
 <details>
 <summary>▶️Horror & Enviromental Mods</summary>
 
-*   **[The Broken Script](https://modrinth.com/mod/the-broken-script) *(with add-ons)* & Stalkers** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like **[The Knocker](https://modrinth.com/mod/the-knocker)** and **[The Obsessed](https://modrinth.com/mod/obsessed)** actively stalk and terrorize the player's position.
-*   **[Server-Side Horror](https://modrinth.com/mod/server-side-horror) & [Sound Physics (remastered)](https://modrinth.com/mod/sound-physics-remastered)** – Adds dynamic echo localization and atmospheric scares that bounce realistically through factory pipes and walls.
+*   **[The Broken Script](https://modrinth.com/mod/the-broken-script)** *(with add-ons)* & **Stalkers** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like *[The Knocker](https://modrinth.com/mod/the-knocker)* and *[The Obsessed](https://modrinth.com/mod/obsessed)* actively stalk and terrorize the player's position.
+*   **[Server-Side Horror](https://modrinth.com/mod/server-side-horror)** & **[Sound Physics (remastered)](https://modrinth.com/mod/sound-physics-remastered)** – Adds dynamic echo localization and atmospheric scares that bounce realistically through factory pipes and walls.
+     *   *Future plan is to make custom sounds so stay tuned for that*
 *   **[True Darkness (Biomes)](https://modrinth.com/mod/true-darkness-biomes)** – Enforces pitch-black environments, making an established, automated power grid with working industrial light setups an absolute necessity for survival.
 *   **[Regions Unexplored](https://modrinth.com/mod/regions-unexplored)** – Overhauls the landscape with dark, dense, and bleak overworld biomes that blend seamlessly with the building blocks provided by *[Chipped](https://modrinth.com/mod/chipped)* and *[Rechiseled](https://modrinth.com/mod/rechiseled)*.
 *   ***..and many more!***
@@ -132,9 +133,10 @@ With performance in mind, I have gathered a lot of optimization mods, enough to 
 
 <summary>▶️QoL & Optimization Mods</summary>
 
-*   **Rendering & Optimization** – Uses **[Sodium](https://modrinth.com/mod/sodium)** and **[Iris Shaders](https://modrinth.com/mod/iris)** alongside **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** for extended level-of-detail rendering over massive distances without sacrificing frame rates. *(When using shaders, make sure you're using a shader that has support for DH, otherwise DH won't render when Iris Shaders is active)*
-*   **Stability Libraries** – Utilizes core dependencies such as *[Melody](https://modrinth.com/mod/melody), [Bookshelf](https://modrinth.com/mod/bookshelf), [GlitchCore](https://modrinth.com/mod/glitchcore), [TerraBlender](https://modrinth.com/mod/terrablender), [Indium](https://modrinth.com/mod/indium), [Patchouli](https://modrinth.com/mod/patchouli),* and *GeckoLib* to ensure cross-mod functionality and prevent crash loops.
-*   **Recipe & Material Unity** – Implements **[Roughly Enough Items (REI)](https://modrinth.com/mod/rei)** for comprehensive recipe viewing, and **[Almost Unified](https://modrinth.com/mod/almostunified)** to merge duplicate ores (Copper, Tin, Iron) from different tech mods into single, functional item IDs.
+*   **Rendering & Optimization** – Uses **[Sodium](https://modrinth.com/mod/sodium)** and **[Iris Shaders](https://modrinth.com/mod/iris)** alongside **[Voxy](https://github.com/m3t4f1v3/voxy/tree/mc_1211)** for extended level-of-detail rendering over massive distances without sacrificing frame rates.    
+~~*(When using shaders, make sure you're using a shader that has support for DH, otherwise DH won't render when Iris Shaders is active)*~~ *(fixed in v0.2.0 and up thanks to **"[FixSodiumShaderLoader](https://github.com/coco875/Fix-sodium-ShaderLoader)"** and switching to **Voxy** instead of [Distant Horizons](https://modrinth.com/mod/distanthorizons)).*
+*   **Stability Libraries** – Utilizes core dependencies such as *[Melody](https://modrinth.com/mod/melody), [Bookshelf](https://modrinth.com/mod/bookshelf), [GlitchCore](https://modrinth.com/mod/glitchcore), [TerraBlender](https://modrinth.com/mod/terrablender), [Indium](https://modrinth.com/mod/indium), [Patchouli](https://modrinth.com/mod/patchouli),* and *[GeckoLib](https://modrinth.com/mod/geckolib)* to ensure cross-mod functionality and prevent crash loops.
+*   **Recipe & Material Unity** – Implements **[Roughly Enough Items (REI)](https://modrinth.com/mod/rei)** for comprehensive recipe viewing, and **[Almost Unified](https://modrinth.com/mod/almostunified)** to merge duplicate ores *(i.e. Copper, Tin, Iron)* from different tech mods into single, functional item IDs.
 *   ***..and many more!***
 
 </details>
@@ -157,7 +159,7 @@ Older versions are listed below and can also be found on my profile under "Colle
 *(They link to the changelogs where everything is mentioned. I decided to do it this way instead to save time and minimize clutter and the pain of having to update the collections for each version, which takes forever because there are so many mods).*
 
 * **v0.2.0-Alpha** ***(coming soon)***
-* **v0.1.1-Alpha-r.dev - v0.1.9** *(skipped upload)*
+* **v0.1.1-Alpha-r.dev** ⏩ **v0.1.9-r.dev** *(skipped upload, for many reasons)*
 * **[v0.1.0-Alpha](https://modrinth.com/collection/VgaTeepe)**
 
 </details>
