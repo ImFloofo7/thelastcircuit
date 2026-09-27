@@ -18,9 +18,9 @@ In the requirements of getting permission for said mods were to publish on Curse
 ---
 
 ## ⚙️ Optimizations & Fixes
-* **Cleaned Up Glass Codes:** Fixed fatal JSON metadata boot errors (`No key pack_format`) hidden inside the customized resource packs.
+* **Cleaned Up Glass Codes:** Fixed fatal JSON metadata boot errors *("`No key pack_format`")* hidden inside the customized resource packs.
 * **Launch Performance:** Fixed early launch loading stalls and graphics adapter workarounds by purging legacy translation caches.
-* **Engine Optimizations:** Enhanced thread prioritization and sub-millisecond memory cleanups (`ZGC`) to completely eliminate cyclic lag spikes in heavy factory zones.
+* **Engine Optimizations:** Enhanced thread prioritization and sub-millisecond memory cleanups *("`ZGC`")* to completely eliminate cyclic lag spikes in heavy factory zones.
 
 ---
 
@@ -30,10 +30,14 @@ To make things as seamless as possible for alpha testing, a massive overhaul has
 
 If the game layout resets or doesn't load them automatically on your first boot, simply move them into the active (`Selected`) column and stack them following their prefix indices:
 
-1. **👑 UI, Fonts & Fixes (Absolute Top):** Everything starting with `.4.1.x` - Activates the true dark interface overlays, custom tooltips, and hotbar boundaries.
-2. **🧬 Custom Models & Entities:** Everything starting with `.3.2.x` - Loads the main Fresh Animations core engine first, followed directly by its official extensions (`FA+`) and third-party entity compatibility patches.
-3. **⚔️ Mod Add-ons & Patches:** Everything starting with `.2.1.x` - Specific compatibility patches linking modified tech blocks and specialized item actions (like Eating Animations).
-4. **🧱 Base / Overhaul Texture Packs (Absolute Bottom):** Everything starting with `.1.1.x` - The high-resolution Faithful 64x base models forming the foundational textures of the entire world.
+1. **🧱 Base Overhauls & Block Models (`0.1.1` > `0.1.9`):** Forms the core foundation of your world. This initiates the main Faithful 64x overhaul, custom 3D crops, connected flower pots, seamless ore glows, and base block textures.
+2. **🧬 Fresh Animations Core & Extensions (`1.2.10` > `1.2.19`):** Loads the fundamental resource frameworks first, followed directly by the core Fresh Animations engine, official extensions (`FA+`), and custom entity additions (like Drodi's Villagers).
+3. **⚔️ Combat, Item & Creature Compatibility (`1.3.20` > `1.3.27`):** Integrates specialized creature compatibility patches (`x FA`) cleanly over the core models. Player combat modifications, weapon shapes, and item action dependencies (like Eating Animations) load right alongside them to prevent visual clipping.
+4. **⚙️ Mod Gränssnitt & Dark Expansions (`2.1.1` > `2.1.9`):** Loads the specialized dark theme configurations for major technology and automation mods (Create, Mekanism, Refined Storage etc.).
+5. **🗺️ Maps, Icons & Minimap Fixes (`3.1.1` > `3.1.4`):** Integrates customized map stylings, Excalibur alignment profiles, and icon patches cleanly over the engine layer.
+6. **👑 UI, Fonts, and Core Fixes (`5.1.8` > `6.1.1` - Absolute Top):** Highest loading priority. Activates the custom container shadings, font overhauls (Der's Shaded Font), and global Sodium translation patches over all active asset arrays.
+
+### Starting with 0,1,1 being at the bottom.
 
 ---
 
@@ -150,6 +154,10 @@ Due to incompatibilities, change of vision and more, we've decided to remove the
 
 ---
 
+# Known Issues:
+**[Here](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/troubleshooting%20and%20knows%20issues.md)** you can find known issues regarding this version and on how to fix *most* of them
+
+---
 ##⚠️ IMPORTANT DISCLAIMER (Please Read)
 This release marks our definitive transition to the CurseForge architecture.    
 ***Ensure your old Modrinth profiles are fully backup-archived before deploying this package***.    
