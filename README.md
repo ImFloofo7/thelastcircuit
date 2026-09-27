@@ -20,6 +20,8 @@ There is still a lot left to do and so many things I want, and will implement - 
 
 *(if you want to contribute to the project in anyway, please join our [Discord](https://discord.gg/A3TFF6TqEU) and open a ticket)*
 
+*(this message will be removed after **v1.0.x**)*
+
 ---
 
 ![A banner containing "The Last Circuit" official logo as well as a fancy background symbolizing the clash between "Tech & Magic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
