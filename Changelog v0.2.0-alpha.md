@@ -131,15 +131,11 @@ Due to incompatibilities, change of vision and more, we've decided to remove the
 * **Remove Loading Screen (Removed):** The mod `[Remove loading screen](https://modrinth.com)` has been permanently removed from the pack *(removed in v0.1.2-alpha-r.dev)*, as it is **completely** incompatible with our 
 <details>
 <summary>upcoming..</summary>
-
      * **[Fancy Menu](https://modrinth.com)** UI setup.
           * Fully customized main menu, "ESC" menu, video settings, audio settings etc.
-
      * **Drippy Loading Screen**
           * Fully customized loading screen
-          
      * **Fully customized music in menus**
-     
 </details>
     *   **Applied KubeJS (`applied_kjs`):** Removed due to script conflicts with newer technical asset loaders.
     *   **Create Blocks & Bogies (create_bb):**Extracted to preserve clean schematic layouts in custom factory builds.
