@@ -184,8 +184,7 @@ Older versions are listed below and can also be found on my profile under "Colle
 This is a huge modpack that I have mixed together, so most issues are just mod conflicts. 
 If a problem turns out to be a genuine bug with a specific mod, I will direct you to report it to the mod author.
 
-### ***Some mods are not available on Modrinth and might have to be manually installed/updated***
-*(Some of the mods are included in the pack, but some are not for the moment (licensing/permission reasons)).*
+### ***Some mods are not available on CurseForge and might have to be manually installed/updated***
 
 <details>
 
