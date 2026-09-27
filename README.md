@@ -15,7 +15,7 @@ And no, I have not yet done a ton of config or implemented much in the way of un
 This is far from finished, but it will be finished.
 
 There is still a lot left to do and so many things I want, and will implement - features, improvements and uniqueness.
-### I **promise** you all that.   
+### I ***promise*** you all that.   
 *(Though it mike take a sec because I am at the time of writing this the only one working on it).*
 
 *(if you want to contribute to the project in anyway, please join our [Discord](https://discord.gg/A3TFF6TqEU) and open a ticket)*
