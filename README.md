@@ -12,11 +12,13 @@ Let me be very clear on something -
 
 There were a lot more comments, but these two were repeated.
 
-I have not yet done a ton of config or implemented much but this is in Alpha.
-There is still alot left to do and so many things I want, and will implement.
+I have not yet done a ton of config or implemented much but please do remember that this is still in **Alpha**.
+There is still a lot left to do and so many things I want, and will implement.
 
 This is far from finished, but it will be finished.
-I promise ya'll that.
+I promise you all that.
+It might just take some time because I am for the moment alone 
+
 
 ---
 
