@@ -20,7 +20,6 @@ There is still a lot left to do and so many things I want, and will implement - 
 
 *(if you want to contribute to the project in anyway, please join our [Discord](https://discord.gg/A3TFF6TqEU) and open a ticket)*
 
-
 ---
 
 ![A banner containing "The Last Circuit" official logo as well as a fancy background symbolizing the clash between "Tech & Magic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
@@ -61,9 +60,7 @@ Below are some "***core***" mods listed to give you a hint of what this modpack 
 
 *(if you wish to look through the full modlist, each version specific one can be found further down the page)* 
 
-
 ---
-
 
 ![A fancy text saying "Heavy Industry, Logistics & Automation" with some nice background details around it to match the aesthetic of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/10aa02d72b6f03941ec412f4c08bbaec950528ed.png)
 
@@ -84,9 +81,7 @@ Players can construct complex, multi-block factories and digital storage network
 
 </details>
 
-
 ---
-
 
 ![A fancy text saying "Weapons & TechMagic Crossovers" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/b27d581861d76a35e4b5150c202faf22e741a548.png)
 
@@ -104,9 +99,7 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 
 </details>
 
-
 ---
-
 
 ![A fancy text saying "The Haunting, Survival & Environment" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/1be61a28b34203928555228cefc2c29a02a83c2c_0.webp)
 
@@ -199,7 +192,7 @@ Therefore, I strongly recommend leaving the mods in the modpack as is, until ful
 </details>
 
 The modpack is configured as we want it to be experienced but you are of course allowed to make the changes you want. 
-Any and all configurations are still available, and instructions on how to do so can be found on each respective mod page.
+Any and all configurations are still available , and instructions on how to do so can be found on each respective mod page.
 
 ---
 
@@ -213,7 +206,7 @@ This modpack combines multiple advanced horror systems *([The Broken Script](htt
 *   Verbal and emotional abuse.
 *   Severe phobia-inducing entities *([extreme arachnophobia](https://modrinth.com/mod/arphex))*. 
 
-*All configuration options remain unlocked. High-risk mechanics (like world corruption or file generation) can be manually adjusted or toggled ON/OFF within the respective mod config files.*
+*All configuration options remain unlocked **(at least for now)**. High-risk mechanics (like world corruption or file generation) can be manually adjusted or toggled ON/OFF within the respective mod config files.*
 
 ---
 
@@ -223,14 +216,15 @@ It is entirely safe and **does NOT contain malware**, but it can affect your gam
 * **Intentional Crashes & Popups:** Can trigger fake error windows and deliberate game crashes.
 * **File Interaction:** Generates custom text files outside your instance directory as part of the lore.
 * **World Corruption:** Can destroy chunks, corrupt terrain, or render specific worlds unplayable.
-* **Sensory Triggers:** Features pitch-black environments (*True Darkness*), sudden loud noises, and flashing lights/patterns (**Photosensitivity/Epilepsy warning**).
+* **Sensory Triggers:** Features pitch-black environments (*True Darkness*), sudden loud noises, and flashing lights/patterns-    
+*(**Photosensitivity/Epilepsy warning**)*
 *   Several horror mods in this pack **CAN** and **WILL** intentionally kick you or "**ban**" you from your world as a "psychological scare mechanic". 
 To be absolutely sure about how each mod operates and to secure your gameplay experience, 
 **I highly recommend** going into the configuration menu *(or files)* before playing to manually toggle ON/OFF any mechanics you do not want. 
 
 *Please see each mods respective page for instructions on how to do so or create a ticket on my [Discord](https://discord.gg/A3TFF6TqEU) if you can't figure it out.*
   
-*Note: It will **NOT** turn off your PC, read personal files or brick your instance.
+***Note:*** It will **NOT** turn off your PC, read personal files or brick your instance.
 
 ### ***Server Info***
 *   If you are planning to install this on a server, please note that there are several client-side mods *(like [unknown_file.jar](https://modrinth.com/mod/unknown_file.jar))* that need to be removed, or in some cases moved to the server-side directory, meaning you don't have to have them on your client. 
@@ -241,20 +235,20 @@ To be absolutely sure about how each mod operates and to secure your gameplay ex
 More information regarding server setups will be provided in the future if there is enough interest in running this on servers
 *(I recommend looking through the mods yourself or use the Modrinth launcher that has a filter where you can filter by "Environment" > "Singleplayer Only"/"Server-side Only")*.
 
-*   There are multiple recommended mods if you're playing with friends that can be found [here](https://modrinth.com/collection/aOz1DpbX) *(work in progress - not tested)*. 
+*   There are multiple recommended mods if you're playing with friends that can be found [here](https://modrinth.com/collection/aOz1DpbX) *(work in progress - not fully tested)*. 
 
 ---
 
 ## **Credits:** 
 
-*   I do ***NOT*** own any of the individual mods or libraries included in this package. 
+*   I do ***NOT*** own any of the individual mods or libraries included in this package.   
 *All credit, intellectual property rights, and appreciation go entirely to their respective creators and developers in the open-source community who made these amazing projects possible.* 
 
 ## **Special thanks:**
 
 Special thanks to:
 * [Gaboouu](https://github.com/xGabou) 
-* ["Super_awespme_baby"](https://www.curseforge.com/members/super_awesome_baby)
+* ["Super_awespme_baby"](https://www.curseforge.com/members/super_awesome_baby)   
 for giving me permission to use their mods, permissions can be found on my [GitHub](https://github.com/ImFloofo7/thelastcircuit).
 
 *(You can find each respective creator on their individual mod page).*
