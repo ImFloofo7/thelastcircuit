@@ -1,6 +1,6 @@
-MIT License
+### MIT License
 
-Copyright (c) 2026 ImFloofo7
+`Copyright (c) 2026 ImFloofo7`
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+### Third-Party Licensing Exception (All Rights Reserved)
+The MIT License of this modpack applies strictly to the custom configurations, KubeJS scripts, quest files, and compilation work created specifically for "The Last Circuit". 
+
+It DOES NOT apply to the following third-party modifications included in this pack:
+* **Nightfall** (All Rights Reserved by its respective author/team)
+* **Gaboulib** (All Rights Reserved by its respective author/team)
+
+These specific mods are bundled with explicit, private permission granted by their original authors for use solely within "The Last Circuit". All rights, titles, and intellectual property for these mods remain entirely with their respective creators. You may not redistribute, modify, or extract these binaries separate from this modpack.
