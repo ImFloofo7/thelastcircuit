@@ -10,7 +10,7 @@ Managed to come to an agreement on permission of usage for the mods, so they are
 
 ### Platform changes!
 In the requirements of getting permission for said mods were to publish on CurseForge. Together with some technical reasons amongst other, we've decided to switch to CurseForge permanently!
-*(Project on Modrinth has been deleted and **v0.1.0-alpha-r.dev** is no longer available for the public).*
+*(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`** is no longer available for the public).*
 
 ***Please note: we do not condone in republishing this modpack without the permission from the author of this modpack anymore.***
 *(Please see updated [license](https://github.com))*
@@ -18,7 +18,7 @@ In the requirements of getting permission for said mods were to publish on Curse
 ---
 
 ## ⚙️ Optimizations & Fixes
-* **Cleaned Up Glas Codes:** Fixed fatal JSON metadata boot errors (`No key pack_format`) hidden inside the customized resource packs.
+* **Cleaned Up Glass Codes:** Fixed fatal JSON metadata boot errors (`No key pack_format`) hidden inside the customized resource packs.
 * **Launch Performance:** Fixed early launch loading stalls and graphics adapter workarounds by purging legacy translation caches.
 * **Engine Optimizations:** Enhanced thread prioritization and sub-millisecond memory cleanups (`ZGC`) to completely eliminate cyclic lag spikes in heavy factory zones.
 
@@ -125,25 +125,31 @@ If the game layout resets or doesn't load them automatically on your first boot,
      *   **AAA Particles** *(+ AAA World)* - **
      *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked and additional content*
 
+---
+
 ### **Mod Removals:**
 Due to incompatibilities, change of vision and more, we've decided to remove the following mods from this version:
 
-* **Remove Loading Screen (Removed):** The mod `[Remove loading screen](https://modrinth.com)` has been permanently removed from the pack *(removed in v0.1.2-alpha-r.dev)*, as it is **completely** incompatible with our 
+   *   **Applied KubeJS (`applied_kjs`):** *Removed due to script conflicts with newer technical asset loaders.*
+   *   **Create Blocks & Bogies (create_bb):** *Extracted to preserve clean schematic layouts in custom factory builds.*
+   *   **Just Enough Items (jei):** *Swapped out to optimize full item directory syncing over heavy modpack networks.*
+   *   **Mekanism: Elements (mekanismelements):** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*  
+   *   **Sophisticated JEI Index (sophisticated_jei_index):** *Legacy tracking indexing, no longer needed under the streamlined directory overhaul.
+   *   **AE2 Lightning Tech:** Outdated version
+   * **Remove Loading Screen (Removed):** The mod [Remove loading screen](https://modrinth.com) has been permanently removed from the pack *(removed in v0.1.2-alpha-r.dev)*, as it is **completely** incompatible with our
+   
 <details>
 <summary>upcoming..</summary>   
-     * **[Fancy Menu](https://modrinth.com)** UI setup.
-          * Fully customized main menu, "ESC" menu, video settings, audio settings etc.
-     * **Drippy Loading Screen**
-          * Fully customized loading screen
-     * **Fully customized music in menus**
-</details>   
-    *   **Applied KubeJS (`applied_kjs`):** *Removed due to script conflicts with newer technical asset loaders.*
-    *   **Create Blocks & Bogies (create_bb):** *Extracted to preserve clean schematic layouts in custom factory builds.*
-    *   **Just Enough Items (jei):** *Swapped out to optimize full item directory syncing over heavy modpack networks.*
-    *   **Mekanism: Elements (mekanismelements):** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*
-    *   **Sophisticated JEI Index (sophisticated_jei_index):** *Legacy tracking indexing, no longer needed under the streamlined directory overhaul.*
-    *   **AE2 Lightning Tech:** Outdated version
     
+* **[Fancy Menu](https://modrinth.com)** UI setup.
+    * Fully customized main menu, "ESC" menu, video settings, audio settings etc.
+* **Drippy Loading Screen**
+    * Fully customized loading screen
+* **Fully customized music in menus**
+</details>   
+
+---
+
 ##⚠️ IMPORTANT DISCLAIMER (Please Read)
 This release marks our definitive transition to the CurseForge architecture.    
 ***Ensure your old Modrinth profiles are fully backup-archived before deploying this package***.    
