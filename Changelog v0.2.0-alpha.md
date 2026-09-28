@@ -3,10 +3,15 @@
 
 # 🛠️ Changelog: v0.2.0-alpha
 
+## Mod permissions!
 ### [Epic Fight "Nightfall"](https://curseforge.com) & [GabouLibs](https://curseforge.com) now included!
 Managed to come to an agreement on permission of usage for the mods, so they are now included in the modpack!
 
-**HUGE** Thanks to [Gaboouu](https://github.com) & ["Super_awespme_baby"](https://curseforge.com) again for granting me permission to include these in the modpack! ❤️
+### New Additions!
+[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)
+
+
+**HUGE** Thanks to [Gaboouu](https://github.com) & "[Super_awespme_baby](https://curseforge.com)" again for granting me permission to include these in the modpack! ❤️
 
 ### Platform changes!
 In the requirements of getting permission for said mods were to publish on CurseForge. Together with some technical reasons amongst other, we've decided to switch to CurseForge permanently!
