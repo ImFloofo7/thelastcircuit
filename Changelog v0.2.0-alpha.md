@@ -307,14 +307,14 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 *Due to incompatibilities, change of vision and more, we've decided to remove the following mods from this version:*   
     *   **[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons):** *Replaced by Voxy*   
     *   **Every Compat - "[Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)", "[Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)", "[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)":** *Removed for now because incompatibility, and other mods like `Almost Unified` cover most of this anyway.*   
-    *   **Create Blocks & Bogies (create_bb):** *Extracted to preserve clean schematic layouts in custom factory builds.*   
-    *   **Just Enough Items (jei):** *Swapped out to optimize full item directory syncing over heavy modpack networks.*   
-    *   **Mekanism: Elements (mekanismelements):** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*     
-    *   **Sophisticated JEI Index (sophisticated_jei_index):** *Legacy tracking indexing, no longer needed under the streamlined directory overhaul.*   
+    *   **Create Blocks & Bogies:** *Extracted to preserve clean schematic layouts in custom factory builds.*   
+    *   **Just Enough Items (JEI):** *Swapped out to optimize full item directory syncing over heavy modpack networks.*   
+    *   **Mekanism: Elements:** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*     
+    *   **Sophisticated JEI Index:** *Legacy tracking indexing, no longer needed under the streamlined directory overhaul.*   
     *   **AE2 Lightning Tech:** *Outdated version and it's "a bit too much"*   
-    *   **AE2: Better Villagers:** *Causing fatal `MenuTyoe` error*   
-    *   **Create: Better Villagers:** *Causing fatal `MenuTyoe` error*   
-    * **Remove Loading Screen (Removed):** The mod [Remove loading screen](https://modrinth.com) has been permanently removed from the pack *(removed in v0.1.2-alpha-r.dev)*, as it is **completely** incompatible with our   
+    *   **AE2: Better Villagers:** *Causing fatal `MenuType` error*   
+    *   **Create: Better Villagers:** *Causing fatal `MenuType` error*   
+    * **Remove Loading Screen:** The mod [Remove loading screen](https://modrinth.com) has been permanently removed from the pack *(removed in v0.1.2-alpha-r.dev)*, as it is **completely** incompatible with our   
 <details>
 <summary>upcoming..</summary>   
     
