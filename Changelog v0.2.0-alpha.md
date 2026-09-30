@@ -14,7 +14,7 @@
 
 Finally managed to come to an agreement on permission of usage for the mods, so they are now included in the modpack!
 
-**HUGE** Thanks to [Gaboouu](https://github.com) & "[Super_awespme_baby](https://curseforge.com)" again for granting me permission to include these in the modpack! ❤️
+**HUGE THANKS** to [Gaboouu](https://github.com) & "[Super_awespme_baby](https://curseforge.com)" again for granting me permission to include these in the modpack! ❤️
 
 ### New Additions!
 
