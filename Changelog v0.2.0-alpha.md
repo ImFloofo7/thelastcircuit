@@ -19,7 +19,7 @@ Finally managed to come to an agreement on permission of usage for the mods, so 
 ### New Additions!
 
 [Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion) - *New LoD rendering mod*   
-We decided to switch over to Voxy for many reasons, main being that it has better compatibility with various mods and fits our vision better.
+We decided to switch over to Voxy for many reasons, main reason being better compatibility with multiple mods, and that it fits our plan better.
 
 ### Platform changes!
 In the requirements of getting permission for said mods were to publish on CurseForge. Together with some technical reasons amongst other, we've decided to switch to CurseForge permanently!
@@ -37,8 +37,8 @@ In the requirements of getting permission for said mods were to publish on Curse
 * **Cleaned Up Codes:** Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the resource packs.   
 * **Launch Performance:** Fixed early launch loading stalls and graphics adapter workarounds by purging legacy translation caches.   
 * **Engine Optimizations:** Enhanced thread prioritization and sub-millisecond memory cleanups *("`ZGC`")* to completely eliminate cyclic lag spikes in heavy factory zones.   
-* **Optimized overall performance:** We've optimized the game to run smoother thanks to: 
-   *   removing mods
+* **Optimized overall performance:** We've optimized the pack to run smoother thanks to: 
+   *   Removing mods
    *   Adding *more* compatibility- and performance mods
    *   Making some configurations to utilize said mods 
 
