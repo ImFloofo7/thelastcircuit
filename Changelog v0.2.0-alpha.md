@@ -37,7 +37,10 @@ In the requirements of getting permission for said mods were to publish on Curse
 * **Cleaned Up Codes:** Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the resource packs.   
 * **Launch Performance:** Fixed early launch loading stalls and graphics adapter workarounds by purging legacy translation caches.   
 * **Engine Optimizations:** Enhanced thread prioritization and sub-millisecond memory cleanups *("`ZGC`")* to completely eliminate cyclic lag spikes in heavy factory zones.   
-* **Optimized overall performance:** We've optimized the game to run smoother thanks to removing modds, adding more compatibility and performance mods.   
+* **Optimized overall performance:** We've optimized the game to run smoother thanks to: 
+   *   removing mods
+   *   Adding *more* compatibility- and performance mods
+   *   Making some configurations to utilize said mods 
 
 ***We're constantly working on making the modpack run smoother on all systems, though it is hard for lower-end systems because of the size of this modpack.***
 
@@ -72,7 +75,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 
 ## **New Features & Content**
 *The following mods are new additions to the modpack that make changes to one thing or another.*    
-     *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked and additional content*   
+     *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content*   
      *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *TACZ: AoS lets you snipe entities from extreme distances with realistic ballistics.*   
      *   **[Epic Fight - Bosses'Rise](https://www.curseforge.com/minecraft/mc-mods/bossesrise)** - *Adds souls-like bosses, dungeons and loot.*   
      *   **BetterEnd Cities** - *Generates unique city structures and progression markers throughout the End dimension.*   
