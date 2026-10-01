@@ -14,17 +14,17 @@
 
 Finally managed to come to an agreement on permission of usage for the mods, so they are now included in the modpack!
 
-**HUGE THANKS** to [Gaboouu](https://www.curseforge.com/members/gaboouu/projects) & "[Super_awespme_baby](https://www.curseforge.com/members/super_awesome_baby/projects))" again for granting me permission to include these in the modpack! ❤️
+**HUGE THANKS** to [Gaboouu](https://www.curseforge.com/members/gaboouu/projects) & [Super_awespme_baby](https://www.curseforge.com/members/super_awesome_baby/projects) again for granting me permission to include these in the modpack! ❤️
 
 ### 🆕 Major **NEW** Additions!
 
 [Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion) - *New LoD rendering mod*   
 We decided to switch over to Voxy for many reasons, main reason being better compatibility with multiple mods, and that it fits our plan better.
 
+
 ### 🔄 Platform changes!
 In the requirements of getting permission for said mods were to publish on CurseForge. Together with some technical reasons amongst other, we've decided to switch to CurseForge permanently!
 *(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`-`v0.1.9-alpha-r.dev`** is no longer available for the public).*
-
 
 
 
