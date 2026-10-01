@@ -7,7 +7,7 @@
 
 # 🛠️ Changelog: v0.2.0-alpha
 
-## Mod permissions!
+### ☑️ Mod permissions!
 
 
 ### [Epic Fight "Nightfall"](https://curseforge.com) & [GabouLibs](https://curseforge.com) now included!
@@ -16,12 +16,12 @@ Finally managed to come to an agreement on permission of usage for the mods, so 
 
 **HUGE THANKS** to [Gaboouu](https://github.com) & "[Super_awespme_baby](https://curseforge.com)" again for granting me permission to include these in the modpack! ❤️
 
-### New Additions!
+### 🆕 New Additions!
 
 [Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion) - *New LoD rendering mod*   
 We decided to switch over to Voxy for many reasons, main reason being better compatibility with multiple mods, and that it fits our plan better.
 
-### Platform changes!
+### 🔄 Platform changes!
 In the requirements of getting permission for said mods were to publish on CurseForge. Together with some technical reasons amongst other, we've decided to switch to CurseForge permanently!
 *(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`** is no longer available for the public).*
 
@@ -34,15 +34,29 @@ In the requirements of getting permission for said mods were to publish on Curse
 ---
 
 ## ⚙️ Optimizations & Fixes
-* **Cleaned Up Codes:** Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the resource packs.   
-* **Launch Performance:** Fixed early launch loading stalls and graphics adapter workarounds by purging legacy translation caches.   
-* **Engine Optimizations:** Enhanced thread prioritization and sub-millisecond memory cleanups *("`ZGC`")* to completely eliminate cyclic lag spikes in heavy factory zones.   
-* **Optimized overall performance:** We've optimized the pack to run smoother thanks to: 
-   *   Removing mods
-   *   Adding *more* compatibility- and performance mods
-   *   Making some configurations to utilize said mods 
+<details>
+  <summary>Optimizations</summary>   
+
+  * **Launch Performance:** Fixed early launch loading stalls and graphics adapter workarounds by purging legacy translation caches.   
+  * **Engine Optimizations:** Enhanced thread prioritization and sub-millisecond memory cleanups *("`ZGC`")* to completely eliminate cyclic lag spikes in heavy factory zones.   
+  * **Optimized overall performance:** We've optimized the pack to run smoother thanks to: 
+     *   Removing mods
+     *   Adding *more* compatibility- and performance mods
+     *   Making some configurations to utilize said mods   
+</details>
+  
+<details>
+<summary>Fixes</summary>
+  
+  * **Cleaned Up Codes:** Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the 
+  resource packs.
+  * **[Managed order for resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** Custom order for resourcepacks
+
+</details>
+
 
 ***We're constantly working on making the modpack run smoother on all systems, though it is hard for lower-end systems because of the size of this modpack.***
+
 
 
 ---
@@ -71,254 +85,264 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 ## 🖥️ MOD updates, removals and added.
 
 
-## ▶️ **Added:**
+<details>
+  <summary>▶️ Added:</summary>
+    <details>
+    <summary>New Features & Content</summary> 
+      
+  ***The following mods are new additions to the modpack that make changes to one thing or another.***    
+  *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content*   
+  *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *TACZ: AoS lets you snipe entities from extreme distances with realistic ballistics.*   
+  *   **[Epic Fight - Bosses'Rise](https://www.curseforge.com/minecraft/mc-mods/bossesrise)** - *Adds souls-like bosses, dungeons and loot.*   
+  *   **BetterEnd Cities** - *Generates unique city structures and progression markers throughout the End dimension.*   
+  *   **Bio-Scanner** - *Faction tracking and specialized entity identification.*   
+  *   **[TacZ Attributes](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes)** - *Adds more than 250 attributes to TacZ weapons*   
+  *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** - *Adds micro (pixel) blocks*   
+  *   **[Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)** - **   
+  *   **Diamond Vein** - *Mining optimizations and automated scanning adjustments.*   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **[Distant Friends](https://www.curseforge.com/minecraft/mc-mods/distant-friends)** - *Adds stalking player-like mobs that creep at you from a distance.*   
+  *   **** - **      
+    </details>
 
-## **New Features & Content**
-*The following mods are new additions to the modpack that make changes to one thing or another.*    
-     *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content*   
-     *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *TACZ: AoS lets you snipe entities from extreme distances with realistic ballistics.*   
-     *   **[Epic Fight - Bosses'Rise](https://www.curseforge.com/minecraft/mc-mods/bossesrise)** - *Adds souls-like bosses, dungeons and loot.*   
-     *   **BetterEnd Cities** - *Generates unique city structures and progression markers throughout the End dimension.*   
-     *   **Bio-Scanner** - *Faction tracking and specialized entity identification.*   
-     *   **[TacZ Attributes](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes)** - *Adds more than 250 attributes to TacZ weapons*   
-     *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** - *Adds micro (pixel) blocks*   
-     *   **[Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)** - **   
-     *   **Diamond Vein** - *Mining optimizations and automated scanning adjustments.*   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **[Distant Friends](https://www.curseforge.com/minecraft/mc-mods/distant-friends)** - *Adds stalking player-like mobs that creep at you from a distance.*   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
-     *   **** - **   
+  <details>
+    <summary>QoL</summary>
 
-     
-## **QoL**
-*Small mods that doesn't really add any "new content", but are still nice to have.*    
-    *   **BetterF3 Spark Module** - *Addon for Directly links hardware monitoring with the F3 menu interface.*       
-    *   **[Quick Pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack)** - *Improves datapack & resourcepack zip gile loading times.*   
-    *   **[Punchy!](https://www.curseforge.com/minecraft/mc-mods/punchy)** - *Engine for various first-person animations.*   
-    *   **[Thunderhead](https://www.curseforge.com/minecraft/mc-mods/thunderhead)** - *Lightning & Thunder overhaul.*   
-    *   **[SeeU](https://www.curseforge.com/minecraft/mc-mods/seeu)** - *Makes distant players visible far beyond canilla entity tracking, Compatible with Voxy*   
-    *   **[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)** - *A LoD renderer*   
-    *   **[Roxy](https://www.curseforge.com/minecraft/mc-mods/roxy)** - *Allows Voxy (that is for fabric) to work on NeoForge*   
-    *   **AAA World** - **   
-    *   **FancyMods BetterEnd Tweaks** - *Balance adjustments and biome-specific block variants.*   
-    *   **Search for Iris Shaders** - *Native integration for directory navigation inside shader options.*   
-    *   **Resourcify** - *Embedded asset tracking directly inside the options layout.*   
-    *   **Stack Refill** - *Automatically replaces exhausted resources from backpack reserves.*   
-    *   **Visual Workbench** - *Items remain physically dropped inside the crafting grid matrix.*   
-    *   **** - **   
-    *   **** - **     
+***Small mods that doesn't really add any "new content", but are still nice to have.***    
+  *   **BetterF3 Spark Module** - *Addon for Directly links hardware monitoring with the F3 menu interface.*       
+  *   **[Quick Pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack)** - *Improves datapack & resourcepack zip gile loading times.*   
+  *   **[Punchy!](https://www.curseforge.com/minecraft/mc-mods/punchy)** - *Engine for various first-person animations.*       *   **[Thunderhead](https://www.curseforge.com/minecraft/mc-mods/thunderhead)** - *Lightning & Thunder overhaul.*   
+  *   **[SeeU](https://www.curseforge.com/minecraft/mc-mods/seeu)** - *Makes distant players visible far beyond canilla entity tracking, Compatible with Voxy*   
+  *    **[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)** - *A LoD renderer*   
+  *   **[Roxy](https://www.curseforge.com/minecraft/mc-mods/roxy)** - *Allows Voxy (that is for fabric) to work on NeoForge* 
+  *   **AAA World** - **   
+  *   **FancyMods BetterEnd Tweaks** - *Balance adjustments and biome-specific block variants.*   
+  *   **Search for Iris Shaders** - *Native integration for directory navigation inside shader options.*   
+  *   **Resourcify** - *Embedded asset tracking directly inside the options layout.*   
+  *   **Stack Refill** - *Automatically replaces exhausted resources from backpack reserves.*   
+  *   **Visual Workbench** - *Items remain physically dropped inside the crafting grid matrix.*   
+  *   **** - **   
+  *   **** - **     
+    </details>
+    
+  <details>
+    <summary>Optimization mods</summary>
+   
+***The following mods has been added to improve quality and performance***   
+  *   **[TT20](https://curseforge.com)** - *TT20 helps reduce lag by optimizing how ticks work when the server's TPS is low.*   
+  *   **[Epic Fight (FPS Optimizer)](https://www.curseforge.com/minecraft/mc-mods/epic-fight-fps-optimizer)** - *A configurable client-side FPS optimizer, reduces distant animation and visual effect rendering costs*   
+  *   **[All The Leaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)** - *Crash prevention and optimization*   
+  *   **Saturn** - *Optimized memory usage and re-mapped memory leak garbage tracking.*   
+  *   **Smooth Boot** - *Smooth loading allocations across split core processing.**   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **[AAA Particles](https://www.curseforge.com/minecraft/mc-mods/aaa-particles)** - *Library mod that enables using effekseer particles (.efkefc) in minecraft.*   
+    </details>
 
-    
-## **Optimizations**   
-*The following mods has been added to improve quality and performance*   
-    *   **[TT20](https://curseforge.com)** - *TT20 helps reduce lag by optimizing how ticks work when the server's TPS is low.*   
-    *   **[Epic Fight (FPS Optimizer)](https://www.curseforge.com/minecraft/mc-mods/epic-fight-fps-optimizer)** - *A configurable client-side FPS optimizer, reduces distant animation and visual effect rendering costs*   
-    *   **[All The Leaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)** - *Crash prevention and optimization*   
-    *   **Saturn** - *Optimized memory usage and re-mapped memory leak garbage tracking.*   
-    *   **Smooth Boot** - *Smooth loading allocations across split core processing.**   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **[AAA Particles](https://www.curseforge.com/minecraft/mc-mods/aaa-particles)** - *Library mod that enables using effekseer particles (.efkefc) in minecraft.*   
-    
-## **Add-ons**   
-*The following mods are add-ons for mods already in the modpack.*   
-     *   **[Mekanism Nuclear Weapons & Explosives](https://www.curseforge.com/minecraft/mc-mods/mekanism-nuclear-weapons-explosives)** - *Addon for mekanism that adds nuclear,hydrogen and antimatter bombs*   
-    *   **** - **   
-    *   **[TacZ Attributes (Addon)](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes-addon)** - **   
-    *   **[TacZ: Blueprints Reforged](https://www.curseforge.com/minecraft/mc-mods/tacz-blueprints-reforged)** - *TaCZ: Blueprints Reforged is an addon for TaCZ that turns guns and attachments into something you have to discover and earn.*   
-    *   **[TacZ Addon](https://www.curseforge.com/minecraft/mc-mods/tacz-addon)** - *An expansion mod for TaCZ.*   
-    *   **[Veil Lights for TacZ](https://www.curseforge.com/minecraft/mc-mods/veil-lights-for-tacz)** - *Addon that renders configured TaCZ weapon lights through the separate Veil Volume Lights library*   
-    *   **[Sophisticated Tactical Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-tactical-backpacks)** - *Add-on for Sophisticated Backpacks that adds military-style camouflage appearance and an Ammo Reload Upgrade that is compatible with several firearm mods (like TacZ).*   
-    *   **** - **   
-    *   **[Just Enough TacZ](https://www.curseforge.com/minecraft/mc-mods/jet-just-enough-tacz)** - *This mods adds config that allows removal of guns and addons from the game*   
-    *   **(IU) Watering Can** - *Farming utility.*   
-    *   **** - **   
-    *   **** - **   
-    
-    
-## **Integrations**   
-*The following mods are integrations to improve various things such as configuration and data*   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    
-    
-## **Compatibility**
-*The following mods has been added to make more mods compatible*   
-    *   **Epic Fight Auto Compat** - *Background translation framework for out-of-the-box combat styles.*   
-    *   **Epic Tweaks** - *Core adjustments for overall damage parameters and entity behaviors.*   
-    *   **Epic Curios Elytra** - *Allows slotting of standard flight parameters inside Curios accessories.*   
-    *   **[Epic Fight: Curios Compat 2.0](https://curseforge.com)** - *Adds compatibility/fix between Curios and Curios*   
-    *   **[Epic Fight x Punchy](https://curseforge.com)** - *Adds compatibility between Punchy and Epic Fight*   
-    *   **[TacZ: Curios](https://www.curseforge.com/minecraft/mc-mods/taczcurios)** - *TaczCurios adds custom curios (accessories) to the mod TacZ*   
-    *   **[Mystical Agriculture Compats](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-compats)** - *Adds compatibility between Mystical Agriculture, Mekanism's Enrichment Chamber and EnderIO's SAG Mill*   
-    *   **[Mystical Engineering](https://www.curseforge.com/minecraft/mc-mods/mystical-engineering)** - *Adds comaptibility between Mystical Agriculturea and Immersive Engineering's "Garden Clocke"*   
-    *   **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)** - *Re-implements MCPatcher's CIT*   
-    *   **[CITResewnNeoPatcher](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)** - *Patches CIT Resewn mods so it runs on NeoForge through Sinytra Connector*   
-    *   **BetterEnd x Chipped** - *Massive expansion of decorative variant choices for End-materials.*   
-    *   **[Iris Veil Compat](https://www.curseforge.com/minecraft/mc-mods/iris-veil-compat)** - *Allow mods using the Veil rendering engine to render correctly when using Iris shaderpacks.*
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    
+<details>
+    <summary>Add-ons</summary>    
+ 
+***The following mods are add-ons for mods already in the modpack.***   
+  *   **[Mekanism Nuclear Weapons & Explosives](https://www.curseforge.com/minecraft/mc-mods/mekanism-nuclear-weapons-explosives)** - *Addon for mekanism that adds nuclear,hydrogen and antimatter bombs*   
+  *   **** - **   
+  *   **[TacZ Attributes (Addon)](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes-addon)** - **   
+  *   **[TacZ: Blueprints Reforged](https://www.curseforge.com/minecraft/mc-mods/tacz-blueprints-reforged)** - *TaCZ: Blueprints Reforged is an addon for TaCZ that turns guns and attachments into something you have to discover and earn.*   
+  *   **[TacZ Addon](https://www.curseforge.com/minecraft/mc-mods/tacz-addon)** - *An expansion mod for TaCZ.*   
+  *   **[Veil Lights for TacZ](https://www.curseforge.com/minecraft/mc-mods/veil-lights-for-tacz)** - *Addon that renders configured TaCZ weapon lights through the separate Veil Volume Lights library*   
+  *   **[Sophisticated Tactical Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-tactical-backpacks)** - *Add-on for Sophisticated Backpacks that adds military-style camouflage appearance and an Ammo Reload Upgrade that is compatible with several firearm mods (like TacZ).*   
+  *   **** - **   
+  *   **[Just Enough TacZ](https://www.curseforge.com/minecraft/mc-mods/jet-just-enough-tacz)** - *This mods adds config that allows removal of guns and addons from the game*   
+  *   **(IU) Watering Can** - *Farming utility.*   
+  *   **** - **   
+  *   **** - **   
+    </details>
+
+<details>
+    <summary>Integrations</summary>
   
-## **Misc**   
-*Libraries, engines and more requires mods*   
-    *   **[CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)** - *Core for LittleTiles*   
-    *   **[MezzConfig](https://www.curseforge.com/minecraft/mc-mods/mezzconfig)** - *Simple configuration library for mods*   
-    *   **Toadlib** - *Core foundation engine for updated asset rendering blocks.*   
-    *   **[Veil Volume Lights](https://www.curseforge.com/minecraft/mc-mods/veil-volume-lights)** - *Veil addon library that adds support for colored mediums.*   
-    *   **[Apothic Attributes](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)** - *A library mod providing Attributes and related things*    
-    *   **Eating Animation (Core)** - *Restores fundamental consumption mechanics for base items.*   
-    *   **[KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)** - *for workking on upcoming features*   
-    *keybinds
-    *   **[KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions)** - *for workking on upcoming features*   
-    *geckoJS   
-    *KJS Editor   
-    *questJS   
-    *   **[KubeJS Mekanism](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)** - *for workking on upcoming features*   
-    *mekanism extend    
-    *   **[KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios)** - *for workking on upcoming features*   
-    *   **[KubeJS EnderIO](https://www.curseforge.com/minecraft/mc-mods/kubejs-enderio)** - *for workking on upcoming features*   
-    *   **[KubeJS LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)** - *for workking on upcoming features*   
-    *   **[KubeJS Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs)** - *for workking on upcoming features*   
-    *   **[KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau)** - *for working on upcoming features*   
-    *   **[KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic-evolution)** - *for working on upcoming features*   
-    *   **[KubeJS ProjectE](https://www.curseforge.com/minecraft/mc-mods/kubejs-projecte)** - *for working on upcoming features*   
-    *   **[KubeJS Applied](https://www.curseforge.com/minecraft/mc-mods/applied-kubejs-kjs-ae2)** - *for working on upcoming features*   
-    *Custom meteor   
-    *neo   
-    *IU   
-    *rechisled   
-    *Immersive E   
-    *   
-    *FTB Library   
-    *FTB Quests   
-    *FTB Quests enhance   
-    *FTB Quest Quick Check    
-    *FTB Quest Optimizer   
-    *FTB Quest Entity Visualization   
-    *FTB Extra Quests   
-    *FTB Quest Completion Broadcast   
-    *FTB Teams   
-    *   
-    *Extra quests   
-    *PlayerNBT   
-    *Progressive Stages   
-    *UI Quests   
-    *Certain Question additions   
-    *   
-    *   **GroovyModLoader (GML)** - *Lower-level backend optimization for early mod setup strings.*   
-    *   **Loot Integrations** - *Implemented global looting balance patches covering *Born in Chaos, Cataclysm, Integrated, Yung's, and Vanilla* variables.*   
-    *   **Reactor Plus** - *Advanced custom coolant channels and higher energy tiering modules*.   
-    *   
-    *   **Cupboard** - **   
-    *   **[ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)** - *Core library for `Large Ore Deposits`, `Advanced Hook Launchers` and `Advanced Finders`*   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-    *   **** - **   
-     
+*The following mods are integrations to improve various things such as configuration and data*   
+  *   **** - **   
+  *   **** - **    
+  *   **** - **
+  *   **** - **   
+  *   **** - **    
+  *   **** - **   
+    </details>
+
+<details>
+    <summary>Compatibility</summary>    
+
+***The following mods has been added to make more mods compatible***   
+  *   **Epic Fight Auto Compat** - *Background translation framework for out-of-the-box combat styles.*   
+  *   **Epic Tweaks** - *Core adjustments for overall damage parameters and entity behaviors.*   
+  *   **Epic Curios Elytra** - *Allows slotting of standard flight parameters inside Curios accessories.*   
+  *   **[Epic Fight: Curios Compat 2.0](https://curseforge.com)** - *Adds compatibility/fix between Curios and Curios*   
+  *   **[Epic Fight x Punchy](https://curseforge.com)** - *Adds compatibility between Punchy and Epic Fight*   
+  *   **[TacZ: Curios](https://www.curseforge.com/minecraft/mc-mods/taczcurios)** - *TaczCurios adds custom curios (accessories) to the mod TacZ*   
+  *   **[Mystical Agriculture Compats](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-compats)** - *Adds compatibility between Mystical Agriculture, Mekanism's Enrichment Chamber and EnderIO's SAG Mill*   
+  *   **[Mystical Engineering](https://www.curseforge.com/minecraft/mc-mods/mystical-engineering)** - *Adds comaptibility between Mystical Agriculturea and Immersive Engineering's "Garden Clocke"*   
+  *   **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)** - *Re-implements MCPatcher's CIT*   
+  *   **[CITResewnNeoPatcher](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)** - *Patches CIT Resewn mods so it runs on NeoForge through Sinytra Connector*   
+  *   **BetterEnd x Chipped** - *Massive expansion of decorative variant choices for End-materials.*   
+  *   **[Iris Veil Compat](https://www.curseforge.com/minecraft/mc-mods/iris-veil-compat)** - *Allow mods using the Veil rendering engine to render correctly when using Iris shaderpacks.*
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+    </details> 
+
+<details>
+    <summary>Misc</summary>  
+
+***Libraries, engines and more requires mods***   
+  *   **[CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)** - *Core for LittleTiles*   
+  *   **[MezzConfig](https://www.curseforge.com/minecraft/mc-mods/mezzconfig)** - *Simple configuration library for mods*   
+  *   **Toadlib** - *Core foundation engine for updated asset rendering blocks.*   
+  *   **[Veil Volume Lights](https://www.curseforge.com/minecraft/mc-mods/veil-volume-lights)** - *Veil addon library that adds support for colored mediums.*   
+  *   **[Apothic Attributes](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)** - *A library mod providing Attributes and related things*    
+  *   **Eating Animation (Core)** - *Restores fundamental consumption mechanics for base items.*   
+  *   **[KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)** - *for workking on upcoming features*   
+  *keybinds
+  *   **[KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions)** - *for workking on upcoming features*   
+  *geckoJS   
+  *KJS Editor   
+  *questJS   
+  *   **[KubeJS Mekanism](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)** - *for workking on upcoming features*   
+  *mekanism extend    
+  *   **[KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios)** - *for workking on upcoming features*  
+  *   **[KubeJS EnderIO](https://www.curseforge.com/minecraft/mc-mods/kubejs-enderio)** - *for workking on upcoming features*   
+  *   **[KubeJS LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)** - *for workking on upcoming features*   
+  *   **[KubeJS Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs)** - *for workking on upcoming features*   
+  *   **[KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau)** - *for working on upcoming features*   
+  *   **[KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic-evolution)** - *for working on upcoming features*   
+  *   **[KubeJS ProjectE](https://www.curseforge.com/minecraft/mc-mods/kubejs-projecte)** - *for working on upcoming features*   
+  *   **[KubeJS Applied](https://www.curseforge.com/minecraft/mc-mods/applied-kubejs-kjs-ae2)** - *for working on upcoming features*   
+  *Custom meteor   
+  *neo   
+  *IU   
+  *rechisled   
+  *Immersive E   
+  *   
+  *FTB Library   
+  *FTB Quests   
+  *FTB Quests enhance   
+  *FTB Quest Quick Check    
+  *FTB Quest Optimizer   
+  *FTB Quest Entity Visualization   
+  *FTB Extra Quests   
+  *FTB Quest Completion Broadcast   
+  *FTB Teams   
+  *   
+  *Extra quests   
+  *PlayerNBT   
+  *Progressive Stages   
+  *UI Quests   
+  *Certain Question additions   
+  *   
+  *   **GroovyModLoader (GML)** - *Lower-level backend optimization for early mod setup strings.*   
+  *   **Loot Integrations** - *Implemented global looting balance patches covering *Born in Chaos, Cataclysm, Integrated, Yung's, and Vanilla* variables.*   
+  *   **Reactor Plus** - *Advanced custom coolant channels and higher energy tiering modules*.   
+  *   
+  *   **Cupboard** - **   
+  *   **[ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)** - *Core library for `Large Ore Deposits`, `Advanced Hook Launchers` and `Advanced Finders`*   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+  *   **** - **   
+    </details>     
+</details>
 
 ---
 
-## 🔄 Mod Updates & Removals   
+## 🔄Mod Updates & Removals   
 
-##**Updated:**   
-     *   **CITResewnPatcher** -> Updated from Fabric version *(ran with Sinytra Connector)* to [NeoForge version](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)   
-     *   **[AE2 Growth Accelerator Tiers](https://www.curseforge.com/minecraft/mc-mods/ae2-growth-accelerators)** -> Updated to `AGA Neo 1.21.1 2.2.0`   
-     *   **Applied Pneumatics** -> Updated from `1.0.8` to `1.0.9`   
-     *   **Ars QOL** -> Updated from `1.0.0` to `1.1.0`   
-     *   **AutoEMC** -> Updated from `2.1.0` to `2.1.1`   
-     *   **Balm** -> Updated from `21.0.65` to `21.0.66`   
-     *   **CBCAT Fix** -> Updated from `1.1.0` to `1.1.2`   
-     *   **CIT Resewn** -> Updated to `patched_citresewn-1.2.2+1.21.jar`   
-     *   **CompatLink** -> Updated from `1.1.2` to `1.3.0`   
-     *   **Create Compression** -> Updated from `2.0.0` to `2.0.1`   
-     *   **Create: Lazy Tick** -> Updated from `2.6.25-6.0.10` to `2.7.29-6.0.10`   
-     *   **Display Delight** -> Updated from `1.6.0` to `1.7.0`   
-     *   **Distraction Free Recipes** -> Updated from `1.2.1` to `1.2.2`   
-     *   **Enderite Mod** -> Updated from `1.6.2` to stable `1.6.1`   
-     *   **Extreme Reactors** -> Massive backend update from `2.4.9` to `2.4.28`   
-     *   **Fight Back** -> Updated from `1.3.0` to `1.3.2`   
-     *   **Industrial Upgrade** -> Updated from `3.4.0.11` to `3.4.0.13`   
-     *   **Interiors (Macaw's Create)** -> Updated to `interiors-0.6.1 v2.jar`   
-     *   **Ksyxis** -> Updated from `1.4.4` to `1.4.5`   
-     *   **LittleTiles** -> Updated from `1.6.0-pre229` to `1.6.0-pre230`   
-     *   **Zelda: Legend of the Master Sword** -> Updated from `2.4.2` to `2.4.6`   
-     *   **Mekanism Turrets** -> Updated from `2.2.2` to `2.2.3`   
-     *   **Mekanism Unleashed** -> Updated from `0.3.2` to `0.3.4`   
-     *   **Mekanism TrashCube** -> Updated from `2.0.4-NeoForge` to `2.0.5-NeoForge`   
-     *   **More Backpack Upgrades** -> Updated from `1.0.5` to `1.0.7`   
-     *   **Modonomicon** -> Updated from `1.120.5` to `1.120.7`   
-     *   **Moonlight Lib** -> Updated from `3.6.8` to `3.6.9`   
-     *   **Neo Vitae** -> Updated from `1.1.26` to `1.1.27`    
-     *   **Polytone** -> Updated from `4.5.0` to `4.5.1`   
-     *   **Power Utilities** -> Updated from `1.3` to `1.5`    
-     *   **Quantum Generators** -> Updated from `1.4` to `1.5`   
-     *   **Simply Quarries** -> Updated from `1.3` to `1.4`   
-     *   **TaczCurios (TCC)** -> Updated from `1.4.1+1.21.1` to `1.4.1-hotfix+1.21.1`   
-     *   **The Ravenous** -> Major jump from version `2.0.5` to `3.0`   
-     *   **Tooltip Overhaul** -> Updated from `2.0.3` to `2.0.4`   
-     *   **Valhelsia Core** -> Updated from `1.1.4` to `1.1.5`   
-     *   **Veil** -> Updated from `4.5.0` to `4.5.1`   
-     *   **Waystones** -> Updated from `21.1.45` to `21.1.46`   
-     *   **Yukami's Sophisticated Backpack Tab** -> Updated from `2.1.1` to `2.2.0`   
-     *   **Zero CORE 2** -> Updated from `2.4.9` to `2.4.21`   
+<details>
+  <summary>Updated</summary>
+  
+  *   **CITResewnPatcher** -> Updated from Fabric version *(ran with Sinytra Connector)* to [NeoForge version](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)   
+  *   **[AE2 Growth Accelerator Tiers](https://www.curseforge.com/minecraft/mc-mods/ae2-growth-accelerators)** -> Updated to `AGA Neo 1.21.1 2.2.0`   
+  *   **Applied Pneumatics** -> Updated from `1.0.8` to `1.0.9`   
+  *   **Ars QOL** -> Updated from `1.0.0` to `1.1.0`   
+  *   **AutoEMC** -> Updated from `2.1.0` to `2.1.1`   
+  *   **Balm** -> Updated from `21.0.65` to `21.0.66`   
+  *   **CBCAT Fix** -> Updated from `1.1.0` to `1.1.2`   
+  *   **CIT Resewn** -> Updated to `patched_citresewn-1.2.2+1.21.jar`   
+  *   **CompatLink** -> Updated from `1.1.2` to `1.3.0`   
+  *   **Create Compression** -> Updated from `2.0.0` to `2.0.1`   
+  *   **Create: Lazy Tick** -> Updated from `2.6.25-6.0.10` to `2.7.29-6.0.10`   
+  *   **Display Delight** -> Updated from `1.6.0` to `1.7.0`   
+  *   **Distraction Free Recipes** -> Updated from `1.2.1` to `1.2.2`   
+  *   **Enderite Mod** -> Updated from `1.6.2` to stable `1.6.1`   
+  *   **Extreme Reactors** -> Massive backend update from `2.4.9` to `2.4.28`   
+  *   **Fight Back** -> Updated from `1.3.0` to `1.3.2`   
+  *   **Industrial Upgrade** -> Updated from `3.4.0.11` to `3.4.0.13`   
+  *   **Interiors (Macaw's Create)** -> Updated to `interiors-0.6.1 v2.jar`   
+  *   **Ksyxis** -> Updated from `1.4.4` to `1.4.5`   
+  *   **LittleTiles** -> Updated from `1.6.0-pre229` to `1.6.0-pre230`   
+  *   **Zelda: Legend of the Master Sword** -> Updated from `2.4.2` to `2.4.6`   
+  *   **Mekanism Turrets** -> Updated from `2.2.2` to `2.2.3`   
+  *   **Mekanism Unleashed** -> Updated from `0.3.2` to `0.3.4`   
+  *   **Mekanism TrashCube** -> Updated from `2.0.4-NeoForge` to `2.0.5-NeoForge`   
+  *   **More Backpack Upgrades** -> Updated from `1.0.5` to `1.0.7`   
+  *   **Modonomicon** -> Updated from `1.120.5` to `1.120.7`   
+  *   **Moonlight Lib** -> Updated from `3.6.8` to `3.6.9`   
+  *   **Neo Vitae** -> Updated from `1.1.26` to `1.1.27`    
+  *   **Polytone** -> Updated from `4.5.0` to `4.5.1`   
+  *   **Power Utilities** -> Updated from `1.3` to `1.5`    
+  *   **Quantum Generators** -> Updated from `1.4` to `1.5`   
+  *   **Simply Quarries** -> Updated from `1.3` to `1.4`   
+  *   **TaczCurios (TCC)** -> Updated from `1.4.1+1.21.1` to `1.4.1-hotfix+1.21.1`   
+  *   **The Ravenous** -> Major jump from version `2.0.5` to `3.0`   
+  *   **Tooltip Overhaul** -> Updated from `2.0.3` to `2.0.4`   
+  *   **Valhelsia Core** -> Updated from `1.1.4` to `1.1.5`   
+  *   **Veil** -> Updated from `4.5.0` to `4.5.1`   
+  *   **Waystones** -> Updated from `21.1.45` to `21.1.46`   
+  *   **Yukami's Sophisticated Backpack Tab** -> Updated from `2.1.1` to `2.2.0`   
+  *   **Zero CORE 2** -> Updated from `2.4.9` to `2.4.21`   
+</details>
 
+<details>
+  <summary>Removed</summary>  
+  
+  *Due to incompatibilities, change of vision and more, we've decided to remove the following mods from this version:*   
+  *   **[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons):** *Replaced by Voxy*   
+  *   **Every Compat - "[Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)", "[Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)", "[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)":** *Removed for now because incompatibility, and other mods like `Almost Unified` cover most of this anyway.*   
+  *   **Create Blocks & Bogies:** *Extracted to preserve clean schematic layouts in custom factory builds.*   
+  *   **Just Enough Items (JEI):** *Swapped out to optimize full item directory syncing over heavy modpack networks.*   
+  *   **Mekanism: Elements:** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*     
+  *   **Sophisticated JEI Index:** *Legacy tracking indexing, no longer needed under the streamlined directory overhaul.*   
+  *   **AE2 Lightning Tech:** *Outdated version and it's "a bit too much"*   
+  *   **AE2: Better Villagers:** *Causing fatal `MenuType` error*   
+  *   **Create: Better Villagers:** *Causing fatal `MenuType` error*   
+  * **Remove Loading Screen:** The mod [Remove loading screen](https://modrinth.com) has been permanently removed from the pack *(removed in v0.1.2-alpha-r.dev)*, as it is **completely** incompatible with our   
 
-### **Mod Removals:**   
-*Due to incompatibilities, change of vision and more, we've decided to remove the following mods from this version:*   
-    *   **[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons):** *Replaced by Voxy*   
-    *   **Every Compat - "[Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)", "[Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)", "[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)":** *Removed for now because incompatibility, and other mods like `Almost Unified` cover most of this anyway.*   
-    *   **Create Blocks & Bogies:** *Extracted to preserve clean schematic layouts in custom factory builds.*   
-    *   **Just Enough Items (JEI):** *Swapped out to optimize full item directory syncing over heavy modpack networks.*   
-    *   **Mekanism: Elements:** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*     
-    *   **Sophisticated JEI Index:** *Legacy tracking indexing, no longer needed under the streamlined directory overhaul.*   
-    *   **AE2 Lightning Tech:** *Outdated version and it's "a bit too much"*   
-    *   **AE2: Better Villagers:** *Causing fatal `MenuType` error*   
-    *   **Create: Better Villagers:** *Causing fatal `MenuType` error*   
-    * **Remove Loading Screen:** The mod [Remove loading screen](https://modrinth.com) has been permanently removed from the pack *(removed in v0.1.2-alpha-r.dev)*, as it is **completely** incompatible with our   
 <details>
 <summary>upcoming..</summary>   
     
@@ -328,6 +352,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
     * Fully customized loading screen   
 * **Fully customized music in menus**   
 </details>   
+</details>
 
 ---
 
