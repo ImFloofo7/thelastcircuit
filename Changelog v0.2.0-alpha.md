@@ -50,7 +50,7 @@ In the requirements of getting permission for said mods were to publish on Curse
   
   * **Cleaned Up Codes:** Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the 
   resource packs.
-  * **Managed/indexed order for resource-packs:** Custom order for resource packs
+  * **[Managed order for resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** Custom order for resource packs
 
 </details>
 
@@ -71,7 +71,7 @@ If the game layout resets or doesn't load them automatically on your first boot,
 2. **🧬 Fresh Animations Core & Extensions (`1.2.10` > `1.2.19`):** Loads the fundamental resource frameworks first, followed directly by the core Fresh Animations engine, official extensions (`FA+`), and custom entity additions (like Drodi's Villagers).   
 3. **⚔️ Combat, Item & Creature Compatibility (`1.3.20` > `1.3.27`):** Integrates specialized creature compatibility patches (`x FA`) cleanly over the core models.   Player combat modifications, weapon shapes, and item action dependencies (like Eating Animations) load right alongside them to prevent visual clipping.   
 4. **⚙️ Mod Gränssnitt & Dark Expansions (`2.1.1` > `2.1.9`):** Loads the specialized dark theme configurations for major technology and automation mods (Create, Mekanism, Refined Storage etc).   
-5. **🗺️ Maps, Icons & Minimap Fixes (`3.1.1` > `3.1.4`):** Integrates customized map styling, Excalibur alignment profiles, and icon patches cleanly over the engine layer.   
+5. **🗺️ Maps, Icons & Minimap Fixes (`3.1.1` > `3.1.4`):** Integrates customized map stylings, Excalibur alignment profiles, and icon patches cleanly over the engine layer.   
 6. **👑 UI, Fonts, and Core Fixes (`5.1.8` > `6.1.1` - Absolute Top):** Highest loading priority. Activates the custom container shadings, font overhauls (Der's Shaded Font), and global Sodium translation patches over all active asset arrays.   
 
 ### Starting with "0.1.1" being at the bottom. - 
@@ -92,7 +92,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
       
   ***The following mods are new additions to the modpack that make changes to one thing or another.***    
   *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content*   
-  *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *TacZ: AoS lets you snipe entities from extreme distances with realistic ballistics.*   
+  *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *TACZ: AoS lets you snipe entities from extreme distances with realistic ballistics.*   
   *   **[Epic Fight - Bosses'Rise](https://www.curseforge.com/minecraft/mc-mods/bossesrise)** - *Adds souls-like bosses, dungeons and loot.*   
   *   **BetterEnd Cities** - *Generates unique city structures and progression markers throughout the End dimension.*   
   *   **Bio-Scanner** - *Faction tracking and specialized entity identification.*   
@@ -122,13 +122,21 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 
 ***Small mods that doesn't really add any "new content", but are still nice to have.***    
   *   **[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)** - *A Minecraft LoD rendering mod, letting you to render hundreds of chunks with little to no performance impact*
-  *   **BetterF3 Spark Module** - *Addon for Directly links hardware monitoring with the F3 menu interface.*       
+  *   **[Roxy](https://www.curseforge.com/minecraft/mc-mods/roxy)** - *Allows Voxy (that is for fabric) to work on NeoForge*
+  *   **[SeeU](https://www.curseforge.com/minecraft/mc-mods/seeu)** - *Makes distant players visible far beyond canilla entity tracking, Compatible with Voxy*
+  *   **[Thunderhead](https://www.curseforge.com/minecraft/mc-mods/thunderhead)** - *Lightning & Thunder overhaul.*
+  *   **[AAA Particles](https://www.curseforge.com/minecraft/mc-mods/aaa-particles)** - *Library mod that enables using effekseer particles (.efkefc) in minecraft.*
+  *   **AAA World** - **
+  *    **[Punchy!](https://www.curseforge.com/minecraft/mc-mods/punchy)** - *Engine for various first-person animations.*
   *   **[Quick Pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack)** - *Improves datapack & resourcepack zip gile loading times.*   
-  *   **[Punchy!](https://www.curseforge.com/minecraft/mc-mods/punchy)** - *Engine for various first-person animations.*       *   **[Thunderhead](https://www.curseforge.com/minecraft/mc-mods/thunderhead)** - *Lightning & Thunder overhaul.*   
-  *   **[SeeU](https://www.curseforge.com/minecraft/mc-mods/seeu)** - *Makes distant players visible far beyond canilla entity tracking, Compatible with Voxy*   
-  *    **[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)** - *A LoD renderer*   
-  *   **[Roxy](https://www.curseforge.com/minecraft/mc-mods/roxy)** - *Allows Voxy (that is for fabric) to work on NeoForge* 
-  *   **AAA World** - **   
+
+  
+  *   **BetterF3 Spark Module** - *Addon for Directly links hardware monitoring with the F3 menu interface.*       
+
+        
+     
+ 
+   
   *   **FancyMods BetterEnd Tweaks** - *Balance adjustments and biome-specific block variants.*   
   *   **Search for Iris Shaders** - *Native integration for directory navigation inside shader options.*   
   *   **Resourcify** - *Embedded asset tracking directly inside the options layout.*   
@@ -158,7 +166,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **** - **   
   *   **** - **   
   *   **** - **   
-  *   **[AAA Particles](https://www.curseforge.com/minecraft/mc-mods/aaa-particles)** - *Library mod that enables using effekseer particles (.efkefc) in minecraft.*   
+   
     </details>
 
 <details>
