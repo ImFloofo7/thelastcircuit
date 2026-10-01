@@ -369,16 +369,24 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 ---
 
 ## Configurations and Custom content:
-  ***On top of adding and removing new mods, 
-   *   Start working on custom content
-   *   Start working on custom configurations
-   *   Optimize
-   *   
+### Changes   
 
-## Changes   
+We're going to start focusing a bit more on various custom changes using 
+  * KubeJS 
+  * Integration 
+  * Pachouli/FTB Quests 
+and other related configs etc. 
 
-We're going to start focusing a bit more on various custom changes using KubeJS, Integration, Pachouli/FTB Quests and other related configs etc. as well as quality changes for balancing, quests and atmosphere; like the FancyMenu changes I mentioned [here](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Changelog%20v0.2.0-alpha.md#mod-updates--removals:~:text=error-,Remove,menus) above to keep the "creepy" horror-like feeling relevant.   
-We will also be making it harder to access certain items *(like powerful guns and spells)* to balance the progression and make it feel like you're really trying to "evolve" and enhance your knowledge to be on par with the dark entities that haunt you.   
+But also quality changes for balancing, quests and atmospheric changes and improvement.   
+Like the FancyMenu changes I mentioned [here](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Changelog%20v0.2.0-alpha.md#mod-updates--removals:~:text=error-,Remove,menus), to keep the "creepy" horror-like feeling relevant throughout the whole pack.   
+We will also be making it harder to access certain items *(like powerful guns and spells)* to balance the progression and make it feel like you're really trying to *"evolve"* and *"enhance"* your knowledge to be *"on par"* with the dark entities that haunt you, so you don't get OP and the modpack loses the feeling we're going for.   
+
+
+### If you want more sneak peeks, I highly recommend you..
+<a href="http://discord.gg/A3TFF6TqEU" title="Redirects to The Last Circuit discord">
+  <img width="500" height="175" alt="JoinOurDiscord" src="https://github.com/user-attachments/assets/54c6a0cc-b757-4fa7-af55-bee608a78be9" />
+</a>
+
 
 
 ---
@@ -390,6 +398,7 @@ We will also be making it harder to access certain items *(like powerful guns an
 
 ## ⚠️ IMPORTANT DISCLAIMER *(Please Read)*
 
+### ***[License](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/LICENSE.md) HAS BEEN UPDATED.***
 This release marks our definitive transition to the CurseForge architecture.     
 ***Ensure your old Modrinth profiles are fully backup-archived before deploying this package***.    
 Manual file transfers of older development branches **(v0.1.0-alpha-r.dev)** into this environment *may* corrupt your script directories and trigger hard boot errors.
