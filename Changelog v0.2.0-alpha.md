@@ -14,22 +14,22 @@
 
 Finally managed to come to an agreement on permission of usage for the mods, so they are now included in the modpack!
 
-**HUGE THANKS** to [Gaboouu](https://github.com) & "[Super_awespme_baby](https://curseforge.com)" again for granting me permission to include these in the modpack! ❤️
+**HUGE THANKS** to [Gaboouu]([https://github.com](https://www.curseforge.com/members/gaboouu/projects)) & "[Super_awespme_baby]([https://curseforge.com](https://www.curseforge.com/members/super_awesome_baby/projects))" again for granting me permission to include these in the modpack! ❤️
 
-### 🆕 New Additions!
+### 🆕 Major **NEW** Additions!
 
 [Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion) - *New LoD rendering mod*   
 We decided to switch over to Voxy for many reasons, main reason being better compatibility with multiple mods, and that it fits our plan better.
 
 ### 🔄 Platform changes!
 In the requirements of getting permission for said mods were to publish on CurseForge. Together with some technical reasons amongst other, we've decided to switch to CurseForge permanently!
-*(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`** is no longer available for the public).*
+*(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`-`v0.1.9-alpha-r.dev`** is no longer available for the public).*
 
 
 
 
 ***Please note: we do not condone in republishing this modpack without the permission from the author of this modpack anymore.***
-*(Please see updated [license](https://github.com))*
+*(Please see updated [license]([https://github.com](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/LICENSE.md)))*
 
 ---
 
@@ -46,16 +46,16 @@ In the requirements of getting permission for said mods were to publish on Curse
 </details>
   
 <details>
-<summary>Fixes</summary>
+<summary>Fixes & QoL</summary>
   
   * **Cleaned Up Codes:** Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the 
   resource packs.
-  * **[Managed order for resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** Custom order for resourcepacks
+  * **[Managed order for resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** Custom order for resource packs
 
 </details>
 
 
-***We're constantly working on making the modpack run smoother on all systems, though it is hard for lower-end systems because of the size of this modpack.***
+***We're constantly working on making the modpack run smoother on all systems, though it is hard for lower-end systems because of the size of this modpack, so we kindly ask you to bare with us.***
 
 
 
@@ -75,9 +75,9 @@ If the game layout resets or doesn't load them automatically on your first boot,
 6. **👑 UI, Fonts, and Core Fixes (`5.1.8` > `6.1.1` - Absolute Top):** Highest loading priority. Activates the custom container shadings, font overhauls (Der's Shaded Font), and global Sodium translation patches over all active asset arrays.   
 
 ### Starting with "0.1.1" being at the bottom. - 
-*adding 0.1.1 first, 0.1.2 second, etc.*
+*Start with adding **`0.1.1`** first, **`0.1.2`** second, etc.*
 
-**Disclaimer!**
+***Disclaimer!***
 Some resourcepacks are built-in with some mods and should be left at the bottom of the loading order, except for "punchy" which should be placed between `1.3.27` and `2.1.1`
 
 ---
@@ -121,6 +121,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
     <summary>QoL</summary>
 
 ***Small mods that doesn't really add any "new content", but are still nice to have.***    
+  *   **[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)** - *A Minecraft LoD rendering mod, letting you to render hundreds of chunks with little to no performance impact*
   *   **BetterF3 Spark Module** - *Addon for Directly links hardware monitoring with the F3 menu interface.*       
   *   **[Quick Pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack)** - *Improves datapack & resourcepack zip gile loading times.*   
   *   **[Punchy!](https://www.curseforge.com/minecraft/mc-mods/punchy)** - *Engine for various first-person animations.*       *   **[Thunderhead](https://www.curseforge.com/minecraft/mc-mods/thunderhead)** - *Lightning & Thunder overhaul.*   
@@ -358,17 +359,25 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 
 # 🗺️ **ROADMAP**   
 
+***This is the roadmap for v0.3.0-alpha.***
+
 ## Mods to be added:   
+   We're constantly looking at adding and removing mods until we're satisfied with the pack, here are some mods we plan to add in the future:
    *   **[Ancient Remnants: Monoliths](https://www.curseforge.com/minecraft/mc-mods/ancient-remnants)** - *waiting on 1.21.1 version*   
    *Discover mysterious monoliths and uncover the ancient powers hidden within!*   
-   *   
-   *   
-   *   
+
+---
+
+## Configurations and Custom content:
+  ***On top of adding and removing new mods, 
+   *   Start working on custom content
+   *   Start working on custom configurations
+   *   Optimize
    *   
 
 ## Changes   
 
-We're going to start focusing a bit more on various custom changes using KubeJS, Integration, Pachouli and other related configs etc. as well as quality changes for balancing, quests and atmosphere; like the FancyMenu changes I mentioned in "Removed" above to keep the "creepy" horror-like feeling relevant.   
+We're going to start focusing a bit more on various custom changes using KubeJS, Integration, Pachouli/FTB Quests and other related configs etc. as well as quality changes for balancing, quests and atmosphere; like the FancyMenu changes I mentioned [here](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Changelog%20v0.2.0-alpha.md#mod-updates--removals:~:text=error-,Remove,menus) above to keep the "creepy" horror-like feeling relevant.   
 We will also be making it harder to access certain items *(like powerful guns and spells)* to balance the progression and make it feel like you're really trying to "evolve" and enhance your knowledge to be on par with the dark entities that haunt you.   
 
 
@@ -378,7 +387,9 @@ We will also be making it harder to access certain items *(like powerful guns an
 **[Here](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/troubleshooting%20and%20knows%20issues.md)** you can find known issues regarding this version and on how to fix *most* of them.   
 
 ---
-## ⚠️ IMPORTANT DISCLAIMER (Please Read)   
+
+## ⚠️ IMPORTANT DISCLAIMER *(Please Read)*
+
 This release marks our definitive transition to the CurseForge architecture.     
 ***Ensure your old Modrinth profiles are fully backup-archived before deploying this package***.    
 Manual file transfers of older development branches **(v0.1.0-alpha-r.dev)** into this environment *may* corrupt your script directories and trigger hard boot errors.
