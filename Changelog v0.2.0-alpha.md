@@ -398,7 +398,7 @@ We will also be making it harder to access certain items *(like powerful guns an
 
 ## ⚠️ IMPORTANT DISCLAIMER *(Please Read)*
 
-### ***[License](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/LICENSE.md) HAS BEEN UPDATED.***
+### ***[LICENSE](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/LICENSE.md) HAS BEEN UPDATED.***
 This release marks our definitive transition to the CurseForge architecture.     
 ***Ensure your old Modrinth profiles are fully backup-archived before deploying this package***.    
 Manual file transfers of older development branches **(v0.1.0-alpha-r.dev)** into this environment *may* corrupt your script directories and trigger hard boot errors.
