@@ -167,7 +167,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **** - **   
   *   **** - **   
    
-    </details>
+</details>
 
 <details>
     <summary>Add-ons</summary>    
