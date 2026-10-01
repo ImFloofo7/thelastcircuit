@@ -50,7 +50,7 @@ In the requirements of getting permission for said mods were to publish on Curse
   
   * **Cleaned Up Codes:** Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the 
   resource packs.
-  * **[Managed order for resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** Custom order for resource packs
+  * **Managed/indexed order for resource-packs:** Custom order for resource packs
 
 </details>
 
@@ -71,7 +71,7 @@ If the game layout resets or doesn't load them automatically on your first boot,
 2. **🧬 Fresh Animations Core & Extensions (`1.2.10` > `1.2.19`):** Loads the fundamental resource frameworks first, followed directly by the core Fresh Animations engine, official extensions (`FA+`), and custom entity additions (like Drodi's Villagers).   
 3. **⚔️ Combat, Item & Creature Compatibility (`1.3.20` > `1.3.27`):** Integrates specialized creature compatibility patches (`x FA`) cleanly over the core models.   Player combat modifications, weapon shapes, and item action dependencies (like Eating Animations) load right alongside them to prevent visual clipping.   
 4. **⚙️ Mod Gränssnitt & Dark Expansions (`2.1.1` > `2.1.9`):** Loads the specialized dark theme configurations for major technology and automation mods (Create, Mekanism, Refined Storage etc).   
-5. **🗺️ Maps, Icons & Minimap Fixes (`3.1.1` > `3.1.4`):** Integrates customized map stylings, Excalibur alignment profiles, and icon patches cleanly over the engine layer.   
+5. **🗺️ Maps, Icons & Minimap Fixes (`3.1.1` > `3.1.4`):** Integrates customized map styling, Excalibur alignment profiles, and icon patches cleanly over the engine layer.   
 6. **👑 UI, Fonts, and Core Fixes (`5.1.8` > `6.1.1` - Absolute Top):** Highest loading priority. Activates the custom container shadings, font overhauls (Der's Shaded Font), and global Sodium translation patches over all active asset arrays.   
 
 ### Starting with "0.1.1" being at the bottom. - 
@@ -92,7 +92,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
       
   ***The following mods are new additions to the modpack that make changes to one thing or another.***    
   *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content*   
-  *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *TACZ: AoS lets you snipe entities from extreme distances with realistic ballistics.*   
+  *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *TacZ: AoS lets you snipe entities from extreme distances with realistic ballistics.*   
   *   **[Epic Fight - Bosses'Rise](https://www.curseforge.com/minecraft/mc-mods/bossesrise)** - *Adds souls-like bosses, dungeons and loot.*   
   *   **BetterEnd Cities** - *Generates unique city structures and progression markers throughout the End dimension.*   
   *   **Bio-Scanner** - *Faction tracking and specialized entity identification.*   
