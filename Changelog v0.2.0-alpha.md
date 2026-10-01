@@ -373,8 +373,9 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 
 We're going to start focusing a bit more on various custom changes using 
   * KubeJS 
-  * Integration 
-  * Pachouli/FTB Quests 
+  * various "integrations"
+  * Pachouli
+  * FTB Quests 
 and other related configs etc. 
 
 But also quality changes for balancing, quests and atmospheric changes and improvement.   
