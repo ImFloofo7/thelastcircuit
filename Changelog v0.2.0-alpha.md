@@ -1,6 +1,6 @@
 # **WORK IN PROGRESS**
 
-<img width="2172" height="724" alt="TCL Banner Alt compressed" src="https://github.com/user-attachments/assets/d0b1f9dc-5e09-4c53-bc24-1944512ae51c" />
+***Banner coming soon***
 
 
 # V0.2.0-Alpha IS HERE, **AND IT'S HUGE!**
