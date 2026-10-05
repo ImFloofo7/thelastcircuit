@@ -255,32 +255,31 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[Veil Volume Lights](https://www.curseforge.com/minecraft/mc-mods/veil-volume-lights)** - *Veil addon library that adds support for colored mediums.*   
   *   **[Apothic Attributes](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)** - *A library mod providing Attributes and related things*    
   *   **[Eating Animation (Core)](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge)** - *Restores fundamental consumption mechanics for base items.*   
-  *   **[KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)** - *for workking on upcoming features*   
-  *keybinds
-  *   **[KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions)** - *for workking on upcoming features*  
-  *    **[KubeJS Applied](https://www.curseforge.com/minecraft/mc-mods/applied-kubejs-kjs-ae2)** - *for working on upcoming features*   
-  *   **[KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau)** - *for working on upcoming features*  
-  *   **[KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)** - *Create integration for KubeJS - **for upcoming changes***
-  *   **[KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios)** - *for workking on upcoming features*  
+  *   **[KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)** - *Edit recipies, add new custom items, script world events, all in JavaScript! - **For upcoming changes/features***   
+  *   **[KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions)** - *JEI and Jade integration. - **For upcoming changes/features***
+  *    **[KubeJS Applied](https://www.curseforge.com/minecraft/mc-mods/applied-kubejs-kjs-ae2)** - *KubeJS bridge that adds scriptable AE2 recipes, network monitoring, storage/crafting events, device inspection, and optional ME crafting job automation. - **For upcoming changes/features***   
+  *   **[KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau)** - *Allows KubeJS to create Ars Nouveau Recipies. - **For upcoming changes/features***
+  *   **[KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)** - *Create integration for KubeJS. - **for upcoming changes***
+  *   **[KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios)** - *Curios integration for KubeJS. - **for upcoming changes***   
   *   **[KubeJS CustomMeteor](https://www.curseforge.com/minecraft/mc-mods/custommeteorjs)** - *AE2 addon for modpack makers. It lets you control meteorite blocks and terrain behavior without editing AE2 itself.*
-  *   **[KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic-evolution)** - *for working on upcoming features*
-  *   **[KubeJS EnderIO](https://www.curseforge.com/minecraft/mc-mods/kubejs-enderio)** - *for workking on upcoming features*     
-  *    **[FTB Extra Quests](https://www.curseforge.com/minecraft/mc-mods/extraquests)** - *Addon adds new tasks, rewards and functions* 
+  *   **[KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic-evolution)** - *Integration for Draconic Evolution fusion crafting. - **For upcoming changes/features***   
+  *   **[KubeJS EnderIO](https://www.curseforge.com/minecraft/mc-mods/kubejs-enderio)** - - *Adds KubeJS integration to EnderIO. - **For upcoming changes/features***
+  * **[FTB Extra Quests](https://www.curseforge.com/minecraft/mc-mods/extraquests)** - *Add-on that adds new tasks, rewards and functions. - **For upcoming changes/features*** 
   *  *geckoJS   
-  *   **IU **  
+  *   **[KubeJS IU](https://www.curseforge.com/minecraft/mc-mods/kubejs-iu)** - *Adds configuration possibilities to machine processing recipes of Industrial Upgrade (IU). - **For upcoming changes/features***  
   *KJS Editor      
-  *   **[KubeJS LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)** - *for workking on upcoming features*   
-  *   **[KubeJS Mekanism](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)** - *for workking on upcoming features*   
+  *   **[KubeJS LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)** - *Integration to modify the loot tables and loot modifiers. - **for upcoming changes/features***   
+  *   **[KubeJS Mekanism](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)** - *Mekanism integration for KubeJS. - **for upcoming changes/features***   
  
   *   **[KubeJS Mekanism extends](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism-extends)** - *for workking on upcoming features*    
   *   ** neo**
   *   **Immersive E**   
-  *   **KubeJS Keybinds** 
+  *   **[KubeJS Keybinds](https://www.curseforge.com/minecraft/mc-mods/kubejs-keybinds)** - *Expands upon KubeJS by allowing you to modify existing KeyBinds and Categories. - **For upcoming changes/features***
 
   *   **[KubeJS Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs)** - *for workking on upcoming features*   
   *   **[KubeJS ProjectE](https://www.curseforge.com/minecraft/mc-mods/kubejs-projecte)** - *for working on upcoming features*   
-  
-  *   **[QuestJS](https://www.curseforge.com/minecraft/mc-mods/questjs)** - *FTB Quests KubeJS Events adds client-side KubeJS events for the FTB Quests GUI.*
+  *   **[KubeJS Tweaks](https://www.curseforge.com/minecraft/mc-mods/kubejs-tweaks)** - *This is an addon for KubeJS to abstract some common usage of KubeJS for heavly modded modpacks. - **For working on upcoming features***
+  *   **[QuestJS](https://www.curseforge.com/minecraft/mc-mods/questjs)** - *Adds client-side KubeJS events for the FTB Quests GUI.*
   
    
  
