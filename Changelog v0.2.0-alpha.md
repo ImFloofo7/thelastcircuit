@@ -21,8 +21,8 @@ Finally managed to come to an agreement on permission of usage for the mods, so 
 
 **[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)** - *New LoD rendering mod*   
    
-We have ALSO decided to switch over to ***Voxy*** for many reasons.    
-Unfortunately, until [MCRcortex](https://github.com/MCRcortex/) makes an official back-port, you will have to install it manually ***(see steps below)*** since I am not allowed to distribute any actual files.   
+We have **ALSO** decided to switch over to ***Voxy*** for many reasons.    
+Unfortunately, until [MCRcortex](https://github.com/MCRcortex/) makes an official back-port, you will have to install it manually ***(see steps below)*** since I am **not** allowed to distribute any actual files.   
 
 
 <details>
