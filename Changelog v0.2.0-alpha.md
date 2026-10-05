@@ -232,25 +232,30 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **Toadlib** - *Core foundation engine for updated asset rendering blocks.*   
   *   **[Veil Volume Lights](https://www.curseforge.com/minecraft/mc-mods/veil-volume-lights)** - *Veil addon library that adds support for colored mediums.*   
   *   **[Apothic Attributes](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)** - *A library mod providing Attributes and related things*    
-  *   **Eating Animation (Core)** - *Restores fundamental consumption mechanics for base items.*   
+  *   **[Eating Animation (Core)](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge)** - *Restores fundamental consumption mechanics for base items.*   
   *   **[KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)** - *for workking on upcoming features*   
   *keybinds
-  *   **[KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions)** - *for workking on upcoming features*   
-  *geckoJS   
-  *KJS Editor   
-  *questJS   
-  *   **[KubeJS Mekanism](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)** - *for workking on upcoming features*   
-  *   **[KubeJS CustomMeteor](https://www.curseforge.com/minecraft/mc-mods/custommeteorjs)** - *AE2 addon for modpack makers. It lets you control meteorite blocks and terrain behavior without editing AE2 itself.* 
-  *   **[KubeJS Mekanism extends](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism-extends)** - *for workking on upcoming features*    
+  *   **[KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions)** - *for workking on upcoming features*  
+  *    **[KubeJS Applied](https://www.curseforge.com/minecraft/mc-mods/applied-kubejs-kjs-ae2)** - *for working on upcoming features*   
+  *   **[KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau)** - *for working on upcoming features*  
   *   **[KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)** - *Create integration for KubeJS - **for upcoming changes***
   *   **[KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios)** - *for workking on upcoming features*  
-  *   **[KubeJS EnderIO](https://www.curseforge.com/minecraft/mc-mods/kubejs-enderio)** - *for workking on upcoming features*   
+  *   **[KubeJS CustomMeteor](https://www.curseforge.com/minecraft/mc-mods/custommeteorjs)** - *AE2 addon for modpack makers. It lets you control meteorite blocks and terrain behavior without editing AE2 itself.*
+  *   **[KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic-evolution)** - *for working on upcoming features*
+  *   **[KubeJS EnderIO](https://www.curseforge.com/minecraft/mc-mods/kubejs-enderio)** - *for workking on upcoming features*     
+  *  *geckoJS   
+  *KJS Editor      
+  *   **[KubeJS Mekanism](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)** - *for workking on upcoming features*   
+ 
+  *   **[KubeJS Mekanism extends](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism-extends)** - *for workking on upcoming features*    
+
+
   *   **[KubeJS LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)** - *for workking on upcoming features*   
   *   **[KubeJS Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs)** - *for workking on upcoming features*   
-  *   **[KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau)** - *for working on upcoming features*   
-  *   **[KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic-evolution)** - *for working on upcoming features*   
+   
+     
   *   **[KubeJS ProjectE](https://www.curseforge.com/minecraft/mc-mods/kubejs-projecte)** - *for working on upcoming features*   
-  *   **[KubeJS Applied](https://www.curseforge.com/minecraft/mc-mods/applied-kubejs-kjs-ae2)** - *for working on upcoming features*   
+  
   *   **[QuestJS](https://www.curseforge.com/minecraft/mc-mods/questjs)** - *FTB Quests KubeJS Events adds client-side KubeJS events for the FTB Quests GUI.*
   
   ** neo**   
