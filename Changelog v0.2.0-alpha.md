@@ -45,13 +45,13 @@ Unfortunately, until [MCRcortex](https://github.com/MCRcortex/) makes an officia
 
 
 ### 🔄 Platform changes!
-One of the requirements for getting permission to include Nightfall and [Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs) was that we publish on CurseForge. Combined with a few technical reasons, we have decided to switch to CurseForge **permanently**!
+One of the requirements for getting permission to include **[Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)** and **[Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)** was that we publish on CurseForge. Combined with a few technical reasons, we have decided to switch to CurseForge **permanently**!
 *(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`-`v0.1.9-alpha-r.dev`** is no longer available for the public).*
 
 
 
 ***Please note: we do not condone in republishing this modpack without the permission from the author of this modpack anymore.***
-*(Please see updated [license]([https://github.com](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/LICENSE.md)))*
+*(Please see updated **[license](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/LICENSE.md))***
 
 ---
 
@@ -265,26 +265,28 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[KubeJS CustomMeteor](https://www.curseforge.com/minecraft/mc-mods/custommeteorjs)** - *AE2 addon for modpack makers. It lets you control meteorite blocks and terrain behavior without editing AE2 itself.*
   *   **[KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic-evolution)** - *for working on upcoming features*
   *   **[KubeJS EnderIO](https://www.curseforge.com/minecraft/mc-mods/kubejs-enderio)** - *for workking on upcoming features*     
+  *    **[FTB Extra Quests](https://www.curseforge.com/minecraft/mc-mods/extraquests)** - *Addon adds new tasks, rewards and functions* 
   *  *geckoJS   
+  *   **IU **  
   *KJS Editor      
+  *   **[KubeJS LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)** - *for workking on upcoming features*   
   *   **[KubeJS Mekanism](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)** - *for workking on upcoming features*   
  
   *   **[KubeJS Mekanism extends](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism-extends)** - *for workking on upcoming features*    
+  *   ** neo**
+  *   **Immersive E**   
+  *   **KubeJS Keybinds** 
 
-
-  *   **[KubeJS LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)** - *for workking on upcoming features*   
   *   **[KubeJS Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs)** - *for workking on upcoming features*   
-   
-     
   *   **[KubeJS ProjectE](https://www.curseforge.com/minecraft/mc-mods/kubejs-projecte)** - *for working on upcoming features*   
   
   *   **[QuestJS](https://www.curseforge.com/minecraft/mc-mods/questjs)** - *FTB Quests KubeJS Events adds client-side KubeJS events for the FTB Quests GUI.*
   
-  ** neo**   
-  ** IU **   
+   
+ 
   **rechisled**   
-  **Immersive E**   
-  **KubeJS Keybinds**   
+
+  
   *   **[FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)** - *Library for FTB Quests.*   
   *   **[FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)** - *Library for mods that can utilize team progression like FTB Chunks and FTB Quests.*   
   *   **[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)** - *Quest book system*
@@ -292,7 +294,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[FTB Quest Quick Check](https://www.curseforge.com/minecraft/mc-mods/ftb-quest-quick-check)** - *FTB Quest Quick             Check adds a button to the FTB Quests GUI that completes all currently available checkmark tasks in one action.*   
   *   **[FTB Quest Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer)** - *Removes micro-freezes when moving items and turning in quests, makes inventory checking smarter and quieter for the server*   
   *   **[FTB Quest Entity Visualization](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-entity-visualization)** -           *This mod replaces the boring spawn‑egg icon in a kill task with the actual entity rendered live in 3D.*   
-  *   **[FTB Extra Quests](https://www.curseforge.com/minecraft/mc-mods/extraquests)** - *Addon adds new tasks, rewards and functions*   
+  
   *   **[FTB Quest Completion Broadcast](https://www.curseforge.com/minecraft/mc-mods/quest-completion-broadcast)** - *Chat announcements for quest, (including for players on other teams).*        
   *   **[PlayerNBT Quests](https://www.curseforge.com/minecraft/mc-mods/playernbt-quests-ftb-quests)** - *Extension mod that provides quest creators with player NBT data detection functionality. *   
   *Progressive Stages   
