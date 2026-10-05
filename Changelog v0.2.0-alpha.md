@@ -10,20 +10,42 @@
 ### ☑️ Mod permissions!
 
 
-### [Epic Fight "Nightfall"](https://curseforge.com) & [GabouLibs](https://curseforge.com) now included!
+### [Epic Fight-Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall) & [Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs) now included!
 
 Finally managed to come to an agreement on permission of usage for the mods, so they are now included in the modpack!
 
-**HUGE THANKS** to [Gaboouu](https://www.curseforge.com/members/gaboouu/projects) & [Super_awespme_baby](https://www.curseforge.com/members/super_awesome_baby/projects) again for granting me permission to include these in the modpack! ❤️
+**HUGE THANKS** to **[Gaboouu](https://www.curseforge.com/members/gaboouu/projects)** & **[Super_awespme_baby](https://www.curseforge.com/members/super_awesome_baby/projects)** again for granting me permission to include these in the modpack! ❤️
+
 
 ### 🆕 Major **NEW** Additions!
 
-[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion) - *New LoD rendering mod*   
-We decided to switch over to Voxy for many reasons, main reason being better compatibility with multiple mods, and that it fits our plan better.
+**[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)** - *New LoD rendering mod*   
+   
+We have ALSO decided to switch over to ***Voxy*** for many reasons.    
+Unfortunately, until [MCRcortex](https://github.com/MCRcortex/) makes an official back-port, you will have to install it manually ***(see steps below)*** since I am not allowed to distribute any actual files.   
+
+
+<details>
+<summary>How to Install Voxy</summary>
+
+**1.** Go to the GitHub for the [unofficial backport](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion).   
+**2.** Clone or download the source code/zip to your computer.   
+3**.** Build the project using Gradle, VSCode or IntelliJ. 
+      *(If you want to use an IDE instead of the terminal, you can follow these video tutorials:)*      
+         • Video Guide: [How to build Gradle projects with VS Code](https://www.youtube.com/watch?v=Y6Qd_Bovo-o)
+         • Video Guide: [How to build Gradle projects with IntelliJ IDEA](https://www.youtube.com/watch?v=e500ohACgYI&xstg=CAMSEBUJ_b-oH-PhF0yjBgavkzY%3D)
+         • *Alternatively, you can follow this text-based Reddit Guide: [How to get Voxy running on NeoForge 1.21.1](https://www.reddit.com/r/feedthebeast/comments/1sl0xp4/guide_how_to_get_voxy_running_on_neoforge_1211/), though you should use **[THIS VERSION](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)**, **NOT** the version provided in the reddit guide. *([version](https://github.com/m3t4f1v3/voxy/tree/mc_1211)**
+         
+**4.** Once the build is finished, grab the generated `.jar` file from the "`build`/`libs`*" folder and move it into the  Minecraft mods folder ([1:14](https://www.youtube.com/shorts/TvEFK4pbVEE?t=75)).   
+***(Normally located in;** [DRIVE LETTER]:\Users\[USER]\curseforge\minecraft\Instances\The Last Circuit v`x.x.x-x`)*   
+   
+***Please note that this is an unofficial community version***, so you **cannot** get official support from [MCRcortex](https://github.com/MCRcortex/) if you encounter any bugs.***  
+*Please report potential bugs on the discord - linked at the bottom of this page.*
+</details>
 
 
 ### 🔄 Platform changes!
-In the requirements of getting permission for said mods were to publish on CurseForge. Together with some technical reasons amongst other, we've decided to switch to CurseForge permanently!
+One of the requirements for getting permission to include Nightfall and [Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs) was that we publish on CurseForge. Combined with a few technical reasons, we have decided to switch to CurseForge **permanently**!
 *(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`-`v0.1.9-alpha-r.dev`** is no longer available for the public).*
 
 
