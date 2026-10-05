@@ -113,6 +113,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
     <summary>New Features & Core Content</summary> 
       
   ***The following mods are new additions to the modpack that make changes to one thing or another.***    
+  *   **[Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)**
   *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content.*   
   *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *TACZ: AoS lets you snipe entities from extreme distances with realistic ballistics.*   
   *   **[Epic Fight - Bosses'Rise](https://www.curseforge.com/minecraft/mc-mods/bossesrise)** - *Adds souls-like bosses, dungeons and loot.*   
