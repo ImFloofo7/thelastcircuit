@@ -30,7 +30,7 @@ Unfortunately, until [MCRcortex](https://github.com/MCRcortex/) makes an officia
 
 **1.** Go to the GitHub for the [unofficial backport](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion).   
 **2.** Clone or download the source code/zip to your computer.   
-3**.** Build the project using Gradle, VSCode or IntelliJ. 
+**3.** Build the project using Gradle, VSCode or IntelliJ. 
       *(If you want to use an IDE instead of the terminal, you can follow these video tutorials:)*      
          • Video Guide: [How to build Gradle projects with VS Code](https://www.youtube.com/watch?v=Y6Qd_Bovo-o)
          • Video Guide: [How to build Gradle projects with IntelliJ IDEA](https://www.youtube.com/watch?v=e500ohACgYI&xstg=CAMSEBUJ_b-oH-PhF0yjBgavkzY%3D)
