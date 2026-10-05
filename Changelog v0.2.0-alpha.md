@@ -39,18 +39,18 @@ Unfortunately, until [MCRcortex](https://github.com/MCRcortex/) makes an officia
 **4.** Once the build is finished, grab the generated `.jar` file from the "`build`/`libs`*" folder and move it into the  Minecraft mods folder ([1:14](https://www.youtube.com/shorts/TvEFK4pbVEE?t=75)).   
 ***(Normally located in;** [DRIVE LETTER]:\Users\[USER]\curseforge\minecraft\Instances\The Last Circuit v`x.x.x-x`)*   
    
-***Please note that this is an unofficial community version***, so you **cannot** get official support from [MCRcortex](https://github.com/MCRcortex/) if you encounter any bugs.***  
+***Please note that this is an unofficial community version***, so you **cannot** get official support from [MCRcortex](https://github.com/MCRcortex/) if you encounter any bugs.***   
 *Please report potential bugs on the discord - linked at the bottom of this page.*
 </details>
 
 
 ### 🔄 Platform changes!
-One of the requirements for getting permission to include **[Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)** and **[Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)** was that we publish on CurseForge. Combined with a few technical reasons, we have decided to switch to CurseForge **permanently**!
+One of the requirements for getting permission to include **[Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)** and **[Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)** was that we publish on CurseForge. Combined with a few technical reasons, we have decided to switch to CurseForge **permanently**!   
 *(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`-`v0.1.9-alpha-r.dev`** is no longer available for the public).*
 
 
 
-***Please note: we do not condone in republishing this modpack without the permission from the author of this modpack anymore.***
+***Please note: we do not condone in republishing this modpack without the permission from the author of this modpack anymore.***    
 *(Please see updated **[license](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/LICENSE.md))***
 
 ---
