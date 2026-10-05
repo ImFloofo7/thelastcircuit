@@ -88,16 +88,17 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 <details>
   <summary>▶️ Added:</summary>
     <details>
-    <summary>New Features & Content</summary> 
+    <summary>New Features & Core Content</summary> 
       
   ***The following mods are new additions to the modpack that make changes to one thing or another.***    
-  *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content*   
+  *   **[ProgressiveStages](https://www.curseforge.com/minecraft/mc-mods/progressivestages)** - *Adds a progression system in-game, this will be used for the main "**Questline**" that is under development.*
+  *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content.*   
   *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *TACZ: AoS lets you snipe entities from extreme distances with realistic ballistics.*   
   *   **[Epic Fight - Bosses'Rise](https://www.curseforge.com/minecraft/mc-mods/bossesrise)** - *Adds souls-like bosses, dungeons and loot.*   
   *   **BetterEnd Cities** - *Generates unique city structures and progression markers throughout the End dimension.*   
   *   **Bio-Scanner** - *Faction tracking and specialized entity identification.*   
   *   **[TacZ Attributes](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes)** - *Adds more than 250 attributes to TacZ weapons*   
-  *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** - *Adds micro (pixel) blocks*   
+  *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** - *Adds the ability to create micro (pixel) blocks.*   
   *   **[Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)** - **   
   *   **Diamond Vein** - *Mining optimizations and automated scanning adjustments.*   
   *   **** - **   
@@ -239,7 +240,9 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *KJS Editor   
   *questJS   
   *   **[KubeJS Mekanism](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)** - *for workking on upcoming features*   
-  *mekanism extend    
+  *   **[KubeJS CustomMeteor](https://www.curseforge.com/minecraft/mc-mods/custommeteorjs)** - *AE2 addon for modpack makers. It lets you control meteorite blocks and terrain behavior without editing AE2 itself.* 
+  *   **[KubeJS Mekanism extends](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism-extends)** - *for workking on upcoming features*    
+  *   **[KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)** - *Create integration for KubeJS - **for upcoming changes***
   *   **[KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios)** - *for workking on upcoming features*  
   *   **[KubeJS EnderIO](https://www.curseforge.com/minecraft/mc-mods/kubejs-enderio)** - *for workking on upcoming features*   
   *   **[KubeJS LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)** - *for workking on upcoming features*   
@@ -248,24 +251,23 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic-evolution)** - *for working on upcoming features*   
   *   **[KubeJS ProjectE](https://www.curseforge.com/minecraft/mc-mods/kubejs-projecte)** - *for working on upcoming features*   
   *   **[KubeJS Applied](https://www.curseforge.com/minecraft/mc-mods/applied-kubejs-kjs-ae2)** - *for working on upcoming features*   
-  *Custom meteor   
-  *neo   
-  *IU   
-  *rechisled   
-  *Immersive E   
-  *   
-  *FTB Library   
-  *FTB Quests   
-  *FTB Quests enhance   
-  *FTB Quest Quick Check    
-  *FTB Quest Optimizer   
-  *FTB Quest Entity Visualization   
-  *FTB Extra Quests   
-  *FTB Quest Completion Broadcast   
-  *FTB Teams   
-  *   
-  *Extra quests   
-  *PlayerNBT   
+  *   **[QuestJS](https://www.curseforge.com/minecraft/mc-mods/questjs)** - *FTB Quests KubeJS Events adds client-side KubeJS events for the FTB Quests GUI.*
+  
+  ** neo**   
+  ** IU **   
+  **rechisled**   
+  **Immersive E**   
+  **KubeJS Keybinds**   
+  *   **[FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)** - *Library for FTB Quests.*   
+  *   **[FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)** - *Library for mods that can utilize team progression like FTB Chunks and FTB Quests.*   
+  *   **[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)** - *Quest book system*
+  *   **[FTB Quests enhance](https://www.curseforge.com/minecraft/mc-mods/quest-enhance)** - *Client-side "enhancement" mod        for FTB Quests*   
+  *   **[FTB Quest Quick Check](https://www.curseforge.com/minecraft/mc-mods/ftb-quest-quick-check)** - *FTB Quest Quick             Check adds a button to the FTB Quests GUI that completes all currently available checkmark tasks in one action.*   
+  *   **[FTB Quest Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer)** - *Removes micro-freezes when moving items and turning in quests, makes inventory checking smarter and quieter for the server*   
+  *   **[FTB Quest Entity Visualization](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-entity-visualization)** -           *This mod replaces the boring spawn‑egg icon in a kill task with the actual entity rendered live in 3D.*   
+  *   **[FTB Extra Quests](https://www.curseforge.com/minecraft/mc-mods/extraquests)** - *Addon adds new tasks, rewards and functions*   
+  *   **[FTB Quest Completion Broadcast](https://www.curseforge.com/minecraft/mc-mods/quest-completion-broadcast)** - *Chat announcements for quest, (including for players on other teams).*        
+  *   **[PlayerNBT Quests](https://www.curseforge.com/minecraft/mc-mods/playernbt-quests-ftb-quests)** - *Extension mod that provides quest creators with player NBT data detection functionality. *   
   *Progressive Stages   
   *UI Quests   
   *Certain Question additions   
@@ -388,7 +390,7 @@ and other related configs etc.
 
 But also quality changes for balancing, quests and atmospheric changes and improvement.   
 Like the FancyMenu changes I mentioned [here](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Changelog%20v0.2.0-alpha.md#mod-updates--removals:~:text=error-,Remove,menus), to keep the "creepy" horror-like feeling relevant throughout the whole pack.   
-We will also be making it harder to access certain items *(like powerful guns and spells)* to balance the progression and make it feel like you're really trying to *"evolve"* and *"enhance"* your knowledge to be *"on par"* with the dark entities that haunt you, so you don't get OP and the modpack loses the feeling we're going for.   
+We will also be making it "*harder*" to access certain items *(like powerful guns and spells)*, implementing a **immersive progression system** to balance the modpack and actually make you work to stay alive, using [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) and [Progression Stages](https://www.curseforge.com/minecraft/mc-mods/progressivestages)    
 
 
 ### If you want more sneak peeks, I highly recommend you..
