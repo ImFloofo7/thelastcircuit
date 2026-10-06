@@ -32,15 +32,15 @@ Unfortunately, until [MCRcortex](https://github.com/MCRcortex/) makes an officia
 **2.** Clone or download the source code/zip to your computer.   
 **3.** Build the project using Gradle, VSCode or IntelliJ. 
       *(If you want to use an IDE instead of the terminal, you can follow these video tutorials:)*      
-         • **Video Guide:** *[How to build Gradle projects with VS Code](https://www.youtube.com/watch?v=Y6Qd_Bovo-o)*
-         • **Video Guide:** *[How to build Gradle projects with IntelliJ IDEA](https://www.youtube.com/watch?v=e500ohACgYI&xstg=CAMSEBUJ_b-oH-PhF0yjBgavkzY%3D)*
-         • *Alternatively, you can follow this text-based Reddit Guide: [How to get Voxy running on NeoForge 1.21.1](https://www.reddit.com/r/feedthebeast/comments/1sl0xp4/guide_how_to_get_voxy_running_on_neoforge_1211/), though you should use **[THIS VERSION](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)**, **NOT** the version provided in the reddit guide. *([version](https://github.com/m3t4f1v3/voxy/tree/mc_1211))**
+         • **Video Guide:** *[How to build Gradle projects with VS Code](https://www.youtube.com/watch?v=Y6Qd_Bovo-o)*   
+         • **Video Guide:** *[How to build Gradle projects with IntelliJ IDEA](https://www.youtube.com/watch?v=e500ohACgYI&xstg=CAMSEBUJ_b-oH-PhF0yjBgavkzY%3D)*   
+         • *Alternatively, you can follow this text-based Reddit Guide: [How to get Voxy running on NeoForge 1.21.1](https://www.reddit.com/r/feedthebeast/comments/1sl0xp4/guide_how_to_get_voxy_running_on_neoforge_1211/), though you should use **[THIS VERSION](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)**, **NOT** the version provided in the reddit guide. *([version](https://github.com/m3t4f1v3/voxy/tree/mc_1211))**   
          
 **4.** Once the build is finished, grab the generated `.jar` file from the "`build`/`libs`*" folder and move it into the  Minecraft mods folder ([1:14](https://www.youtube.com/shorts/TvEFK4pbVEE?t=75)).   
 ***(Normally located in;** [DRIVE LETTER]:\Users\[USER]\curseforge\minecraft\Instances\The Last Circuit v`x.x.x-x`)*   
    
 ***Please note that this is an unofficial community version***, so you **cannot** get official support from [MCRcortex](https://github.com/MCRcortex/) if you encounter any bugs.***   
-*Please report potential bugs on the discord - linked at the bottom of this page.*
+*Please report potential bugs on the discord - linked at the bottom of this page.*   
 </details>
 
 
