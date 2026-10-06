@@ -431,27 +431,25 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons):** *Replaced by Voxy*   
   *   **Every Compat - "[Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)", "[Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)", "[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)":** *Removed for now because incompatibility, and other mods like **Almost Unified** cover most of this anyway.*   
   *   **[Create Blocks & Bogies](https://www.curseforge.com/minecraft/mc-mods/create-blocks-bogies):** *Extracted to preserve clean schematic layouts in custom factory builds.*   
-  *   **Mekanism: Elements:** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*   
-
-  *   **AE2 Lightning Tech:** *Outdated version and it's "a bit too much"*   
-  *   **AE2: Better Villagers:** *Causing fatal `MenuType` error*   
-  *   **Create: Better Villagers:** *Causing fatal `MenuType` error*   
-  *   **Create Unlimited:** *Unnecessary..*   
+  *   **[Mekanism: Elements](https://www.curseforge.com/minecraft/mc-mods/mekanism-elements)** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*   
+  *   **[AE2: Lightning Tech](https://www.curseforge.com/minecraft/mc-mods/ae2-lightning-tech)** *Outdated version and it's "a bit too much tbh"*   
+  *   **[AE2: Better Villagers](https://www.curseforge.com/minecraft/mc-mods/ae2-better-villagers)** *Causing fatal `MenuType` error*   
+  *   **[Create: Better Villager](https://www.curseforge.com/minecraft/mc-mods/create-better-villager)** *Causing fatal `MenuType` error*   
+  *   **[Create: Unlimited](https://www.curseforge.com/minecraft/mc-mods/create-unlimited)** *Unnecessary..*   
   *   **[Create: Gunsmithing:](https://www.curseforge.com/minecraft/mc-mods/cgs)** *It's enough with TacZ.. for now.*   
   *   **[Create: Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen)** - *Removed to decrease clutter since there are already lots of kitchen/food releated stuff,*   
   *   **[Create: Bits 'n' Bobs](https://www.curseforge.com/minecraft/mc-mods/create-bits-n-bobs)** - *Removed to decrease clutter.*   
   *   **[Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)** - *Removed to decreace clutter.*   
-
-  *   **[Create Threaded Trains](https://www.curseforge.com/minecraft/mc-mods/create-threaded-trains)** - *Addon that is no longer needed due to the removal of **Create Trains***   
-  *   **[Create; Track Map: Fork](https://www.curseforge.com/minecraft/mc-mods/create-track-map-fork2)** - *Addon that is no longer needed due to the removal of **Create Trains***   
-  *   **[Create; Train Utilities](https://www.curseforge.com/minecraft/mc-mods/create-trainutilities)** - *Addon that is no longer needed due to the removal of **Create Trains***   
-  *   **[Create: Train Lights](https://www.curseforge.com/minecraft/mc-mods/create-train-lights)** - *Addon that is no longer needed due to the removal of **Create Trains***   
-
-  *   **[Xaero Train Map](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map)** - *Addon that is no longer needed due to the removal of **Create Trains***   
-  *   **** - *Addon that is no longer needed due to the removal of **Create Trains***   
-  *   **** - *Addon that is no longer needed due to the removal of **Create Trains***   
-  *   **** - *Addon that is no longer needed due to the removal of **Create Trains***   
-    *   **[Woodwalkers](https://www.curseforge.com/minecraft/mc-mods/woodwalkers)** - *Removed because redundancy*   
+  *   **[Railways Nabigator](https://www.curseforge.com/minecraft/mc-mods/create-railways-navigator)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistles***   
+  *   **[Create Threaded Trains](https://www.curseforge.com/minecraft/mc-mods/create-threaded-trains)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
+  *   **[Create; Track Map: Fork](https://www.curseforge.com/minecraft/mc-mods/create-track-map-fork2)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
+  *   **[Create; Train Utilities](https://www.curseforge.com/minecraft/mc-mods/create-trainutilities)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistles***   
+  *   **[Create: Train Lights](https://www.curseforge.com/minecraft/mc-mods/create-train-lights)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
+  *   **[Crate: Station Details](https://www.curseforge.com/minecraft/mc-mods/create-station-essentials)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
+  *   **[Create: More Seats](https://www.curseforge.com/minecraft/mc-mods/create-more-seats)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
+  *   **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistles***   
+  *   **[Xaero Train Map](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***     
+  *   **[Woodwalkers](https://www.curseforge.com/minecraft/mc-mods/woodwalkers)** - *Removed because redundancy*   
   *   **[Remove Loading Screen:](https://www.curseforge.com/minecraft/mc-mods/rrls)** The mod **Remove loading screen** has been permanently removed from the pack *(removed in v0.1.3-alpha-r.dev)*, as it is **completely** incompatible with our   
 
 <details>
@@ -473,7 +471,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 
 ## Mods to be added:   
    We're constantly looking at adding and removing mods until we're satisfied with the pack, here are some mods we plan to add in the future:
-   *   **** - ** version*   
+   *   **Morrowless** - *currently waiting on license permission* 
    *Discover mysterious monoliths and uncover the ancient powers hidden within!*   
 
 ---
