@@ -114,86 +114,87 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
       
   ***The following mods are what one would call "core mods", adding key elements to the gameplay.***    
 
-  *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content.*   
-  *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *TACZ: AoS lets you snipe entities from extreme distances with realistic ballistics.*   
-  *   **[Epic Fight - Bosses'Rise](https://www.curseforge.com/minecraft/mc-mods/bossesrise)** - *Adds souls-like bosses, dungeons and loot.*   
-  *   **[Wan's Bio-Scanner](https://www.curseforge.com/minecraft/mc-mods/wans-bio-scanner)** - *Faction tracking and specialized entity identification.*   
-  *   **[TacZ Attributes](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes)** - *Adds more than 250 attributes to TacZ weapons*   
-  *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** - *Adds the ability to create micro (pixel) blocks.*   
-  *   **[Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)** - *Adds 3 specialized hooks with distinct mechanics.*   
   *   **[Advanced Finders](https://www.curseforge.com/minecraft/mc-mods/advanced-finders)** - *Adds specialized ore detection tools* 
-  *   **[Wayfinder](https://www.curseforge.com/minecraft/mc-mods/wayfinder)** - *Adds a friendly mob that helps you find biomes*   
-  *   **[Fight Back](https://www.curseforge.com/minecraft/mc-mods/fight-back)** - *Adds powerful tools and armor to defend yourself against the dark entities that haunt your world.*   
-  *   **[Pack-a-Punch Machine](https://www.curseforge.com/minecraft/mc-mods/pack-a-punch-machine)** - *Adds the option to upgrade weapons. Full support for Tacz and vanilla firearms.*   
-  *   **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)** - *Adds lots of realism-inspired technology*   
-  *   **[When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)** - *Adds massive dungeons to your world*   
-  *   **[Underground Villages, Stoneholm](https://www.curseforge.com/minecraft/mc-mods/underground-villages-stoneholm)** - *Adds new villages underground*   
-  *   **[MagiTech: Arcane Engineering](https://www.curseforge.com/minecraft/mc-mods/magitech-arcane-engineering)** - *Adds "MagiTech", combinging magical and engineering elements with a progression tree centered around minerals.* 
-  *   **[Vulcan's Flashlights](https://www.curseforge.com/minecraft/mc-mods/vulcans-flashlights)** - *Adds flashlights, minet's helmets and more.*   
-  *   **[HIM - Herobrine](https://www.curseforge.com/minecraft/mc-mods/him-herobrine)** - *Stalking entity*   
-  *   **[The Final Goatman](https://www.curseforge.com/minecraft/mc-mods/the-final-goatman)** - *Adds a terrifying cryptid*    
+  *   **[Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)** - *Adds 3 specialized hooks with distinct mechanics.*   
   *   **[Distant Friends](https://www.curseforge.com/minecraft/mc-mods/distant-friends)** - *Adds stalking player-like mobs that creep at you from a distance.*   
-  *   **** - **    
+  *   **[Epic Fight - Bosses'Rise](https://www.curseforge.com/minecraft/mc-mods/bossesrise)** - *Adds souls-like bosses, dungeons and loot.*     
+  *   **[Fight Back](https://www.curseforge.com/minecraft/mc-mods/fight-back)** - *Adds powerful tools and armor to defend yourself against the dark entities that haunt your world.*   
+  *   **[HIM - Herobrine](https://www.curseforge.com/minecraft/mc-mods/him-herobrine)** - *Stalking entity*     
+  *   **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)** - *Adds lots of realism-inspired technology*     
+  *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content.*     
+  *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** - *Adds the ability to create micro (pixel) blocks.*     
+  *   **[MagiTech: Arcane Engineering](https://www.curseforge.com/minecraft/mc-mods/magitech-arcane-engineering)** - *Adds "MagiTech", combinging magical and engineering elements with a progression tree centered around minerals.* 
+  *   **[Pack-a-Punch Machine](https://www.curseforge.com/minecraft/mc-mods/pack-a-punch-machine)** - *Adds the option to upgrade weapons. Full support for **Tacz** and vanilla firearms.*     
+  *   **[Sanity: Renewed](https://www.curseforge.com/minecraft/mc-mods/sanity-renewed)** - *Introduces a sanity meter inspired by Don't Starve, adding a new mechanic that forces players to manage their mental state alongside hunger and health.*     
+  *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *Lets you snipe entities from extreme distances with realistic ballistics.*     
+  *   **[TacZ Attributes](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes)** - *Adds more than 250 attributes to TacZ weapons*     
+  *   **[The Final Goatman](https://www.curseforge.com/minecraft/mc-mods/the-final-goatman)** - *Adds a terrifying cryptid*      
+  *   **[Underground Villages, Stoneholm](https://www.curseforge.com/minecraft/mc-mods/underground-villages-stoneholm)** - *Adds new villages underground*     
+  *   **[Vulcan's Flashlights](https://www.curseforge.com/minecraft/mc-mods/vulcans-flashlights)** - *Adds flashlights, miner's helmets and more.*     
+  *   **[Wan's Bio-Scanner](https://www.curseforge.com/minecraft/mc-mods/wans-bio-scanner)** - *Faction tracking and specialized entity identification.*   
+  *   **[Wayfinder](https://www.curseforge.com/minecraft/mc-mods/wayfinder)** - *Adds a friendly mob that helps you find biomes*   
+  *   **[When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)** - *Adds massive dungeons to your world*   
+  *   **** - **   
    </details>
 
    <details>
-    <summary>QoL/Fun</summary>
+    <summary>QoL & Other</summary>
 
-***Small mods that doesn't really add any "new content", but are still nice to have.***    
+***Mods that tweaks the world, particles, mobs, blocks features etc. or adds something that isn't really content***    
 
-  *   **[2032 (world height)](https://www.curseforge.com/minecraft/mc-mods/world-height-2032)** - *Sets the world height limit to Y=2032* 
-((  *   **[Roxy](https://www.curseforge.com/minecraft/mc-mods/roxy)** - *Allows Voxy (that is for fabric) to work on NeoForge*   ))
-  *   **[SeeU](https://www.curseforge.com/minecraft/mc-mods/seeu)** - *Makes distant players visible far beyond canilla entity tracking, Compatible with Voxy*   
-  *   **[Thunderhead](https://www.curseforge.com/minecraft/mc-mods/thunderhead)** - *Lightning & Thunder overhaul.*   
-  *   **[AAA Particles](https://www.curseforge.com/minecraft/mc-mods/aaa-particles)** - *Library mod that enables using effekseer particles (.efkefc) in minecraft.*   
-  *   **[AAA World](https://www.curseforge.com/minecraft/mc-mods/aaa-particles-world)** - *Adds back the lightning effect in older version of AAA Particles mod, and more!*   
-  *   **[First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)** - *Client-side mod that changes what you see in 1st person*   
-  *   **[Punchy!](https://www.curseforge.com/minecraft/mc-mods/punchy)** - *Engine for various first-person animations.*   
-  *   **[Quick Pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack)** - *Improves datapack & resourcepack zip gile loading times.*   
-  *   **[Resourcify](https://www.curseforge.com/minecraft/mc-mods/resourcify)** - *In-game resource pack, data pack and shader browser + updater.*   
-  *   **[KubeJS Apothic](https://www.curseforge.com/minecraft/mc-mods/apothic-xp-fix)** - *Fixes/changes how experience costs from Apothic Enchanting are handled.*   
-  *   **[Fog](https://www.curseforge.com/minecraft/mc-mods/fog)** - *A total overhaul of Minecraft's fog, offering many different options for customization.*   
-  *   **[BetterF3 Spark Module](https://www.curseforge.com/minecraft/mc-mods/betterf3-spark-module)** - *Addon for BetterF3 that directly links hardware monitoring with the F3 menu interface.*     *   **[AE2 Tangible Bookmarks](https://www.curseforge.com/minecraft/mc-mods/ae2-tangible-bookmarks)** - *Let's you bookmark items in AE2 and more!*   
-  *   **[Search for Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/searchfor)** - *Native integration for directory navigation inside shader options.*   
+  *   **[2032 (world height)](https://www.curseforge.com/minecraft/mc-mods/world-height-2032)** - *Sets the world height limit to Y=2032*   
+  *   **[AAA World](https://www.curseforge.com/minecraft/mc-mods/aaa-particles-world)** - *Adds back the lightning effect in older version of **AAA Particles** mod, and more!*   
+  *   **[AE2 Tangible Bookmarks](https://www.curseforge.com/minecraft/mc-mods/ae2-tangible-bookmarks)** - *Let's you bookmark items in **AE2** and more!*   
+  *   **[AE2 Terminal Scroll Wheel Cycle](https://www.curseforge.com/minecraft/mc-mods/ae2-terminal-cycling)** - *Allows you to use your scroll wheel in various** AE2** terminals*   
   *   **[Auto Swap](https://www.curseforge.com/minecraft/mc-mods/auto-swap)** - *Automates inventory management and equipment swapping*   
-  *   **[PatPat](https://www.curseforge.com/minecraft/mc-mods/patpat)** - *Let's you pat mobs!*    
-  *   **[AE2 Terminal Scroll Wheel Cycle](https://www.curseforge.com/minecraft/mc-mods/ae2-terminal-cycling)** - *Allows you to use your scroll wheel in various AE2 terminals*   
-  *   **[Keep Inventory Always](https://www.curseforge.com/minecraft/mc-mods/keep-inventory-always)** - *Turns on the `KeepInventory` gamerule by default.*   
-  *   **FancyMods BetterEnd Tweaks** - *Balance adjustments and biome-specific block variants.*    *   **[Dough Slime Ball Recipe](https://www.curseforge.com/minecraft/mc-mods/dough-slime-ball-recipe)** - *Create slime with dough from **Farmers Delight** and dye!*   
-  *   **[Inventory Mending](https://www.curseforge.com/minecraft/mc-mods/inventory-mending)** - *Takes away the need to hold the tools with mending* 
-  *   **[Stack Refill](https://www.curseforge.com/minecraft/mc-mods/stack-refill)** - *Automatically replaces exhausted resources from backpack reserves.*   
-  *   **[Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)** - *Items remain physically dropped inside the crafting grid matrix.*   
-  *   **[Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod)** - *Adds lots of enhancements and possibilities like the ability to host multiplayer worlds for free!*   
-  *   **[Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)** - *Adds/modifies a lot of missing third-person animations from first-person*    
+  *   **[BetterEnd Cities](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-better-end)** - *Changes to end city generation and loot.*   
+  *   **[Draconic Insight](https://www.curseforge.com/minecraft/mc-mods/draconic-insight)** - *Adds an informational "companion" for **Draconic Evolution***   
+  *   **[Dough Slime Ball Recipe](https://www.curseforge.com/minecraft/mc-mods/dough-slime-ball-recipe)** - *Create slime with dough from **Farmers Delight** and dye!*   
+  *   **[Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod)** - *Adds lots of enhancements and possibilities like the ability to host multiplayer worlds for free!*     
   *   **[FastFind](https://www.curseforge.com/minecraft/mc-mods/fastfind)** - *Helps you locate specific items inside any inventory block — `chests`, `furnaces`, `hoppers`, `shulker boxes`, `barrels`, you name it.*   
+  *   **[First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)** - *Client-side mod that changes what you see in 1st person*   
+  *   **[Fog](https://www.curseforge.com/minecraft/mc-mods/fog)** - *A total overhaul of Minecraft's fog, offering many different options for customization.*   
   *   **[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)** - *Overhauled Inventory with lots of options and customizeability.*   
+  *   **[Inventory Mending](https://www.curseforge.com/minecraft/mc-mods/inventory-mending)** - *Takes away the need to hold the tools with mending*   
+  *   **[KubeJS Apothic](https://www.curseforge.com/minecraft/mc-mods/apothic-xp-fix)** - *Fixes/changes how experience costs from Apothic Enchanting are handled.*   
+  *   **[Keep Inventory Always](https://www.curseforge.com/minecraft/mc-mods/keep-inventory-always)** - *Turns on the `KeepInventory` gamerule by default.*   
+  *   **[Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)** - *Adds/modifies a lot of missing third-person animations from first-person*    
+  *   **[PatPat](https://www.curseforge.com/minecraft/mc-mods/patpat)** - *Let's you pat mobs!*    
+  *   **[Punchy!](https://www.curseforge.com/minecraft/mc-mods/punchy)** - *Engine for various first-person animations.*    
+  *   **[Refined Storage Warning](https://www.curseforge.com/minecraft/mc-mods/rs-storage-warnings)** - *Warns you when **Refined Storage** storage capacity is low *   
+  *   **[Resourcify](https://www.curseforge.com/minecraft/mc-mods/resourcify)** - *In-game resource pack, data pack and shader browser + updater.*   
+  ((  *   **[Roxy](https://www.curseforge.com/minecraft/mc-mods/roxy)** - *Allows **Voxy** (that is for fabric) to work on NeoForge*   ))     
+  *   **[Search for Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/searchfor)** - *Native integration for directory navigation inside shader options.*   
+  *   **[SeeU](https://www.curseforge.com/minecraft/mc-mods/seeu)** - *Makes distant players visible far beyond vanilla entity tracking, Compatible with **Voxy***   
   *   **[Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)** - *Adds fancy spawn animations to mobs!*     
-  *   **[RS Storage Warning](https://www.curseforge.com/minecraft/mc-mods/rs-storage-warnings)** - *Warns you when **Refined Storage** storage capacity is low *   
-  *   **[Draconic Insight](https://www.curseforge.com/minecraft/mc-mods/draconic-insight)** - *Adds an informational "companion" for Draconic Evolution*   
-  *   **[Streams Reflowing](https://www.curseforge.com/minecraft/mc-mods/streams-reflowing)** - *Streams Reflowing weaves wonderful waterways to your Minecraft world.*   
-  *   **[Vulcan's Darkness](https://www.curseforge.com/minecraft/mc-mods/vulcans-darkness)** - *Adds darkness to the world* 
+  *   **[Stack Refill](https://www.curseforge.com/minecraft/mc-mods/stack-refill)** - *Automatically replaces exhausted resources from backpack reserves.*   
+  *   **[Streams Reflowing](https://www.curseforge.com/minecraft/mc-mods/streams-reflowing)** - *Creates beautiful weaves and wonderful waterways in your world.*   
+  *   **[Thunderhead](https://www.curseforge.com/minecraft/mc-mods/thunderhead)** - *Lightning & Thunder overhaul.*   
+  *   **[Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)** - *Items remain physically dropped inside the crafting grid matrix.*   
+  *   **[Vulcan's Darkness](https://www.curseforge.com/minecraft/mc-mods/vulcans-darkness)** - *Adds darkness to the world*   
   *   **** - **   
     </details>
 
 
     
    <details>
-    <summary>Optimization mods</summary>
+    <summary>Optimization</summary>
    
 ***The following mods has been added to improve quality and performance***   
 
-  *   **[TT20](https://curseforge.com)** - *TT20 helps reduce lag by optimizing how ticks work when the server's TPS is low.*   
-  *   **[Epic Fight (FPS Optimizer)](https://www.curseforge.com/minecraft/mc-mods/epic-fight-fps-optimizer)** - *A configurable client-side FPS optimizer, reduces distant animation and visual effect rendering costs*   
   *   **[All The Leaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)** - *Crash prevention and optimization*   
-  *   **[Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn)** - *Optimized memory usage and re-mapped memory leak garbage tracking.*   
-  *   **[Smooth Boot (Recreated)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-recreated)** - *Smooth loading allocations across split core processing.**   
+  *   **[Create: Better FPS](https://www.curseforge.com/minecraft/mc-mods/create-better-fps)** - *Greatly improves your fps when using Shaderpacks with **Create** mods.*   
+  *   **[Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)** - *Mod that enables the option to skip rendering things that are not in you FoV*     
+  *   **[Epic Fight (FPS Optimizer)](https://www.curseforge.com/minecraft/mc-mods/epic-fight-fps-optimizer)** - *A configurable client-side FPS optimizer, reduces distant animation and visual effect rendering costs*   
+  *   **[Fast Noise](https://www.curseforge.com/minecraft/mc-mods/zfastnoise)** - *Modern optimization mod to improve world generation times.*     
+  *   **[Just Enough Threads](https://www.curseforge.com/minecraft/mc-mods/just-enough-threads)** - *Optimizes **JEI** startup by moving the heaviest startup work off the main thread and spreads it across your CPU cores.*   
+  *   **[Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)** - *Instead of having to reload the whole pack etc, you get booted back to the main menu when you crash **usually atleast, there are some bugs with this and some irrecoverable crashes that will still crash your whole game.***     
   *   **[PackForge](https://www.curseforge.com/minecraft/mc-mods/packforge-optimized-resource-pack-loading-time)** - *Mod that helps large resource packs load faster.*   
-  *   **[Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)** - *Mod that enables the option to skip rendering things that are not in you FoV*   
-  *   **[Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)** - *Instead of having to reload the whole pack etc, you get booted back to the main menu when you crash **usually atleast, there are some bugs with this and some irrecoverable crashes that will still crash your whole game.***   
-  *   **[Fast Noise](https://www.curseforge.com/minecraft/mc-mods/zfastnoise)** - *Modern optimization mod to improve world generation times.*   
-  *   **[Create: Better FPS](https://www.curseforge.com/minecraft/mc-mods/create-better-fps)** - *Greatly improves your fps when using ShaderPacks with Create mods.*   
-  *   **[TacZ: Gunpack Redistribution](https://www.curseforge.com/minecraft/mc-mods/tacz-gunpack-redistribution-fork)** - *Small compatibility utility for Timeless and Classics Guns: Zero.*   
-  *   **[Just Enough Threads](https://www.curseforge.com/minecraft/mc-mods/just-enough-threads)** - *Optimizes JEI startup by moving the heaviest statup work off the main thread and spreads it across your CPU cores.*   
+  *   **[Quick Pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack)** - *Improves datapack & resourcepack zip gile loading times.*     
+  *   **[Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn)** - *Optimized memory usage and re-mapped memory leak garbage tracking.*   
+  *   **[Smooth Boot (Recreated)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-recreated)** - *Smooth loading allocations across split core processing.*   
+  *   **[TacZ: Gunpack Redistribution](https://www.curseforge.com/minecraft/mc-mods/tacz-gunpack-redistribution-fork)** - *Small compatibility utility for **TacZ**.*   
+  *   **[TT20](https://curseforge.com)** - *TT20 helps reduce lag by optimizing how ticks work when the server's TPS is low.*   
   *   **** - **   
    </details>
 
@@ -202,88 +203,88 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
  
 ***The following mods are add-ons for mods already in the modpack.***   
 
-  *   **[Mekanism Nuclear Weapons & Explosives](https://www.curseforge.com/minecraft/mc-mods/mekanism-nuclear-weapons-explosives)** - *Addon for mekanism that adds nuclear,hydrogen and antimatter bombs*   
-  *   **[TacZ Attributes (Addon)](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes-addon)** - *Transform every gun into a unique find.*   
-  *   **[TacZ: Blueprints Reforged](https://www.curseforge.com/minecraft/mc-mods/tacz-blueprints-reforged)** - *TaCZ: Blueprints Reforged is an addon for TaCZ that turns guns and attachments into something you have to discover and earn.*   
-  *   **[TacZ Addon](https://www.curseforge.com/minecraft/mc-mods/tacz-addon)** - *An expansion mod for TaCZ.*   
-  *   **[Veil Lights for TacZ](https://www.curseforge.com/minecraft/mc-mods/veil-lights-for-tacz)** - *Addon that renders configured TaCZ weapon lights through the separate Veil Volume Lights library*   
-  *   **[Sophisticated Tactical Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-tactical-backpacks)** - *Add-on for Sophisticated Backpacks that adds military-style camouflage appearance and an Ammo Reload Upgrade that is compatible with several firearm mods (like TacZ).*    
-  *   **[Just Enough TacZ](https://www.curseforge.com/minecraft/mc-mods/jet-just-enough-tacz)** - *This mods adds config that allows removal of guns and addons from the game*   
-  *   **[(IU) Watering Can](https://www.curseforge.com/minecraft/mc-mods/iu-watering-can)** - *Adds watering cans to Industrial Upgrade.*   
-  *   **[(IU) Power Utilities](https://www.curseforge.com/minecraft/mc-mods/power-utilities-iu)** - *Addon to IndustrialUpgrade. Adds a block that allows you to convert energy from one type to another, and then back.*   
-  *   **[(IU) Simply Quarries](https://www.curseforge.com/minecraft/mc-mods/simply-quarries)** - *Addon for Industrial Upgrade that adds a quarry block.*   
-  *   **[BetterEnd Cities](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-better-end)** - *Changes to End city generation and loot.*
-  *   **[Loot Integrations: Yung Structures](https://www.curseforge.com/minecraft/mc-mods/yung-structures-addon-for-loot-integrations)** - *Addon for **Loot Integrations**, changes loottable for the Yung mod's structures:*    
-  *   **[Loot Integrations: Randomized Loot](https://www.curseforge.com/minecraft/mc-mods/vanilla-loot-addon-for-loot-integrations)** - *Addon for Loot Integrations that enhances loot variety in standard chest loot tables.*   
-  *   **[ME Requester](https://www.curseforge.com/minecraft/mc-mods/merequester)** - *Easy automation methos to keep AE2 ME-system "in stock"*   
-  *   **[Refinded Fluid Substitution](https://www.curseforge.com/minecraft/mc-mods/refined-fluid-substitution)** - *Allows fluids to be used directly instead of buckets to Refined Storage*   
-  *   **[Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)** - *Adds bigger fluid- and item disks to **Refined Storage***
-  *   **[Refinded Delight](https://www.curseforge.com/minecraft/mc-mods/refined-delight)** - *Adds a Wireless Cooking Pot, a **Farmer's Delight** pot that pulls ingredients from **Refined Storage** networks*   
   *   **[Applied Delight](https://www.curseforge.com/minecraft/mc-mods/applied-delight)** - *Adds a Wireless Cooking Pot, a **Farmer's Delight** pot that pulls ingredients from **AE2** networks*   
-  *   **[Refined Types](https://www.curseforge.com/minecraft/mc-mods/refined-types)** - *Adds support for FEm Source and Souls in various **Refined Storage** components*
-  *   **[Mekanism Turrets & Fences](https://www.curseforge.com/minecraft/mc-mods/mekanism-turrets-fences)** - *Adds defensive turrents and fences*   
-  *   **[Farmer's Cutting: Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-regions-unexplored)** - *A*   
-  *   **[Just Enough Filters](https://www.curseforge.com/minecraft/mc-mods/just-enough-filters)** - *Adds a dedicated filter bar to your item list*   
-  *   **[Just Enough Search](https://www.curseforge.com/minecraft/mc-mods/just-enough-search-jes)** - *Addon that improves the search experience with better clearing, autocomplete suggestions, search history and favorites.*   
-  *   **[Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)** - *Provides useful information regarding status effects.*   
-  *   **[Just Enough Resorces](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)** - *Adds info about mob drops, dungeon loot, ore gen and plant drops*   
-  *   **[Just Enough Mekanism Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-mekanism-multiblocks)** - *Add JEI page about Mekanism mod's multiblocks.*     
-  *   **[JEI Malum](https://www.curseforge.com/minecraft/mc-mods/jei-malum)** - *Addon for Malum, designed to display spirit and soul harvesting drop information in JEI.*   
-  *   **[JEI Enchants](https://www.curseforge.com/minecraft/mc-mods/jei-enchants)** - *Adds enchantment-related information to JEI.*   
-  *   **[Just enough Items WorldGen](https://www.curseforge.com/minecraft/mc-mods/jei-worldgen)** - *View ore generation information from inside JEI (compatible with the majority of modded ores since it reads directly from the biome data).*   
-  *   **[Just enough Items: Create Compat](https://www.curseforge.com/minecraft/mc-mods/createjeicompat)** - *A compatibility mod for Create and JEI that enhances the display of sequenced assembly recipes in JEI for 7+ steps.*   
-  *   **[Just Enough Items: Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-jei-index)** - *Adds a JEI Index Upgrade for Sophisticated Backpacks.*  
-  *   **[Just Enough Items: Mekanism Generatiors](https://www.curseforge.com/minecraft/mc-mods/mekagenjei-mekanism-generator-addon)** - *Adds new custom JEI categories based on Mkeanism Generators*  
-  *   **[Just Enough Items: Structures](https://www.curseforge.com/minecraft/mc-mods/jei-structures)** - *JEI Structures is a mod that adds structure information browsing to JEI.*  
-  *   **[Just Enough Items: AE2](https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration)** - *Reintroduces the **Just Enough Items** compatibility layer that **Applied Energetics 2** removed in 1.21*  
-  *   **[Just Enough Items: Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration)** - *Enhances crafting and recipe interaction between **JEI** and **Refined Storage**.*  
+  *   **[BetterF3 Spark Module](https://www.curseforge.com/minecraft/mc-mods/betterf3-spark-module)** - *Add-on for **BetterF3** that directly links hardware monitoring with the F3 menu interface.*       
+  *   **[Farmer's Cutting: Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-regions-unexplored)** - *Adds more **Farmer's Delight** cutting board recipes for **Regions Unexplored**.*   
+  *   **[(IU) Power Utilities](https://www.curseforge.com/minecraft/mc-mods/power-utilities-iu)** - *Add-on to **Industrial Upgrade**. Adds a block that allows you to convert energy from one type to another, and then back.*   
+  *   **[(IU) Simply Quarries](https://www.curseforge.com/minecraft/mc-mods/simply-quarries)** - *Add-on for **Industrial Upgrade** that adds a quarry block.*   
+  *   **[(IU) Watering Can](https://www.curseforge.com/minecraft/mc-mods/iu-watering-can)** - *Adds watering cans to** Industrial Upgrade**.*   
+  *   **[Just Enough Items: AE2](https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration)** - *Reintroduces the **Just Enough Items** compatibility layer that **Applied Energetics 2** removed in 1.21*   
+  *   **[Just enough Items: Create Compat](https://www.curseforge.com/minecraft/mc-mods/createjeicompat)** - *A compatibility mod for **Create** and JEI that enhances the display of sequenced assembly recipes in **JEI** for 7+ steps.*      *   **[Just Enough Items: Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)** - *Provides useful information regarding status effects.*    
+  *   **[Just Enough Items: Enchants](https://www.curseforge.com/minecraft/mc-mods/jei-enchants)** - *Adds enchantment-related information to **JEI**.*     
+  *   **[Just Enough Items: Filters](https://www.curseforge.com/minecraft/mc-mods/just-enough-filters)** - *Adds a dedicated filter bar to your item list*   
+  *   **[Just Enough Items: Malum](https://www.curseforge.com/minecraft/mc-mods/jei-malum)** - *Add-on for **Malum**, designed to display spirit and soul harvesting drop information in JEI.*   
+  *   **[Just Enough Items: Mekanism Generatiors](https://www.curseforge.com/minecraft/mc-mods/mekagenjei-mekanism-generator-addon)** - *Adds new custom JEI categories based on **Mekanism Generators***  
+  *   **[Just Enough Items: Mekanism Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-mekanism-multiblocks)** - *Adds a JEI page about **Mekanism** mod's multiblocks.*       
+  *   **[Just Enough Items: Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration)** - *Enhances crafting and recipe interaction between **JEI** and **Refined Storage**.*     
+  *   **[Just Enough Items: Resorces](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)** - *Adds info about mob drops, dungeon loot, ore gen and plant drops*     
+  *   **[Just Enough Items: Search](https://www.curseforge.com/minecraft/mc-mods/just-enough-search-jes)** - *Add-on that improves the search experience with better clearing, autocomplete suggestions, search history and favorites.*   
+  *   **[Just Enough Items: Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-jei-index)** - *Adds a JEI Index Upgrade for **Sophisticated Backpacks**.*  
+  *   **[Just Enough Items: Structures](https://www.curseforge.com/minecraft/mc-mods/jei-structures)** - *Adds structure information browsing to **JEI**.*  
+  *   **[Just Enough Items: WorldGen](https://www.curseforge.com/minecraft/mc-mods/jei-worldgen)** - *View ore generation information from inside JEI (compatible with the majority of modded ores since it reads directly from the biome data).*     
+  *   **[Just Enough TacZ](https://www.curseforge.com/minecraft/mc-mods/jet-just-enough-tacz)** - *This mods adds config that allows removal of guns and addons from the game*     
+  *   **[Loot Integrations: Yung Structures](https://www.curseforge.com/minecraft/mc-mods/yung-structures-addon-for-loot-integrations)** - *Addon for **Loot Integrations**, changes loot-table for the Yung mod's structures:*    
+  *   **[Loot Integrations: Randomized Loot](https://www.curseforge.com/minecraft/mc-mods/vanilla-loot-addon-for-loot-integrations)** - *Addon for Loot Integrations that enhances loot variety in standard chest loot tables.*    
+  *   **[ME Requester](https://www.curseforge.com/minecraft/mc-mods/merequester)** - *Easy automation methos to keep **AE2** ME-system "in stock"*   
+  *   **[Mekanism Turrets & Fences](https://www.curseforge.com/minecraft/mc-mods/mekanism-turrets-fences)** - *Adds defensive turrents and fences*     
+  *   **[Mekanism Jade Upgrades](https://www.curseforge.com/minecraft/mc-mods/mekajadeupgrades)** - *Addon that adds extra tooltips on **Jade** to show installed upgrades in **Mekanism** machines*   
+  *   **[Refinded Storage: Delight](https://www.curseforge.com/minecraft/mc-mods/refined-delight)** - *Adds a Wireless Cooking Pot, a **Farmer's Delight** pot that pulls ingredients from **Refined Storage** networks*   
+  *   **[Refined Storage: Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)** - *Adds bigger fluid- and item disks to **Refined Storage***     
+  *   **[Refinded Storage: Fluid Substitution](https://www.curseforge.com/minecraft/mc-mods/refined-fluid-substitution)** - *Allows fluids to be used directly instead of buckets to **Refined Storage***   
+  *   **[Refined Storage: Types](https://www.curseforge.com/minecraft/mc-mods/refined-types)** - *Adds support for FE Source and Souls in various **Refined Storage** components*   
+  *   **[Sophisticated Tactical Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-tactical-backpacks)** - *Add-on for **Sophisticated Backpacks** that adds military-style camouflage appearance and an Ammo Reload Upgrade that is compatible with several firearm mods (like **TacZ**).*    
+  *   **[TacZ Addon](https://www.curseforge.com/minecraft/mc-mods/tacz-addon)** - *An expansion mod for **TaCZ**.*   
+  *   **[TacZ Attributes (Addon)](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes-addon)** - *Transform every gun into a unique find.*   
+  *   **[TacZ: Blueprints Reforged](https://www.curseforge.com/minecraft/mc-mods/tacz-blueprints-reforged)** - *Add-on for TaCZ that turns guns and attachments into something you have to discover and earn.*   
+  *   **[TacZ Veil Lights](https://www.curseforge.com/minecraft/mc-mods/veil-lights-for-tacz)** - *Add-on that renders configured **TaCZ** weapon lights through the separate **Veil Volume Lights library***   
   *    **** - **   
    </details>
 
 
    <details>
-    <summary>Integrations</summary>
-  
-***The following mods are integrations to improve various things such as configuration and data***   
-
-  *   **[Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations)** - *Implemented global looting balance patches covering *Born in Chaos, Cataclysm, Integrated, Yung's, and Vanilla* variables.*   
-  *   **[Loot Integrations: Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Ehances loot for L_Ender 's Cataclysm structures and bosses.**    
-  *   **[Loot Integrations: L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for L_Ender 's Cataclysm structures and bosses.* 
-  *   **[ReIntegrated: Chipped](https://www.curseforge.com/minecraft/mc-mods/reintegrated-chipped)** - *Smoothly integrates the blocks from the Chipped mod into vanilla's biomes and structures.*   
-  *   **** - **   
-   </details>
-
-   <details>
-    <summary>Compatibility</summary>    
+    <summary>Integrations & Compatibility</summary>    
 
 ***The following mods has been added to add suport and compability between mods.***   
 
-  *   **[Epic Fight Auto Compat](https://www.curseforge.com/minecraft/mc-mods/epic-fight-auto-compat)** - *Background translation framework for out-of-the-box combat styles.*   
-  *   **[Epic Tweaks](https://www.curseforge.com/minecraft/mc-mods/epic-tweaks)** - *Core adjustments for overall damage parameters and entity behaviors.*   
-  *   **[Epic Fight x Curios Elytra](https://www.curseforge.com/minecraft/mc-mods/epicurios-elytra-epic-fight-elytra-slot-compat-fix)** - *Allows slotting of standard flight parameters inside Curios accessories.*   
-  *   **[Epic Fight: Curios Compat 2.0](https://curseforge.com)** - *Adds compatibility/fix between Curios and Curios*   
-  *   **[Epic Fight x Punchy](https://curseforge.com)** - *Adds compatibility between Punchy and Epic Fight*   
-  *   **[TacZ: Curios](https://www.curseforge.com/minecraft/mc-mods/taczcurios)** - *TaczCurios adds custom curios (accessories) to the mod TacZ*   
-  *   **[Mystical Agriculture Compats](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-compats)** - *Adds compatibility between Mystical Agriculture, Mekanism's Enrichment Chamber and EnderIO's SAG Mill*   
-  *   **[Mystical Engineering](https://www.curseforge.com/minecraft/mc-mods/mystical-engineering)** - *Adds comaptibility between Mystical Agriculturea and Immersive Engineering's "Garden Clocke"*   
-  *   **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)** - *Re-implements MCPatcher's CIT*   
-  *   **[CITResewnNeoPatcher](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)** - *Patches CIT Resewn mods so it runs on NeoForge through Sinytra Connector*   
-  *   **[BetterEnd x Chipped](https://www.curseforge.com/minecraft/mc-mods/betterend-chipped)** - *Massive expansion of decorative variant choices for End-materials.*   
-  *   **[Iris Veil Compat](https://www.curseforge.com/minecraft/mc-mods/iris-veil-compat)** - *Allow mods using the Veil rendering engine to render correctly when using Iris shaderpacks.*   
-  *   **[Macaw's Betters](https://www.curseforge.com/minecraft/mc-mods/macaws-betters)** - *Adds multi-compatibility for Macaw's Bridges/Fences/Roofs/Furnitures/Stairs/Paths/Trapdoors/Doors/Windows and the mods: Better Nether and Better End. *   
-  *   **[Forgified Fabric API](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api)** - *Fabric API implemented on top of NeoForge*   
-  *   **[Ars Mekanica](https://www.curseforge.com/minecraft/mc-mods/ars-mekanica)** - *A compatibility addon that bridges Ars Nouveau and Mekanism.*   
-  *   **[EMF Compat: Core](https://www.curseforge.com/minecraft/mc-mods/emf-compat-core)** - *A shared client-side library that lets all EMF Compat addons fix animation conflicts with Entity Model Features.*   
-  *   **[EMF Compat: TACZ](https://www.curseforge.com/minecraft/mc-mods/emf-compat-tacz)** - *Adds EMF compatibility for TacZ*   
-  *   **[EMF Compat: Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/emf-compat-not-enough-animations)** - *Entity Model Features player animations while Not Enough Animations is active.*   
+  *   **[Ars Mekanica](https://www.curseforge.com/minecraft/mc-mods/ars-mekanica)** - *A compatibility addon that bridges **Ars Nouveau** and **Mekanism**.*   
+  *   **[BetterEnd x Chipped](https://www.curseforge.com/minecraft/mc-mods/betterend-chipped)** - *Massive expansion of decorative variant choices for end-materials.*   
+  *   **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)** - *Re-implements **MCPatcher's CIT***   
+  *   **[CITResewnNeoPatcher](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)** - *Patches CIT Resewn mods so it runs on NeoForge through **Sinytra Connector***   
+  *   **[Dynamic Trees x BetterNether](https://www.curseforge.com/minecraft/mc-mods/dynamictrees-betternether)** - *Bring **Dynamic Trees** support to the trees and fungi added by **BetterNether**.*   
+  *   **[Dynamic Trees x BetterEnd](https://www.curseforge.com/minecraft/mc-mods/dynamictrees-betterend)** - *Bring **Dynamic Trees** support to the trees and giant fungi added by **BetterEnd**.*   
   *   **[EMF Comapt: Carry On](https://www.curseforge.com/minecraft/mc-mods/emf-compat-carry-on)** - *A small client-side mod that makes Carry On carry poses work correctly with Entity Model Features player models.*   
-  *   **[EMF Comapt: Physics](https://www.curseforge.com/minecraft/mc-mods/physics-emf-compat)** - *This allows resource packs that use EMF — such as Fresh Animations — to work correctly with Physics Mod's ragdoll and other physics modes.*   
-  *   **[Dynamic Trees x BetterNether](https://www.curseforge.com/minecraft/mc-mods/dynamictrees-betternether)** - *Bring Dynamic Trees support to the trees and fungi added by BetterNether.*   
-  *   **[EMF for Malum](https://www.curseforge.com/minecraft/mc-mods/emc-for-malum)** - *Adds compatibility between ProjectE and Malum*   
-  *   **[Dynamic Trees x BetterEnd](https://www.curseforge.com/minecraft/mc-mods/dynamictrees-betterend)** - *Bring Dynamic Trees support to the trees and giant fungi added by BetterEnd.*   
+  *   **[EMF Compat: Core](https://www.curseforge.com/minecraft/mc-mods/emf-compat-core)** - *A shared client-side library that lets all EMF Compat addons fix animation conflicts with Entity Model Features.*   
+  *   **[EMF Compat: Malum](https://www.curseforge.com/minecraft/mc-mods/emc-for-malum)** - *Adds compatibility between **ProjectE** and **Malum***   
+  *   **[EMF Compat: Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/emf-compat-not-enough-animations)** - ***Entity Model Features: player animations** while **Not Enough Animations** is active.*   
+  *   **[EMF Comapt: Physics](https://www.curseforge.com/minecraft/mc-mods/physics-emf-compat)** - *This allows resource packs that use **EMF** — such as **Fresh Animations** — to work correctly with **Physics Mod's** ragdoll and other physics modes.*   
+  *   **[EMF Compat: TACZ](https://www.curseforge.com/minecraft/mc-mods/emf-compat-tacz)** - *Adds EMF compatibility for **TacZ***   
+  *   **[Epic Fight Auto Compat](https://www.curseforge.com/minecraft/mc-mods/epic-fight-auto-compat)** - *Background translation framework for out-of-the-box combat styles.*   
+  *   **[Epic Fight: Curios Compat 2.0](https://curseforge.com)** - *Adds compatibility/fix between **Curios** and **Epic Fight***   
+  *   **[Epic Fight: Curios Elytra](https://www.curseforge.com/minecraft/mc-mods/epicurios-elytra-epic-fight-elytra-slot-compat-fix)** - *Allows slotting of standard flight parameters inside Curios accessories.*   
+  *   **[Epic Fight x Punchy](https://curseforge.com)** - *Adds compatibility between **Punchy** and **Epic Fight***   
+  *   **[Epic Fight: Tweaks](https://www.curseforge.com/minecraft/mc-mods/epic-tweaks)** - *Core adjustments for overall damage parameters and entity behaviors.*   
+  *   **[Evolved Mekanism JEI Compat](https://www.curseforge.com/minecraft/mc-mods/evolved-mekanism-jei-emi-compat)** - *Adds compatibility between **Evolved Mekansim** and **JEI***   
+  *   **[Iris Veil Compat](https://www.curseforge.com/minecraft/mc-mods/iris-veil-compat)** - *Allow mods using the Veil rendering engine to render correctly when using Iris Shaderpacks.*   
+  *   **[Jade Additional Entities](https://www.curseforge.com/minecraft/mc-mods/jade-additional-entities)** - *Adds support for displaying information from **Jade** on entities added by other mods.*   
+  *   **[Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations)** - *Implemented global looting balance patches covering ***Born in Chaos**, **L_ender's Cataclysm**, **Integrated**, **Yung's**, and Vanilla variables.*   
+  *   **[Loot Integrations: Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for **Born in Chaos** structures and bosses.*    
+  *   **[Loot Integrations: L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for **L_Ender's Cataclysm**structures and bosses.*   
+  *   **[Macaw's Betters](https://www.curseforge.com/minecraft/mc-mods/macaws-betters)** - *Adds multi-compatibility for **Macaw's**.. 
+        * **Bridges**
+        * **Doors**
+        * **Fences**
+        * **Furnitures**
+        * **Paths**
+        * **Roofs**
+        * **Stairs**
+        * **Trapdoors**
+        * **Windows**
+        ** and the mods: **Better Nether** and **Better End**.*   
+  *   **[Mystical Agriculture Compats](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-compats)** - *Adds compatibility between **Mystical Agriculture**, **Mekanism's** Enrichment Chamber and EnderIO's SAG Mill* 
+  *   **[Mystical Engineering](https://www.curseforge.com/minecraft/mc-mods/mystical-engineering)** - *Adds comaptibility between **Mystical Agriculture** and Immersive Engineering's "Garden Clocke"*   
+  *   **[ReIntegrated: Chipped](https://www.curseforge.com/minecraft/mc-mods/reintegrated-chipped)** - *Smoothly integrates the blocks from the Chipped mod into vanilla's biomes and structures.*   
   *   **[Spawn Animations Compat](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-compats)** - *Adds compatibility between **Spawn animations** and 50+ mods !*   
-  *   **[Jade Additional Entities](https://www.curseforge.com/minecraft/mc-mods/jade-additional-entities)** - *Adds support for displaying information from Jade on entities added by other mods.*   
-  *   **[Evolved Mekanism JEI Compat](https://www.curseforge.com/minecraft/mc-mods/evolved-mekanism-jei-emi-compat)** - *Adds complatibility between **Evolved Mekansim** and **JEI***   
+  *   **[TacZ: Curios](https://www.curseforge.com/minecraft/mc-mods/taczcurios)** - *TaczCurios adds custom curios (accessories) to the mod **TacZ***   
   *    **** - **   
    </details> 
 
@@ -293,46 +294,46 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 
 ***Libraries, engines and more required mods.***   
 
-  *   **[Animatica "Foxified"](https://www.curseforge.com/minecraft/mc-mods/animatica-foxified)** - *Animatica unofficial NeoForge port that load the MCPatcher/Optifine animeted texture format.*
-  *   **[Berezka Library](https://www.curseforge.com/minecraft/mc-mods/berezka-library)** - *Library mod for **Just Enough TacZ***
-  *   **[Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)** - *Library mod for "sophisticated" mods.*
-  *   **[LDLib](https://www.curseforge.com/minecraft/mc-mods/ldlib)** - *library for UI, rendering, synchronization, persistence, and in-game editors.*
-  *   **[MRU](https://www.curseforge.com/minecraft/mc-mods/mru)** - *Library mod*
-  *   **[Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)** - *Adds a Kotlin language loader and provides some optional utilities.*
-  *   **[Configured](https://www.curseforge.com/minecraft/mc-mods/configured)** - *Dynamically creates configuration menus for every mod with a supported config system.*
-  *   **[CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)** - *Core for LittleTiles*   
-  *   **[ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)** - *Core library for `Large Ore Deposits`, `Advanced Hook Launchers` and `Advanced Finders`*   
-  *   **[Fzzy Config](https://www.curseforge.com/minecraft/mc-mods/fzzy-config)** - *A powerful configuration engine*
-  *   **[MezzConfig](https://www.curseforge.com/minecraft/mc-mods/mezzconfig)** - *Simple configuration library for mods*   
-  *   **[Toadlib](https://www.curseforge.com/minecraft/mc-mods/toadlib)** - *Library mod*   
-  *   **[Veil Volume Lights](https://www.curseforge.com/minecraft/mc-mods/veil-volume-lights)** - *Veil addon library that adds support for colored mediums.*   
-  *   **[Apothic Attributes](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)** - *library mod that provides a variety of attributes and attribute-related utilities.*    
-  *   **[Eating Animation (Core)](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge)** - *Restores fundamental consumption mechanics for base items.*     
-  *   **[FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)** - *Library for FTB Quests.*   
-  *   **[FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)** - *Library for mods that can utilize team progression like FTB Chunks and FTB Quests.*   
-  *   **[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)** - *Quest book system*
-  *   **[FTB Certain Question additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions)** - *Adds a few minor improvements and smooth animations to FTB Quests mod.* 
-  *   **[FTB Extra Quests](https://www.curseforge.com/minecraft/mc-mods/extraquests)** - *Add-on that adds new tasks, rewards and functions. - **For upcoming changes/features*** 
-  *   **[FTB ExtraLib](https://www.curseforge.com/minecraft/mc-mods/extralib)** - *Library for **ExtraQuests***   
-  *   **[FTB Quests enhance](https://www.curseforge.com/minecraft/mc-mods/quest-enhance)** - *Client-side "enhancement" mod        for FTB Quests*   
-  *   **[FTB Quest Quick Check](https://www.curseforge.com/minecraft/mc-mods/ftb-quest-quick-check)** - *FTB Quest Quick             Check adds a button to the FTB Quests GUI that completes all currently available checkmark tasks in one action.*   
-  *   **[FTB Quest Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer)** - *Removes micro-freezes when moving items and turning in quests, makes inventory checking smarter and quieter for the server*   
-  *   **[FTB Quest Entity Visualization](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-entity-visualization)** -           *This mod replaces the boring spawn‑egg icon in a kill task with the actual entity rendered live in 3D.*   
-  *   **[FTB Quest Completion Broadcast](https://www.curseforge.com/minecraft/mc-mods/quest-completion-broadcast)** - *Chat announcements for quest, (including for players on other teams).*   
-  *   **[PlayerNBT Quests](https://www.curseforge.com/minecraft/mc-mods/playernbt-quests-ftb-quests)** - *Extension mod that provides quest creators with player NBT data detection functionality. *   
-  *   **[UI Quests](https://www.curseforge.com/minecraft/mc-mods/uiquest)** - *Alternate UI for FTB Quests*   
-  *   **[Progressive Stages](https://www.curseforge.com/minecraft/mc-mods/progressivestages)** - *Minecraft progression system*   
-  *   **[GroovyModLoader (GML)](https://www.curseforge.com/minecraft/mc-mods/gml)** - *Lower-level backend optimization for early mod setup strings.*   
-  *   **[Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete)** - *Another Library mod*   
-  *   **[Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)** - *Provides code, different frameworks and utilities for minecraft mods*   
-  *   **[CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)** - *Library mod for "Chicken-Bones" mods*   
-  *   *[*Deimos Lib](https://www.curseforge.com/minecraft/mc-mods/deimos-fabric-forge-neoforge)** - *A data generation and configuration library*   
-  *   **[DragonLib](https://www.curseforge.com/minecraft/mc-mods/dragonlib)** - *Multiloader library and framework built on Architectury APO*   
-  *   **[SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)** - *Adds lots of basic implementations for GUIs, blocks, tile entities, and network packets that allow for similar code between Minecraft 1.12-1.20*   
-  *   **[Better Library](https://www.curseforge.com/minecraft/mc-mods/better-library)** - *Simple library for config*   
+  *   **[AAA Particles](https://www.curseforge.com/minecraft/mc-mods/aaa-particles)** - *Library mod that enables using effekseer particles (`.efkefc`) in minecraft.*   
   *   **[Advanced Wall Climber API](https://www.curseforge.com/minecraft/mc-mods/advanced-wall-climber-api)** - *API that enables advanced wall climbing mechnaics for entities.*   
+  *   **[Animatica "Foxified"](https://www.curseforge.com/minecraft/mc-mods/animatica-foxified)** - *Animatica unofficial NeoForge port that load the **MCPatcher**/**Optifine** animeted texture format.*   
+  *   **[Apothic Attributes](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)** - *library mod that provides a variety of attributes and attribute-related utilities.*    
+  *   **[Berezka Library](https://www.curseforge.com/minecraft/mc-mods/berezka-library)** - *Library mod for **Just Enough TacZ***   
+  *   **[Better Library](https://www.curseforge.com/minecraft/mc-mods/better-library)** - *Simple library for config*   
+  *   **[Configured](https://www.curseforge.com/minecraft/mc-mods/configured)** - *Dynamically creates configuration menus for every mod with a supported config system.*   
+  *   **[CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)** - *Library mod for "Chicken-Bones" mods*   
+  *   **[CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)** - *Core for **LittleTiles***     
+  *   **[Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)** - *Provides code, different frameworks and utilities for minecraft mods*   
+  *   **[Deimos Lib](https://www.curseforge.com/minecraft/mc-mods/deimos-fabric-forge-neoforge)** - *A data generation and configuration library*   
+  *   **[DragonLib](https://www.curseforge.com/minecraft/mc-mods/dragonlib)** - *Multiloader library and framework built on **Architectury API***     
+  *   **[Eating Animation (Core)](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge)** - *Restores fundamental consumption mechanics for base items.*       
+  *   **[Forgified Fabric API](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api)** - *Fabric API implemented on top of NeoForge*   
+  *   **[ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)** - *Core library for **Large Ore Deposits**, **Advanced Hook Launchers** and **Advanced Finders***   
+  *   **[FTB Certain Question additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions)** - *Adds a few minor improvements and smooth animations to **FTB Quests** mod.*   
+  *   **[FTB Extra Quests](https://www.curseforge.com/minecraft/mc-mods/extraquests)** - *Add-on that adds new tasks, rewards and functions. - **For upcoming changes/features***   
+  *   **[FTB ExtraLib](https://www.curseforge.com/minecraft/mc-mods/extralib)** - *Library for **ExtraQuests***   
+  *   **[FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)** - *Library for **FTB Quests**.*   
+  *   **[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)** - *Quest book system*   
+  *   **[FTB Quests: Completion Broadcast](https://www.curseforge.com/minecraft/mc-mods/quest-completion-broadcast)** - *Chat announcements for quest, (including for players on other teams).*   
+  *   **[FTB Quests: Enhance](https://www.curseforge.com/minecraft/mc-mods/quest-enhance)** - *Client-side "enhancement" mod for **FTB Quests***   
+  *   **[FTB Quests: Entity Visualization](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-entity-visualization)** - *This mod replaces the boring spawn‑egg icon in a kill task with the actual entity rendered live in 3D.*   *   **[FTB Quests: Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer)** - *Removes micro-freezes when moving items and turning in quests, makes inventory checking smarter and quieter for the server*     *   **[FTB Quests: Quick Check](https://www.curseforge.com/minecraft/mc-mods/ftb-quest-quick-check)** - *Adds a button to the **FTB Quests** GUI that completes all currently available "checkmark" tasks in one action.*   
+  *   **[FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)** - *Library for mods that can utilize team progression like **FTB Chunks** and **FTB Quests**.*   
+  *   **[Fzzy Config](https://www.curseforge.com/minecraft/mc-mods/fzzy-config)** - *A powerful configuration engine*     
+  *   **[GroovyModLoader (GML)](https://www.curseforge.com/minecraft/mc-mods/gml)** - *Lower-level back end optimization for early mod setup strings.*   
+  *   **[Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete)** - *Another Library mod*   
+  *   **[Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)** - *Adds a Kotlin language loader and provides some optional utilities.*   
   *   **[KotlinLangForge](https://www.curseforge.com/minecraft/mc-mods/kotlinlangforge)** - *Provides a Kotlin language adapter for Forge and Neoforge*   
+  *   **[LDLib](https://www.curseforge.com/minecraft/mc-mods/ldlib)** - *library for UI, rendering, synchronization, persistence, and in-game editors.*   
+  *   **[MezzConfig](https://www.curseforge.com/minecraft/mc-mods/mezzconfig)** - *Simple configuration library for mods*   
+  *   **[MRU](https://www.curseforge.com/minecraft/mc-mods/mru)** - *Library mod*   
   *   **[Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core)** - *Optimizes particles.*   
+  *   **[PlayerNBT Quests](https://www.curseforge.com/minecraft/mc-mods/playernbt-quests-ftb-quests)** - *Extension mod that provides quest creators with player NBT data detection functionality. *   
+  *   **[Progressive Stages](https://www.curseforge.com/minecraft/mc-mods/progressivestages)** - *Minecraft progression system*   
+  *   **[Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)** - *Library mod for "sophisticated" mods.*   
+  *   **[SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)** - *Adds lots of basic implementations for GUIs, blocks, tile entities, and network packets that allow for similar code between Minecraft 1.12-1.20*   
+  *   **[Toadlib](https://www.curseforge.com/minecraft/mc-mods/toadlib)** - *Library mod*   
+  *   **[UI Quests](https://www.curseforge.com/minecraft/mc-mods/uiquest)** - *Alternate UI for **FTB Quests***   
+  *   **[Veil Volume Lights](https://www.curseforge.com/minecraft/mc-mods/veil-volume-lights)** - *Veil add-on library that adds support for colored mediums.*   
   *   **** - **     
    </details> 
 
@@ -343,31 +344,32 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 ***The following mods have been added for enabling work on some future upcoming changes & features.***   
 
   *   **[KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)** - *Edit recipies, add new custom items, script world events, all in JavaScript! - **For upcoming changes/features***   
-  *   **[KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions)** - *KubeJS Integration for JEI(/REI) and Jade. - **For upcoming changes/features***
+  *   **[KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions)** - *KubeJS Integration for JEI(/REI) and Jade. - **For upcoming changes/features***   
   *   **[KubeJS Applied](https://www.curseforge.com/minecraft/mc-mods/applied-kubejs-kjs-ae2)** - *KubeJS bridge that adds scriptable AE2 recipes, network monitoring, storage/crafting events, device inspection, and optional ME crafting job automation. - **For upcoming changes/features***   
-  *   **[KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau)** - *Allows KubeJS to create Ars Nouveau Recipies - **For upcoming changes/features***
-  *   **[KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)** - *Create integration for KubeJS - **For upcoming changes/features***
-  *   **[KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios)** - *Curios integration for KubeJS. - **For upcoming changes/features***
-  *   **[KubeJS CustomMeteor](https://www.curseforge.com/minecraft/mc-mods/custommeteorjs)** - *AE2 addon for modpack makers. It lets you control meteorite blocks and terrain behavior without editing AE2 itself. - **For upcoming changes/features***
-  *   **[KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic-evolution)** - *Integration for Draconic Evolution fusion crafting. - **For upcoming changes/features***  
-  *   **[KubeJS Editor](https://www.curseforge.com/minecraft/mc-mods/kjs-editor)** - *In-game visual editor for KubeJS. It allows you to create, modify, and manage recipes and content directly inside Minecraft without writing code. - **For upcoming changes/features***
-  *   **[KubeJS EnderIO](https://www.curseforge.com/minecraft/mc-mods/kubejs-enderio)** - - *Adds KubeJS integration to EnderIO. - **For upcoming changes/features***
-  *   **[KubeJS Gecko](https://www.curseforge.com/minecraft/mc-mods/geckojs)** - *Allows you to create animatable block/item/armor with Geckolib through KubeJS.* - *For upcoming changes/features***  
+  *   **[KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau)** - *Allows KubeJS to create Ars Nouveau Recipies - **For upcoming changes/features***   
+  *   **[KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)** - *Create integration for KubeJS - **For upcoming changes/features***   
+  *   **[KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios)** - *Curios integration for KubeJS. - **For upcoming changes/features***   
+  *   **[KubeJS CustomMeteor](https://www.curseforge.com/minecraft/mc-mods/custommeteorjs)** - *AE2 addon for modpack makers. It lets you control meteorite blocks and terrain behavior without editing AE2 itself. - **For upcoming changes/features***   
+  *   **[KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic-evolution)** - *Integration for Draconic Evolution fusion crafting. - **For upcoming changes/features***   
+  *   **[KubeJS Editor](https://www.curseforge.com/minecraft/mc-mods/kjs-editor)** - *In-game visual editor for KubeJS. It allows you to create, modify, and manage recipes and content directly inside Minecraft without writing code. - **For upcoming changes/features***   
+  *   **[KubeJS EnderIO](https://www.curseforge.com/minecraft/mc-mods/kubejs-enderio)** - - *Adds KubeJS integration to EnderIO. - **For upcoming changes/features***   
+  *   **[KubeJS Gecko](https://www.curseforge.com/minecraft/mc-mods/geckojs)** - *Allows you to create animatable block/item/armor with Geckolib through KubeJS.* - *For upcoming changes/features***   
   *   **[KubeJS GUI](https://www.curseforge.com/minecraft/mc-mods/kubejs-gui)** - *KubeJS GUI template system to make custom recipes. - *Fpr upcoming changes/features***   
   *   **[KubeJS Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering-js)** - *KubeJS integration for Immersive Engineering. - **For upcoming changes/features***    
   *   **[KubeJS IU](https://www.curseforge.com/minecraft/mc-mods/kubejs-iu)** - *Adds configuration possibilities to machine processing recipes of Industrial Upgrade (IU). - **For upcoming changes/features***      
-  *   **[KubeJS JEI](https://www.curseforge.com/minecraft/mc-mods/kubejs-jei)** - *Supports creating new JEI recipe display entries, hiding specified items, or re-showing items that have been hidden.*
+  *   **[KubeJS JEI](https://www.curseforge.com/minecraft/mc-mods/kubejs-jei)** - *Supports creating new JEI recipe display entries, hiding specified items, or re-showing items that have been hidden.*   
   *   **[KubeJS LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)** - *Integration to modify the loot tables and loot modifiers. - **For upcoming changes/features***   
   *   **[KubeJS Mekanism](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)** - *Mekanism integration for KubeJS. - **For upcoming changes/features***   
   *   **[KubeJS Mekanism Extends](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism-extends)** - *Mekanism **Extends** integration for KubeJS. - **For upcoming changes/features***   
   *   **[KubeJS NeoVitae](https://www.curseforge.com/minecraft/mc-mods/kubejs-neovitae)** - *KubeJS addon for NeoVitae that exposes its custom recipe types to server scripts, so pack authors can add, remove, and customize recipes without touching JSON by hand. - **For upcoming changes/features***  
   *   **[KubeJS Keybinds](https://www.curseforge.com/minecraft/mc-mods/kubejs-keybinds)** - *Expands upon KubeJS by allowing you to modify existing KeyBinds and Categories. - **For upcoming changes/features***   
   *   **[KubeJS Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs)** - *Occultism KubeJS provides KubeJS integrations for Occultism. - **For upcoming changes/features***   
-  *   **[KubeJS PneumaticCraft: Re-pressurized](https://www.curseforge.com/minecraft/mc-mods/kubejs-pneumaticcraft)** - *PneumaticCraft: Repressurized integration for KubeJS. - **For upcoming changes/features***
+  *   **[KubeJS PneumaticCraft: Re-pressurized](https://www.curseforge.com/minecraft/mc-mods/kubejs-pneumaticcraft)** - *PneumaticCraft: Repressurized integration for KubeJS. - **For upcoming changes/features***   
   *   **[KubeJS ProjectE](https://www.curseforge.com/minecraft/mc-mods/kubejs-projecte)** - *Lets you set the EMC values of items and the Philosopher's Stone transformations blocks with the ProjectE mod. - **For upcoming changes/features***     
   *   **[KubeJS Tweaks](https://www.curseforge.com/minecraft/mc-mods/kubejs-tweaks)** - *This is an addon for KubeJS to abstract some common usage of KubeJS for heavly modded modpacks. - **For working on upcoming features***   
-  *   **[KubeJS Quest(JS)](https://www.curseforge.com/minecraft/mc-mods/questjs)** - *Adds client-side KubeJS events for the FTB Quests GUI. - **For working on upcoming features***
-  *   **[KubeJS Rechisled](https://www.curseforge.com/minecraft/mc-mods/kubejs-rechiseled)** - *KubeJS integration for Rechisled. - **For upcoming changes/features***
+  *   **[KubeJS Quest(JS)](https://www.curseforge.com/minecraft/mc-mods/questjs)** - *Adds client-side KubeJS events for the FTB Quests GUI. - **For working on upcoming features***   
+  *   **[KubeJS Rechisled](https://www.curseforge.com/minecraft/mc-mods/kubejs-rechiseled)** - *KubeJS integration for Rechisled. - **For upcoming changes/features***   
+  *   **** - **   
    </details>
 </details>
 
@@ -378,7 +380,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 <details>
   <summary>Updated</summary>
 
-***The following mods have been updated.***
+***The following mods have been updated.***   
   
   *   **CITResewnPatcher** -> Updated from Fabric version *(ran with Sinytra Connector)* to [NeoForge version](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)   
   *   **[AE2 Growth Accelerator Tiers](https://www.curseforge.com/minecraft/mc-mods/ae2-growth-accelerators)** -> Updated from Fabric version *(ran with Sinytra Connector)* to `AGA Neo 1.21.1 2.2.0`   
@@ -427,11 +429,10 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   
   *Due to incompatibilities, change of vision and more, we've decided to remove the following mods from this version:*   
   *   **[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons):** *Replaced by Voxy*   
-  *   **Every Compat - "[Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)", "[Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)", "[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)":** *Removed for now because incompatibility, and other mods like `Almost Unified` cover most of this anyway.*   
-  *   **Create Blocks & Bogies:** *Extracted to preserve clean schematic layouts in custom factory builds.*   
-  *   **Just Enough Items (JEI):** *Swapped out to optimize full item directory syncing over heavy modpack networks.*   
-  *   **Mekanism: Elements:** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*     
-  *   **Sophisticated JEI Index:** *Legacy tracking indexing, no longer needed under the streamlined directory overhaul.*   
+  *   **Every Compat - "[Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)", "[Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)", "[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)":** *Removed for now because incompatibility, and other mods like **Almost Unified** cover most of this anyway.*   
+  *   **[Create Blocks & Bogies](https://www.curseforge.com/minecraft/mc-mods/create-blocks-bogies):** *Extracted to preserve clean schematic layouts in custom factory builds.*   
+  *   **Mekanism: Elements:** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*   
+
   *   **AE2 Lightning Tech:** *Outdated version and it's "a bit too much"*   
   *   **AE2: Better Villagers:** *Causing fatal `MenuType` error*   
   *   **Create: Better Villagers:** *Causing fatal `MenuType` error*   
@@ -440,8 +441,17 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[Create: Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen)** - *Removed to decrease clutter since there are already lots of kitchen/food releated stuff,*   
   *   **[Create: Bits 'n' Bobs](https://www.curseforge.com/minecraft/mc-mods/create-bits-n-bobs)** - *Removed to decrease clutter.*   
   *   **[Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)** - *Removed to decreace clutter.*   
-  *   **[Woodwalkers](https://www.curseforge.com/minecraft/mc-mods/woodwalkers)** - *Removed because redundancy*
-  *   **[Create Track Map: Fork](https://www.curseforge.com/minecraft/mc-mods/create-track-map-fork2)** - *Addon that is no longer needed due to the removal of **Create Trains***
+
+  *   **[Create Threaded Trains](https://www.curseforge.com/minecraft/mc-mods/create-threaded-trains)** - *Addon that is no longer needed due to the removal of **Create Trains***   
+  *   **[Create; Track Map: Fork](https://www.curseforge.com/minecraft/mc-mods/create-track-map-fork2)** - *Addon that is no longer needed due to the removal of **Create Trains***   
+  *   **[Create; Train Utilities](https://www.curseforge.com/minecraft/mc-mods/create-trainutilities)** - *Addon that is no longer needed due to the removal of **Create Trains***   
+  *   **[Create: Train Lights](https://www.curseforge.com/minecraft/mc-mods/create-train-lights)** - *Addon that is no longer needed due to the removal of **Create Trains***   
+
+  *   **[Xaero Train Map](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map)** - *Addon that is no longer needed due to the removal of **Create Trains***   
+  *   **** - *Addon that is no longer needed due to the removal of **Create Trains***   
+  *   **** - *Addon that is no longer needed due to the removal of **Create Trains***   
+  *   **** - *Addon that is no longer needed due to the removal of **Create Trains***   
+    *   **[Woodwalkers](https://www.curseforge.com/minecraft/mc-mods/woodwalkers)** - *Removed because redundancy*   
   *   **[Remove Loading Screen:](https://www.curseforge.com/minecraft/mc-mods/rrls)** The mod **Remove loading screen** has been permanently removed from the pack *(removed in v0.1.3-alpha-r.dev)*, as it is **completely** incompatible with our   
 
 <details>
