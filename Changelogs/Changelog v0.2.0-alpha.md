@@ -9,7 +9,7 @@
 
 
 
-### ***Please note that we are still in an early Alpha stage som unintended crashes, glitches and bugs will appear.***
+### ***Please note that we are still in an early Alpha stage some unintended crashes, glitches and bugs will appear.***
 
 
 ## ☑️ Mod permissions!
@@ -63,7 +63,7 @@ One of the requirements for getting permission to include **[Nightfall](https://
 
 ## ⚙️ Optimizations & Fixes
 <details>
-  <summary>Optimizations</summary>   
+  <summary>🍪 Optimizations</summary>   
 
   * **Launch Performance:** Fixed early launch loading stalls and graphics adapter workarounds by purging legacy translation caches.   
   * **Engine Optimizations:** Enhanced thread prioritization and sub-millisecond memory cleanups *("`ZGC`")* to completely eliminate cyclic lag spikes in heavy factory zones.   
@@ -71,11 +71,11 @@ One of the requirements for getting permission to include **[Nightfall](https://
      *   Removing mods
      *   Adding *more* compatibility- and performance mods
      *   Making some configurations to utilize said mods and make things run smoother   
-  * **Fixed Rendering issue:**  Thanks to ***"[FixSodiumShaderLoader](https://github.com/coco875/Fix-sodium-ShaderLoader)"*** and switching to a backport of ***[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)*** *(instead of ***[Distant Horizons](https://modrinth.com/mod/distanthorizons)***, you *should* now be able to use shaders without a hassle. 
+  * **Fixed Rendering issue:**  Thanks to ***"[FixSodiumShaderLoader](https://github.com/coco875/Fix-sodium-ShaderLoader)"*** and switching to a backport of ***[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)*** *(instead of ***[Distant Horizons](https://modrinth.com/mod/distanthorizons))***, you *should* now be able to use shaders without a hassle. 
 </details>
   
 <details>
-<summary>Fixes & QoL</summary>
+<summary>✅ Fixes & QoL</summary>
   
   * **Cleaned Up Codes:** Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the 
   resource packs.
@@ -111,16 +111,16 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 
 ---
 
-## 🖥️ MOD updates, removals and added.
+## 🖥️ Updated, added and removed mods.
 
 
 <details>
   <summary>▶️ Added:</summary>
    <details>
-    <summary>New Features & Core Content</summary> 
+    <summary>🆕 Features & Core Content</summary> 
       
   ***The following mods are what one would call "core mods", adding key elements to the gameplay.***    
-
+   
   *   **[Advanced Finders](https://www.curseforge.com/minecraft/mc-mods/advanced-finders)** - *Adds specialized ore detection tools*   
   *   **[Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)** - *Adds 3 specialized hooks with distinct mechanics.*   
   *   **[Distant Friends](https://www.curseforge.com/minecraft/mc-mods/distant-friends)** - *Adds stalking player-like mobs that creep at you from a distance.*   
@@ -141,27 +141,27 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[Wan's Bio-Scanner](https://www.curseforge.com/minecraft/mc-mods/wans-bio-scanner)** - *Faction tracking and specialized entity identification.*   
   *   **[Wayfinder](https://www.curseforge.com/minecraft/mc-mods/wayfinder)** - *Adds a friendly mob that helps you find biomes*   
   *   **[When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)** - *Adds massive dungeons to your world*   
-  *   **YUNG's Better..**
-      * **[Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)**
-      * **[Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)**
-      * **[Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-neoforge)**
-      * **[Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-neoforge)**
-      * **[Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-neoforge)**
-      * **[Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-neoforge)**
-      * **[Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-neoforge)**
-      * **[Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-neoforge)**
+  *   **YUNG's Better..**   
+    *   **[Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)**   
+    *   **[Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)**   
+    *   **[Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-neoforge)**   
+    *   **[Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-neoforge)**   
+    *   **[Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-neoforge)**   
+    *   **[Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-neoforge)**   
+    *   **[Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-neoforge)**   
+    *   **[Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-neoforge)**   
   *   **** - **
    </details>
 
    <details>
-    <summary>QoL & Other</summary>
+    <summary>💎 QoL & Other:</summary>
 
 ***Mods that tweaks the world, particles, mobs, blocks features etc. or adds something that isn't really content***    
 
   *   **[2032 (world height)](https://www.curseforge.com/minecraft/mc-mods/world-height-2032)** - *Sets the world height limit to Y=2032*   
   *   **[AAA World](https://www.curseforge.com/minecraft/mc-mods/aaa-particles-world)** - *Adds back the lightning effect in older version of **AAA Particles** mod, and more!*   
   *   **[AE2 Tangible Bookmarks](https://www.curseforge.com/minecraft/mc-mods/ae2-tangible-bookmarks)** - *Let's you bookmark items in **AE2** and more!*   
-  *   **[AE2 Terminal Scroll Wheel Cycle](https://www.curseforge.com/minecraft/mc-mods/ae2-terminal-cycling)** - *Allows you to use your scroll wheel in various** AE2** terminals*   
+  *   **[AE2 Terminal Scroll Wheel Cycle](https://www.curseforge.com/minecraft/mc-mods/ae2-terminal-cycling)** - *Allows you to use your scroll wheel in various **AE2** terminals*   
   *   **[Auto Swap](https://www.curseforge.com/minecraft/mc-mods/auto-swap)** - *Automates inventory management and equipment swapping*   
   *   **[BetterEnd Cities](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-better-end)** - *Changes to end city generation and loot.*   
   *   **[Draconic Insight](https://www.curseforge.com/minecraft/mc-mods/draconic-insight)** - *Adds an informational "companion" for **Draconic Evolution***   
@@ -190,12 +190,12 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)** - *Items remain physically dropped inside the crafting grid matrix.*   
   *   **[Vulcan's Darkness](https://www.curseforge.com/minecraft/mc-mods/vulcans-darkness)** - *Adds darkness to the world*   
   *   **** - **   
-    </details>
+   </details>
 
 
     
    <details>
-    <summary>Optimization</summary>
+    <summary>📈 Optimization:</summary>
    
 ***The following mods has been added to improve quality and performance***   
 
@@ -216,7 +216,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
    </details>
 
    <details>
-    <summary>Add-ons</summary>    
+    <summary>📇 Add-on's:</summary>    
  
 ***The following mods are add-ons for mods already in the modpack.***   
 
@@ -261,7 +261,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 
 
    <details>
-    <summary>Integrations & Compatibility</summary>    
+    <summary>📎 Integrations & Compatibility:</summary>    
 
 ***The following mods has been added to add suport and compability between mods.***   
 
@@ -301,19 +301,18 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
         * **[Stairs](https://www.curseforge.com/minecraft/mc-mods/macaws-stairs)**
         * **[Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)**
         * **[Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)**
-        ** to the mods: **[BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether-neoforge)** and **[BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend-neoforge)**.*   
+        *for **[BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether-neoforge)** and **[BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend-neoforge)**.*   
   *   **[Mystical Agriculture Compats](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-compats)** - *Adds compatibility between **Mystical Agriculture**, **Mekanism's** Enrichment Chamber and EnderIO's SAG Mill* 
   *   **[Mystical Engineering](https://www.curseforge.com/minecraft/mc-mods/mystical-engineering)** - *Adds comaptibility between **Mystical Agriculture** and Immersive Engineering's "Garden Clocke"*   
   *   **[ReIntegrated: Chipped](https://www.curseforge.com/minecraft/mc-mods/reintegrated-chipped)** - *Smoothly integrates the blocks from the Chipped mod into vanilla's biomes and structures.*   
   *   **[Spawn Animations Compat](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-compats)** - *Adds compatibility between **Spawn animations** and 50+ mods !*   
   *   **[TacZ: Curios](https://www.curseforge.com/minecraft/mc-mods/taczcurios)** - *TaczCurios adds custom curios (accessories) to the mod **TacZ***   
   *   **** - **
-
    </details> 
 
 
    <details>
-    <summary>Misc</summary>  
+    <summary>🎱 Misc:</summary>  
 
 ***Libraries, engines and more required mods.***   
 
@@ -333,13 +332,15 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[Forgified Fabric API](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api)** - *Fabric API implemented on top of NeoForge*   
   *   **[ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)** - *Core library for **Large Ore Deposits**, **Advanced Hook Launchers** and **Advanced Finders***   
   *   **[FTB Certain Question additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions)** - *Adds a few minor improvements and smooth animations to **FTB Quests** mod.*   
-  *   **[FTB Extra Quests](https://www.curseforge.com/minecraft/mc-mods/extraquests)** - *Add-on that adds new tasks, rewards and functions. - **For upcoming changes/features***   
+  *   **[FTB Extra Quests](https://www.curseforge.com/minecraft/mc-mods/extraquests)** - *Add-on that adds new tasks, rewards and functions.*   
   *   **[FTB ExtraLib](https://www.curseforge.com/minecraft/mc-mods/extralib)** - *Library for **ExtraQuests***   
   *   **[FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)** - *Library for **FTB Quests**.*   
   *   **[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)** - *Quest book system*   
   *   **[FTB Quests: Completion Broadcast](https://www.curseforge.com/minecraft/mc-mods/quest-completion-broadcast)** - *Chat announcements for quest, (including for players on other teams).*   
   *   **[FTB Quests: Enhance](https://www.curseforge.com/minecraft/mc-mods/quest-enhance)** - *Client-side "enhancement" mod for **FTB Quests***   
-  *   **[FTB Quests: Entity Visualization](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-entity-visualization)** - *This mod replaces the boring spawn‑egg icon in a kill task with the actual entity rendered live in 3D.*   *   **[FTB Quests: Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer)** - *Removes micro-freezes when moving items and turning in quests, makes inventory checking smarter and quieter for the server*     *   **[FTB Quests: Quick Check](https://www.curseforge.com/minecraft/mc-mods/ftb-quest-quick-check)** - *Adds a button to the **FTB Quests** GUI that completes all currently available "checkmark" tasks in one action.*   
+  *   **[FTB Quests: Entity Visualization](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-entity-visualization)** - *This mod replaces the boring spawn‑egg icon in a kill task with the actual entity rendered live in 3D.*   
+  *   **[FTB Quests: Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer)** - *Removes micro-freezes when moving items and turning in quests, makes inventory checking smarter and quieter for the server*    
+  *   **[FTB Quests: Quick Check](https://www.curseforge.com/minecraft/mc-mods/ftb-quest-quick-check)** - *Adds a button to the **FTB Quests** GUI that completes all currently available "checkmark" tasks in one action.*   
   *   **[FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)** - *Library for mods that can utilize team progression like **FTB Chunks** and **FTB Quests**.*   
   *   **[Fzzy Config](https://www.curseforge.com/minecraft/mc-mods/fzzy-config)** - *A powerful configuration engine*     
   *   **[GroovyModLoader (GML)](https://www.curseforge.com/minecraft/mc-mods/gml)** - *Lower-level back end optimization for early mod setup strings.*   
@@ -362,7 +363,7 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 
 
    <details>
-      <summary>For Upcoming Changes</summary>
+      <summary>↗️ For Upcoming Changes:</summary>
 
 ***The following mods have been added for enabling work on some future upcoming changes & features.***   
 
@@ -383,12 +384,12 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[KubeJS JEI](https://www.curseforge.com/minecraft/mc-mods/kubejs-jei)** - *Supports creating new JEI recipe display entries, hiding specified items, or re-showing items that have been hidden.*   
   *   **[KubeJS LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs)** - *Integration to modify the loot tables and loot modifiers.*  
   *   **[KubeJS Mekanism](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism)** - *Mekanism integration for KubeJS.*  
-  *   **[KubeJS Mekanism Extends](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism-extends)** - *Mekanism **Extends** integration for KubeJS.  
-  *   **[KubeJS NeoVitae](https://www.curseforge.com/minecraft/mc-mods/kubejs-neovitae)** - *KubeJS addon for NeoVitae that exposes its custom recipe types to server scripts, so pack authors can add, remove, and customize recipes without touching JSON by hand. 
-  *   **[KubeJS Keybinds](https://www.curseforge.com/minecraft/mc-mods/kubejs-keybinds)** - *Expands upon KubeJS by allowing you to modify existing KeyBinds and Categories.  
-  *   **[KubeJS Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs)** - *Occultism KubeJS provides KubeJS integrations for Occultism.  
-  *   **[KubeJS PneumaticCraft: Re-pressurized](https://www.curseforge.com/minecraft/mc-mods/kubejs-pneumaticcraft)** - *PneumaticCraft: Repressurized integration for KubeJS.  
-  *   **[KubeJS ProjectE](https://www.curseforge.com/minecraft/mc-mods/kubejs-projecte)** - *Lets you set the EMC values of items and the Philosopher's Stone transformations blocks with the ProjectE mod.    
+  *   **[KubeJS Mekanism Extends](https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism-extends)** - *Mekanism Extends integration for KubeJS.  
+  *   **[KubeJS NeoVitae](https://www.curseforge.com/minecraft/mc-mods/kubejs-neovitae)** - *KubeJS addon for NeoVitae that exposes its custom recipe types to server scripts, so pack authors can add, remove, and customize recipes without touching JSON by hand.* 
+  *   **[KubeJS Keybinds](https://www.curseforge.com/minecraft/mc-mods/kubejs-keybinds)** - *Expands upon KubeJS by allowing you to modify existing KeyBinds and Categories.*  
+  *   **[KubeJS Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs)** - *Occultism KubeJS provides KubeJS integrations for Occultism.*  
+  *   **[KubeJS PneumaticCraft: Re-pressurized](https://www.curseforge.com/minecraft/mc-mods/kubejs-pneumaticcraft)** - *PneumaticCraft: Repressurized integration for KubeJS.*  
+  *   **[KubeJS ProjectE](https://www.curseforge.com/minecraft/mc-mods/kubejs-projecte)** - *Lets you set the EMC values of items and the Philosopher's Stone transformations blocks with the ProjectE mod.*    
   *   **[KubeJS Tweaks](https://www.curseforge.com/minecraft/mc-mods/kubejs-tweaks)** - *This is an addon for KubeJS to abstract some common usage of KubeJS for heavly modded modpacks.*
   *   **[KubeJS Quest(JS)](https://www.curseforge.com/minecraft/mc-mods/questjs)** - *Adds client-side KubeJS events for the FTB Quests GUI.*   
   *   **[KubeJS Rechisled](https://www.curseforge.com/minecraft/mc-mods/kubejs-rechiseled)** - *KubeJS integration for Rechisled.*  
@@ -398,10 +399,10 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
 
 ---
 
-## 🔄Mod Updates & Removals   
+## 🔄Updates & Removals   
 
-<details>
-  <summary>Updated</summary>
+   <details>
+    <summary>🔋 Updated:</summary>
 
 ***The following mods have been updated.***   
   
@@ -445,22 +446,22 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **Waystones** -> Updated from `21.1.45` to `21.1.46`   
   *   **Yukami's Sophisticated Backpack Tab** -> Updated from `2.1.1` to `2.2.0`   
   *   **Zero CORE 2** -> Updated from Zero CORE (1) `2.4.9` to `2.4.21`   
-</details>
+   </details>
 
-<details>
-  <summary>Removed</summary>  
+   <details>
+    <summary>❌ Removed</summary>  
   
   *Due to incompatibilities, change of vision and more, we've decided to remove the following mods from this version:*   
 
-  *   **[AE2: Lightning Tech](https://www.curseforge.com/minecraft/mc-mods/ae2-lightning-tech)** *Outdated version and it's "a bit too much tbh"*   
-  *   **[AE2: Better Villagers](https://www.curseforge.com/minecraft/mc-mods/ae2-better-villagers)** *Causing fatal `MenuType` error*   
+  *   **[AE2: Lightning Tech](https://www.curseforge.com/minecraft/mc-mods/ae2-lightning-tech)** -  *Outdated version and it's "a bit too much tbh"*   
+  *   **[AE2: Better Villagers](https://www.curseforge.com/minecraft/mc-mods/ae2-better-villagers)** - *Causing fatal `MenuType` error*   
   *   **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistles***   
   *   **[Create: Better Villager](https://www.curseforge.com/minecraft/mc-mods/create-better-villager)** *Causing fatal `MenuType` error*   
   *   **[Create: Bits 'n' Bobs](https://www.curseforge.com/minecraft/mc-mods/create-bits-n-bobs)** - *Removed to decrease clutter.*   
   *   **[Create Blocks & Bogies](https://www.curseforge.com/minecraft/mc-mods/create-blocks-bogies):** *Extracted to preserve clean schematic layouts in custom factory builds.*   
   *   **[Create: Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen)** - *Removed to decrease clutter since there are already lots of kitchen/food releated stuff,*   
-  *   **[Create: Unlimited](https://www.curseforge.com/minecraft/mc-mods/create-unlimited)** *There is enough industrial power to go around..*   
-    *   **[Create: Gunsmithing:](https://www.curseforge.com/minecraft/mc-mods/cgs)** *It's enough with just TacZ.. atleast for now.*   
+  *   **[Create: Unlimited](https://www.curseforge.com/minecraft/mc-mods/create-unlimited)** - *There is enough industrial power to go around..*   
+  *   **[Create: Gunsmithing:](https://www.curseforge.com/minecraft/mc-mods/cgs)** - *It's enough with just TacZ.. atleast for now.*   
   *   **[Create: Train Lights](https://www.curseforge.com/minecraft/mc-mods/create-train-lights)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
   *   **[Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)** - *Removed to decreace clutter.*   
   *   **[Create: More Seats](https://www.curseforge.com/minecraft/mc-mods/create-more-seats)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
@@ -468,41 +469,50 @@ Some resourcepacks are built-in with some mods and should be left at the bottom 
   *   **[Create: Threaded Trains](https://www.curseforge.com/minecraft/mc-mods/create-threaded-trains)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
   *   **[Create: Train Utilities](https://www.curseforge.com/minecraft/mc-mods/create-trainutilities)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistles***   
   *   **[Create: Track Map: Fork](https://www.curseforge.com/minecraft/mc-mods/create-track-map-fork2)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
-  *   **[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons):** *Replaced by Voxy*   
-  *   **Every Compat - *[Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)"*, *"[Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)"* and *"[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)*:** *Removed because of incompatibility *(and I don't wanna fix it right now lol)*, *and other mods like **Almost Unified** cover most of this anyway.*   
-  *   **[Mekanism: Elements](https://www.curseforge.com/minecraft/mc-mods/mekanism-elements)** *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*   
+  *   **[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)** - *Replaced by Voxy*   
+  *   **Every Compat** - 
+      *   *[Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)"*   
+      *   *"[Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)"*   
+      *   *"[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)*   
+          *Removed because of incompatibility (and I don't wanna fix it right now lol), and other mods like **Almost Unified** cover most of this anyway.*   
+  *   **[Mekanism: Elements](https://www.curseforge.com/minecraft/mc-mods/mekanism-elements)** - *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*   
   *   **[Railways Navigator](https://www.curseforge.com/minecraft/mc-mods/create-railways-navigator)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistles***   
-  *   **[Remove Loading Screen:](https://www.curseforge.com/minecraft/mc-mods/rrls)** The mod **Remove loading screen** has been permanently removed from the pack *(removed in v0.1.3-alpha-r.dev)*, as it is **completely** incompatible with our     
-<details>
-<summary>upcoming..</summary>   
-    
-* **[Fancy Menu](https://www.curseforge.com/minecraft/mc-mods/fancymenu)**    
-    * *(Fully customized main menu, "ESC" menu, video settings, audio settings etc.)*   
-* **[Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen)**   
-    * *(Fully customized loading screen)*   
-* **Fully customized music in menus**   
-</details>   
+  *   **[Remove Loading Screen:](https://www.curseforge.com/minecraft/mc-mods/rrls)** - **Remove loading screen** has been permanently removed from the pack *(removed in v0.1.3-alpha-r.dev)*, as it is **completely** incompatible with 
+
+      <details>
+      <summary>our upcoming..</summary>   
+
+      - **[Fancy Menu](https://www.curseforge.com/minecraft/mc-mods/fancymenu)**    
+        - *(Fully customized main menu, "ESC" menu, video settings, audio settings etc.)*   
+      - **[Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen)**   
+        - *(Fully customized loading screen)*   
+      - **Fully customized music in menus**   
+
+      </details>   
+   
 
   *   **[True Darkness Biomes](https://www.curseforge.com/minecraft/mc-mods/true-darkness-biomes)** - *Replaced by [Vulcan's Darkness](https://www.curseforge.com/minecraft/mc-mods/vulcans-darkness)*
   *   **[Woodwalkers](https://www.curseforge.com/minecraft/mc-mods/woodwalkers)** - *Removed because redundancy*   
   *   **[Xaero Train Map](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***     
 
+
+   </details>
 </details>
 
 ---
 
-# 🗺️ **ROADMAP**   
+## 🗺️ **ROADMAP**   
 
 ***This is the roadmap for v0.3.0-alpha.***
 
-## Mods to be added:   
+### 🕙 Mods to be added:   
    We're constantly looking at adding and removing mods until we're satisfied with the pack, here are some mods we plan to add in the future:
    *   **Morrowless** - *currently waiting on license permission* 
    *Discover mysterious monoliths and uncover the ancient powers hidden within!*   
 
 ---
 
-## Configurations and Custom content:   
+### 🔜 Configurations and Custom content:   
 
 We're going to start focusing a bit more on various custom changes using 
   * KubeJS 
@@ -516,10 +526,12 @@ Regarding overall quality, we're also working on `mod balancing`, `quests` and `
 For balancing, we will also be making it "*harder*" to gain access to certain items, like powerful guns and spells, implementing a **"immersive" progression system** to balance the modpack and actually make you work to stay alive. This will be a progessive implementation using *[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)* and *[Progressive Stages](https://www.curseforge.com/minecraft/mc-mods/progressivestages)*, amongst other.
 The idea is **NOT** to lock everything behind progression, but rather just some aspects of the modpack and make it more intriguing and "long-lived".    
 
-## "To-do list"   
+### 📋 "To-do list"   
    
   * Create a full modlist   
   * Configure, balance, tweak and test all aspects of the modpack   
+  * Configure Discord
+  * Create more artwork   
 
 As well as everything else I have mentioned above, and probably more that I can't remember right now.. *lol*.
 
@@ -533,7 +545,7 @@ As well as everything else I have mentioned above, and probably more that I can'
 
 ---
 
-# Known Issues:   
+## ❗ Known Issues:   
 **[Here](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Troubleshooting/troubleshooting%20and%20knows%20issues.md)** you can find known issues regarding this version and on how to fix *most* of them.   
 
 ---
