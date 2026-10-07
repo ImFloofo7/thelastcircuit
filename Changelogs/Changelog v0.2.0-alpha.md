@@ -9,7 +9,7 @@
 
 
 
-***Please note that we are still in an early Alpha stage so bugs, unintended crashes and bug will appear.***
+***Please note that we are still in an early Alpha stage som unintended crashes, glitches and bugs will appear.***
 
 
 
