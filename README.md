@@ -14,8 +14,8 @@ It motivated me to remake the whole splashart for it and not trying to push the 
 Which might make you think *"Oh but that's not so hard, just throw them together and play"*.   
 I'll tell you right now, *in **most** cases* putting together something with 600+ mods *(v0.1.0)* and make it run flawlessly, it's not easy. Even if something says it's compatible or no listings of incompatible mods, it still might when you throw so many mods together.
 
-Anyway, there were a lot more comments, but these two were repeated *(in different manners)*.   
-And no, I have not yet done a ton of config or implemented much in the way of uniqueness, but let me remind you, this is in Alpha.
+Anyway, there were a lot more comments, but these two were repeated *(in different ways)*.   
+And no, I have not yet done a ton of config or implemented much in the way of uniqueness, but let me remind you, this is in ***early* alpha**.
 This is far from finished, but it will be finished.
 
 There is still a lot left to do and so many things I want, and will implement - features, improvements and uniqueness.
@@ -24,7 +24,7 @@ There is still a lot left to do and so many things I want, and will implement - 
 
 *(if you want to contribute to the project in anyway, please join our [Discord](https://discord.gg/A3TFF6TqEU) and open a ticket)*
 
-*(this message will be removed after **v1.0.x**)*
+*(this message will be removed when closing in on a full release)*
 
 ---
 
@@ -49,7 +49,7 @@ There is still a lot left to do and so many things I want, and will implement - 
 Players cannot rely on standard vanilla gear; instead, the core gameplay loop functions as a race against the dark, forcing players to advance technologically and master ancient sorcery to build a highly automated, fortified sanctuary capable of holding back the entities that lurk in the dark.
 
 *   Inspired by many years of playing Minecraft, including heavily modded setups, I wanted to try something new. 
-I've played many different premade modpacks over the years, but always felt like something was missing—whether it was specific features like elevators or just a bit more ambience, sometimes something really "*dumb*" like [Appleskin](https://modrinth.com/mod/appleskin).
+I've played many different premade modpacks over the years, but always felt like something was missing—whether it was specific features like elevators or just a bit more ambience, sometimes something really "*dumb*" like [Appleskin](https://curseforge.com/minecraft/mc-mods/appleskin).
 Basically I always ended up playing a modified version of a pack until I was satisfied. 
 
 So, I decided to build something from scratch this time. 
@@ -65,7 +65,7 @@ I decided to call the outcome "**The Last Circuit**" *(Idk, just felt appropriat
 
 
 Below are some "***core***" mods listed to give you a hint of what this modpack has to offer.   
-*(if you wish to look through the full modlist *(for the latest version)*, look it up on CurseForge or you will have to check each version specific link under **[versions](https://github.com/ImFloofo7/thelastcircuit/blob/main/README.md#versions)**)* 
+*(if you wish to look through the full modlist *(for the latest version)*, look up the project on CurseForge or you will have to check each version specific link under **[changelogs](https://github.com/ImFloofo7/thelastcircuit/tree/Latest/All%20Changelogs)**)* 
 
 ---
 
@@ -78,12 +78,13 @@ Players can construct complex, multi-block factories and digital storage network
 <details>
 <summary>▶️Heavy Industry, Logistics & Automation</summary>
 
-*   **[Applied Energistics (AE2)](https://modrinth.com/mod/ae2)** – Offers full digital inventory control, auto-crafting capabilities, and gas/chemical integration via *[Applied Mekanistics](https://modrinth.com/mod/applied-mekanistics)*.
-*   **[Refined Storage](https://modrinth.com/mod/refined-storage)**
-*   **[Mekanism](https://modrinth.com/mod/mekanism)** *+ [Mekanism Generators](https://modrinth.com/mod/mekanism) & [Mekanism Tools](https://modrinth.com/mod/mekanism-tools)* – Used for advanced ore processing, chemical processing, and early-to-mid game power networks.
-*   **[Ender IO](https://modrinth.com/mod/enderio)** – Handles tight logistical management using compact, advanced item, fluid, and energy conduits.
-*   **[Extreme Reactors](https://modrinth.com/mod/extremereactors)** – Provides massive, customizable multi-block reactors to fuel high-tier late-game energy grids.
-*   **[Create](https://modrinth.com/mod/create)** & **Additions** – Integrates kinetic rotation force, power transformation, and extensive logistical transport using **[Threaded Trains](https://modrinth.com/mod/create-threaded-trains)** & **[Railways Navigator](https://modrinth.com/mod/create-railways-navigator)**.
+*   **[Applied Energistics (AE2)](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)** – *Offers full digital inventory control, auto-crafting capabilities, and gas/chemical integration via *[Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)*.*
+*   **[Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)** - *An alternative to AE2, or why not run both with *
+*   **[Mekanism](https://curseforge.com/minecraft/mc-mods/mekanism)** *+ Lots of add-on's* – *Used for advanced ore processing, chemical processing, and early-to-mid game power networks.*
+*   **[Ender IO](https://curseforge.com/minecraft/mc-mods/enderio)** – *Handles tight logistical management using compact, advanced item, fluid, and energy conduits.*
+*   **[Extreme Reactors](https://curseforge.com/minecraft/mc-mods/extreme-reactors)** – *Provides massive, customizable multi-block reactors to fuel high-tier late-game energy grids.*
+*   **[MagiTech: Arcane Engineering](https://www.curseforge.com/minecraft/mc-mods/magitech-arcane-engineering)** - *Combines magic and tech*
+*   **[Create](https://www.curseforge.com/minecraft/mc-mods/create)** *+ lots of add-on's* – *Integrates various steampunk-like machines, making industrialization possibilities limitless.*
 *   ***..and many more!***
 
 </details>
@@ -99,9 +100,9 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 <summary>▶️Weapons & TechMagic Crossovers</summary>
 
 
-*   **[TacZ](https://modrinth.com/mod/tacz-1.21.1)** – Adds fully animated, modular firearms.
-*   **[Create: Big Cannons](https://modrinth.com/mod/create-big-cannons)** – Allows the construction of functional, large-scale defensive artillery for base perimeters.
-*   **[Ars Nouveau](https://modrinth.com/mod/ars-nouveau)** *+ [Ars Creo](https://modrinth.com/mod/ars-creo)* – Implements a flexible, customizable spellcasting system, and also bridges directly into *[Create](https://modrinth.com/mod/create)* contraptions, automated logistics, and moving train platforms.
+*   **[TacZ](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero)** – Adds fully animated, modular firearms.
+*   **[Create: Big Cannons](https://curseforge.com/minecraft/mc-mods/create-big-cannons)** – Allows the construction of functional, large-scale defensive artillery for base perimeters.
+*   **[Ars Nouveau](https://curseforge.com/minecraft/mc-mods/ars-nouveau)** *+ [Ars Creo](https://curseforge.com/minecraft/mc-mods/ars-creo)* – Implements a flexible, customizable spellcasting system, and also bridges directly into *[Create](https://curseforge.com/minecraft/mc-mods/create)* contraptions, automated logistics, and moving train platforms.
 *   ***..and many more!***
 
 </details>
@@ -116,11 +117,11 @@ The world generation and audio design are overhauled to maximize isolation and p
 <details>
 <summary>▶️Horror & Enviromental Mods</summary>
 
-*   **[The Broken Script](https://modrinth.com/mod/the-broken-script)** *(with add-ons)* & **Stalkers** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like *[The Knocker](https://modrinth.com/mod/the-knocker)* and *[The Obsessed](https://modrinth.com/mod/obsessed)* actively stalk and terrorize the player's position.
-*   **[Server-Side Horror](https://modrinth.com/mod/server-side-horror)** & **[Sound Physics (remastered)](https://modrinth.com/mod/sound-physics-remastered)** – Adds dynamic echo localization and atmospheric scares that bounce realistically through factory pipes and walls.
+*   **[The Broken Script](https://modrinth.com/mod/the-broken-script)** *(with add-ons)* ***(+ more stalkers and dark entities)*** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like *[The Knocker](https://curseforge.com/minecraft/mc-mods/the-knocker)* and *[The Obsessed](https://curseforge.com/minecraft/mc-mods/obsessed)* actively stalk and terrorize the player's position.
+*   **[Server-Side Horror](https://curseforge.com/minecraft/mc-mods/sever-side-horror)** & **[Sound Physics (remastered)](https://curseforge.com/minecraft/mc-mods/sound-physics-remastered)** – Adds dynamic echo localization and atmospheric scares that bounce realistically through factory pipes and walls.
      *   *Future plan is to make custom sounds so stay tuned for that*
-*   **[True Darkness (Biomes)](https://modrinth.com/mod/true-darkness-biomes)** – Enforces pitch-black environments, making an established, automated power grid with working industrial light setups an absolute necessity for survival.
-*   **[Regions Unexplored](https://modrinth.com/mod/regions-unexplored)** – Overhauls the landscape with dark, dense, and bleak overworld biomes that blend seamlessly with the building blocks provided by *[Chipped](https://modrinth.com/mod/chipped)* and *[Rechiseled](https://modrinth.com/mod/rechiseled)*.
+*   **[Regions Unexplored](https://curseforge.com/minecraft/mc-mods/regions-unexplored)** – Overhauls the landscape with dark, dense, and bleak overworld biomes that blend seamlessly with the building blocks provided by *[Chipped](https://curseforge.com/minecraft/mc-mods/chipped)* and *[Rechiseled](https://curseforge.com/minecraft/mc-mods/rechiseled)*.
+*   **[No_moon.jar](https://modrinth.com/mod/no_moon.jar)** - *Slowly corrupts your world and slowly turns everything chaotic.*
 *   ***..and many more!***
 
 </details>
@@ -139,21 +140,24 @@ With performance in mind, I have gathered a lot of optimization mods, enough to 
 
 <summary>▶️QoL & Optimization Mods</summary>
 
-*   **Rendering & Optimization** – Uses **[Sodium](https://modrinth.com/mod/sodium)** and **[Iris Shaders](https://modrinth.com/mod/iris)** alongside **[Voxy](https://github.com/m3t4f1v3/voxy/tree/mc_1211)** for extended level-of-detail rendering over massive distances without sacrificing frame rates.    
-~~*(When using shaders, make sure you're using a shader that has support for DH, otherwise DH won't render when Iris Shaders is active)*~~ *(fixed in v0.2.0 and up thanks to **"[FixSodiumShaderLoader](https://github.com/coco875/Fix-sodium-ShaderLoader)"** and switching to **Voxy** instead of [Distant Horizons](https://modrinth.com/mod/distanthorizons)).*
-*   **Stability Libraries** – Utilizes core dependencies such as *[Melody](https://modrinth.com/mod/melody), [Bookshelf](https://modrinth.com/mod/bookshelf), [GlitchCore](https://modrinth.com/mod/glitchcore), [TerraBlender](https://modrinth.com/mod/terrablender), [Indium](https://modrinth.com/mod/indium), [Patchouli](https://modrinth.com/mod/patchouli),* and *[GeckoLib](https://modrinth.com/mod/geckolib)* to ensure cross-mod functionality and prevent crash loops.
-*   **Recipe & Material Unity** – Implements **[Roughly Enough Items (REI)](https://modrinth.com/mod/rei)** for comprehensive recipe viewing, and **[Almost Unified](https://modrinth.com/mod/almostunified)** to merge duplicate ores *(i.e. Copper, Tin, Iron)* from different tech mods into single, functional item IDs.
+*   **Rendering & Optimization** – Uses **[Sodium](https://curseforge.com/minecraft/mc-mods/sodium)** and **[Iris Shaders](https://curseforge.com/minecraft/mc-mods/irisshaders)** alongside **[Voxy](https://modrinth.com/mod/voxy)** for extended level-of-detail rendering over massive distances without sacrificing frame rates.    
+~~*(When using shaders, make sure you're using a shader that has support for DH, otherwise DH won't render when Iris Shaders is active)*~~ - ***(fixed in v0.2.0)***
+*   **Stability Libraries** – Utilizes tons of core dependencies such as *[Melody](https://curseforge.com/minecraft/mc-mods/melody), [Bookshelf](https://curseforge.com/minecraft/mc-mods/bookshelf), [GlitchCore](https://curseforge.com/minecraft/mc-mods/glitchcore), [TerraBlender](https://curseforge.com/minecraft/mc-mods/terrablender), [Indium](https://curseforge.com/minecraft/mc-mods/indium), [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli),* and *[GeckoLib](https://curseforge.com/minecraft/mc-mods/geckolib)*, and **many** more, to ensure *cross-*mod functionality and prevent crash loops.
+*   **Recipe & Material Unity** – Implements **[Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)** for comprehensive recipe viewing, and *[Almost Unified](https://curseforge.com/minecraft/mc-mods/almostunified)* to merge duplicate ores *(i.e. `Copper`, `Tin`, `Iron`)* from different tech mods into single, functional item IDs.
 *   ***..and many more!***
 
 </details>
+
+### The mods listed above are just a tiny sneak peek of what this modpack has to offer.
+
+*There are so many mods...*
 
 ---
 
 ### *Versions*
 
-Full modlist are dependent on the latest version of the modpack.
-Older versions are listed below and can also be found on my profile under "Collections".
-*   *As the modpack updates, I will link the individual versions below since mods etc will most likely be replaced and/or removed.*
+No current "***Full***" modlist is available.
+However there are, dependent on the latest version, changelogs, aswell as in the launcher itself, you will be able to see all the mods.   
 
 ## [CurseForge Page](www.curseforge.com/minecraft/modpacks/the-last-circuit)
 
@@ -161,12 +165,7 @@ Older versions are listed below and can also be found on my profile under "Colle
 
 <summary>▶️Changelogs</summary>
 
-***Note that versions above "v0.1.0-Alpha" does NOT link to a collection***
-*(They link to the changelogs where everything is mentioned. I decided to do it this way instead to save time and minimize clutter and the pain of having to update the collections for each version, which takes forever because there are so many mods).*
-
-* **v0.2.0-Alpha** ***(coming soon)***
-* **v0.1.1-Alpha-r.dev** ⏩ **v0.1.9-r.dev** *(skipped upload, for many reasons)*
-* **[v0.1.0-Alpha](https://modrinth.com/collection/VgaTeepe)**
+*As the modpack updates, mods will be added, updated, removed and replaced. So, to make it easier **(for everyone)**, I have gathered all the changelogs [here](https://github.com/ImFloofo7/thelastcircuit/tree/Latest/All%20Changelogs)*
 
 </details>
 
@@ -178,32 +177,32 @@ Older versions are listed below and can also be found on my profile under "Colle
 
 
 
-## **Disclaimer:** 
+## **Disclaimer:**  
 
 **All bugs, crashes, and errors must be reported on my Discord first.** 
-This is a huge modpack that I have mixed together, so most issues are just mod conflicts. 
-If a problem turns out to be a genuine bug with a specific mod, I will direct you to report it to the mod author.
+This is a huge modpack that I have mixed together, so most issues are just mod conflicts in one way or another.   
+If a problem turns out to be a genuine bug with a specific mod, I will direct you to report it to the mod author for the corresponding mod.
 
-### ***Some mods are not available on CurseForge and might have to be manually installed/updated***
+### ***Some mods or versions might not be available on CurseForge and might have to be manually installed/updated***
 
 <details>
 
 <summary>Mods that has to be updated/downloaded manually</summary>
 
-Since switching to CurseForge for Alpha v.0.2.0, there are a decent amount of mods not available for "quick update".
+Since switching to CurseForge for `v.0.2.0-Alpha`, there are a decent amount of mods not available for "quick update".
 Therefore, I strongly recommend leaving the mods in the modpack as is, until full modpack updates are released.
 
 * *(If you don't want to wait and still want to update the mods manually, you will have to look up newer versions not available on CurseForge yourself on Modrinth or elsewhere, though I cannot guarantee compatibility and do I will also **NOT** assist in troubleshooting).*
-     *   *If you do find bugs with newer versions, it is highly appreciated if you would share them in the discord or here on GitHub under "[issues](https://github.com/ImFloofo7/thelastcircuit/issues)"*
+     *   *However, if you do decide to update mods and find bugs with newer versions of a mod, it is **highly appreciated** if you would share them with us in the [Discord](https://discord.gg/A3TFF6TqEU) or on GitHub under "[issues](https://github.com/ImFloofo7/thelastcircuit/issues)"*.
 
 </details>
 
-The modpack is configured as we want it to be experienced but you are of course allowed to make the changes you want. 
-Any and all configurations are still available , and instructions on how to do so can be found on each respective mod page.
+The modpack is configured as we want it to be experienced but you are of course allowed to make the changes you want for personal usage. 
+Any and all configurations are still available *for now*, and instructions on how to do turn on/off or edit any features so can be found on each respective mod page.
 
 ---
 
-This modpack combines multiple advanced horror systems *([The Broken Script](https://modrinth.com/mod/the-broken-script)*, *[The Knocker](https://modrinth.com/mod/the-knocker)*, *[The Obsessed](https://modrinth.com/mod/obsessed)*, *[ArPhEx](https://modrinth.com/mod/arphex)*, etc); into a single interconnected ecosystem. 
+This modpack combines multiple advanced horror systems *([The Broken Script](https://modrinth.com/mod/the-broken-script)*, *[The Knocker](https://curseforge.com/minecraft/mc-mods/the-knocker)*, *[The Obsessed](https://curseforge.com/minecraft/mc-mods/obsessed)*, *[ArPhEx](https://curseforge.com/minecraft/mc-mods/arphex)*, etc); into a single interconnected ecosystem. 
 
 **By downloading this pack, you acknowledge that it is designed to induce extreme paranoia and psychological dread.**
 
@@ -211,44 +210,42 @@ This modpack combines multiple advanced horror systems *([The Broken Script](htt
 *   Depictions of graphic violence and blood.
 *   Themes of suicide and self-harm.
 *   Verbal and emotional abuse.
-*   Severe phobia-inducing entities *([extreme arachnophobia](https://modrinth.com/mod/arphex))*. 
+*   Severe phobia-inducing entities *([extreme arachnophobia](https://curseforge.com/minecraft/mc-mods/arphex))*. 
 
-*All configuration options remain unlocked **(at least for now)**. High-risk mechanics (like world corruption or file generation) can be manually adjusted or toggled ON/OFF within the respective mod config files.*
+*All configuration options remain unlocked **(at least for now)**.*   
+*"High-risk mechanics" *(like world corruption or file generation)* can be manually adjusted or toggled ON/OFF within the respective mod config files.*
 
 ---
 
-This pack also features ARG and meta-horror elements that mimic system glitches. 
+This pack also features ARG and meta-horror elements that mimic system "glitches". 
 It is entirely safe and **does NOT contain malware**, but it can affect your game in the following ways:
 
-* **Intentional Crashes & Popups:** Can trigger fake error windows and deliberate game crashes.
-* **File Interaction:** Generates custom text files outside your instance directory as part of the lore.
-* **World Corruption:** Can destroy chunks, corrupt terrain, or render specific worlds unplayable.
-* **Sensory Triggers:** Features pitch-black environments (*True Darkness*), sudden loud noises, and flashing lights/patterns-    
+* **Intentional Crashes & Popups:** *Can trigger fake error windows and deliberate game crashes.*
+* **File Interaction:** *Generates custom text files outside your instance directory as part of the lore.*
+* **World Corruption:** *Can destroy chunks, corrupt terrain, or render specific worlds unplayable.*
+* **Sensory Triggers:** *Features close to pitch-black environments *(enviromental configs), sudden loud noises, and flashing lights/patterns-*    
 *(**Photosensitivity/Epilepsy warning**)*
-*   Several horror mods in this pack **CAN** and **WILL** intentionally kick you or "**ban**" you from your world as a "psychological scare mechanic". 
+*   *Several horror mods in this pack **CAN** and **WILL** intentionally **`kick`** you or "**`ban`**" you from your world as a "psychological scare mechanic".* 
 To be absolutely sure about how each mod operates and to secure your gameplay experience, 
-**I highly recommend** going into the configuration menu *(or files)* before playing to manually toggle ON/OFF any mechanics you do not want. 
+**I highly recommend** going into the configuration menu *(or files)* before playing to manually toggle ON/OFF any mechanics you do not want.   
 
-*Please see each mods respective page for instructions on how to do so or create a ticket on my [Discord](https://discord.gg/A3TFF6TqEU) if you can't figure it out.*
+*Please see each mods respective page for instructions on how to do so or create a ticket on my [Discord](https://discord.gg/A3TFF6TqEU) or create an issue on [GitHub](https://github.com/ImFloofo7/thelastcircuit/issues) if you can't figure it out and we will do our best to resolve the issue..*
   
-***Note:*** It will **NOT** turn off your PC, read personal files or brick your instance.
+***Note:*** It will **NOT** `turn off your PC`, `read personal files` or `brick your instance`.
 
 ### ***Server Info***
-*   If you are planning to install this on a server, please note that there are several client-side mods *(like [unknown_file.jar](https://modrinth.com/mod/unknown_file.jar))* that need to be removed, or in some cases moved to the server-side directory, meaning you don't have to have them on your client. 
-**However** this only applies to some mods like "[server core](https://modrinth.com/mod/servercore)".
-*Most* mods you do actually need to have client-side, but some break if they're on your client and on a server.
+*   If you are planning to install this on a server, please note that there are several mods *(like [unknown_file.jar](https://curseforge.com/minecraft/mc-mods/unknown-file-jar))* that need to be removed, and alot that need to be added/moved to the server-side mod directory 
+*Most* mods you do actually need to have client-side as well as on the server
 
 
 More information regarding server setups will be provided in the future if there is enough interest in running this on servers
-*(I recommend looking through the mods yourself or use the Modrinth launcher that has a filter where you can filter by "Environment" > "Singleplayer Only"/"Server-side Only")*.
-
-*   There are multiple recommended mods if you're playing with friends that can be found [here](https://modrinth.com/collection/aOz1DpbX) *(work in progress - not fully tested)*. 
+*(I recommend looking through the mods yourself or use "Env" filter in the CurseForge Launcher).
 
 ---
 
 ## **Credits:** 
 
-*   I do ***NOT*** own any of the individual mods or libraries included in this package.   
+*   As of this version *(V0.2.0)*, I do ***NOT*** own any of the individual mods or libraries included in this package.   
 *All credit, intellectual property rights, and appreciation go entirely to their respective creators and developers in the open-source community who made these amazing projects possible.* 
 
 ## **Special thanks:**
@@ -260,7 +257,5 @@ for giving me permission to use their mods, permissions can be found on my [GitH
 
 *(You can find each respective creator on their individual mod page).*
 
-## ***This modpack is created solely for gameplay distribution purposes.***
-***
 ## ***This modpack is created solely for gameplay distribution purposes.***
 ***
