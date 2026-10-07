@@ -5,7 +5,9 @@ When I released the initial [v0.1.1-alpha-r.dev](https://modrinth.com/modpack/th
 
 ### **"AI SLOP"**
 *   Art is made by me, in [Gimp](https://www.gimp.org/) and [Krita](https://krita.org/sv/).    
-*(I did ask an AI to enhance it by removing rough edges and blend it together a bit more, hence the "AI feel" I guess..)*
+*(I did ask an AI to enhance it by removing rough edges and blend it together a bit more, hence the "AI feel" I guess..)*   
+This was in a way some good feedback, could've said it in another way but, I appreciate the feedback.´   
+It motivated me to remake the whole splashart for it and not trying to push the modpack release too quickly.
 
 ### **"Nah, by the looks of it, doesn't seem like you put any effort into it. Can't endorse it."**
 *   As of the time writing this, I have poured 2 weeks of my time into art, configuring and making it even run. All by myself.   
@@ -21,6 +23,8 @@ There is still a lot left to do and so many things I want, and will implement - 
 *(Though it mike take a sec because I am at the time of writing this the only one working on it).*
 
 *(if you want to contribute to the project in anyway, please join our [Discord](https://discord.gg/A3TFF6TqEU) and open a ticket)*
+
+*(this message will be removed after **v1.0.x**)*
 
 ---
 
