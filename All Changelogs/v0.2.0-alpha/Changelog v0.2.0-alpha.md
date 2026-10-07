@@ -7,6 +7,12 @@
 
 # 🛠️ Changelog: v0.2.0-alpha
 
+
+
+***Please note that we are still in an early Alpha stage som unintended crashes, glitches and bugs will appear.***
+
+
+
 ### ☑️ Mod permissions!
 
 
