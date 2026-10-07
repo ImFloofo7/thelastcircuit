@@ -118,7 +118,7 @@ The world generation and audio design are overhauled to maximize isolation and p
 <details>
 <summary>▶️Horror & Enviromental Mods</summary>
 
-*   **[The Broken Script](https://modrinth.com/mod/the-broken-script)** *(with add-ons)* ***(+ more stalkers and dark entities)*** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like *[The Knocker](https://curseforge.com/minecraft/mc-mods/the-knocker)* and *[The Obsessed](https://curseforge.com/minecraft/mc-mods/obsessed)* actively stalk and terrorize the player's position.
+*   **[The Broken Script (2.0)](https://modrinth.com/mod/the-broken-script)** *(with add-ons)* ***(+ more stalkers and dark entities)*** – Immersive, glitchy ARG-inspired elements affect the game, while AI-driven entities like *[The Knocker](https://curseforge.com/minecraft/mc-mods/the-knocker)* and *[The Obsessed](https://curseforge.com/minecraft/mc-mods/obsessed)* actively stalk and terrorize the player's position.
 *   **[Server-Side Horror](https://curseforge.com/minecraft/mc-mods/sever-side-horror)** & **[Sound Physics (remastered)](https://curseforge.com/minecraft/mc-mods/sound-physics-remastered)** – Adds dynamic echo localization and atmospheric scares that bounce realistically through factory pipes and walls.
      *   *Future plan is to make custom sounds so stay tuned for that*
 *   **[Regions Unexplored](https://curseforge.com/minecraft/mc-mods/regions-unexplored)** – Overhauls the landscape with dark, dense, and bleak overworld biomes that blend seamlessly with the building blocks provided by *[Chipped](https://curseforge.com/minecraft/mc-mods/chipped)* and *[Rechiseled](https://curseforge.com/minecraft/mc-mods/rechiseled)*.
