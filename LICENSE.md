@@ -1,52 +1,75 @@
-# **The Last Circuit - Modpack License**
-*Copyright © 2026 [ImFloofo7](https://github.com/ImFloofo7) & Team*
+============================================================================================
+# **THE LAST CIRCUIT - *MODPACK LICENSE***    
 
 ============================================================================================
-## **1. SCOPE OF LICENSE (PLEASE READ: ABOUT OPEN-SOURCE/MIT MODS)**
+
+***Copyright (c) 2026 ImFloofo7 & Team.***   
+*All Rights Reserved.*   
+   
+--------------------------------------------------------------------------------------------
+### 1. SCOPE OF LICENSE & COMPLIANCE WITH OPEN-SOURCE
+--------------------------------------------------------------------------------------------
+This License applies **EXCLUSIVELY** to the original and **`customized assets`**, **`server`** 
+*and* **`client`** **`configurations`** *(configs)*, **`KubeJS scripts`**, **`quest lines`**, **`balancing tweaks`**, 
+and the unique compilation work created specifically for "***The Last Circuit***" by 
+***[ImFloofo7](https://github.com/ImFloofo7)*** and the development team *(hereafter referred to as "Proprietary Work")*.   
+   
+This License **DOES NOT** alter, override, or replace the original open-source 
+licensing *(including, but not limited to, **MIT**, **GNU GPL**, **LGPL**, and **Apache**)* of 
+the standard public third-party modifications *(mods)* included within this pack.  
+***All unmodified third-party mods retain their respective original licenses, 
+source rights, and distribution permissions.***   
+   
+--------------------------------------------------------------------------------------------
+### 2. PROHIBITED REDISTRIBUTION OF THE MODPACK
+--------------------------------------------------------------------------------------------
+You are **STRICTLY PROHIBITED** from **`republishing`**, **`re-uploading`**, or **`distributing`** 
+"***The Last Circuit***" modpack as a compiled or unified project on **any** other 
+platform, launcher, or website *(including, but not limited to, Modrinth, 
+CurseForge mirrors, or private distribution hosts)* without explicit prior 
+written consent from the author *(**[ImFloofo7](https://github.com/ImFloofo7)**)*.
+
+* **OPEN-SOURCE EXCEPTION:** This restriction **does NOT apply** to individual, 
+  unmodified third-party mods operating under open-source licenses.   
+  Users remain entirely free to download, use, and redistribute those individual 
+  mods separate from this modpack, in strict accordance with their original 
+  licenses.   
+   
+--------------------------------------------------------------------------------------------
+### 3. PROPRIETARY CONFIGURATION & SCRIPT PROTECTION 
+--------------------------------------------------------------------------------------------
+*(PERSONAL USE ONLY)*   
+   
+**All** custom files, KubeJS scripts, quest databases, and config overhauls 
+developed by the project team are protected under standard proprietary copyright.   
+   
+* **AUTHORIZED PERSONAL USE:** You are granted permission to edit, tweak, and 
+  modify our Proprietary Work for ***PERSONAL, PRIVATE USE ONLY*** *(e.g., private 
+  singleplayer sessions or private dedicated servers)*.   
+* **RESTRICTION ON DISTRIBUTION:** You are **STRICTLY PROHIBITED** from **`sharing`**, 
+  **`publishing`**, **`distributing`**, or **`incorporating`** our -   
+   * custom code 
+   * KubeJS scripts   
+   * custom config overhauls   
+
+  and other custom modifications into other **`public projects`**, **`repositories`**, or **`modpacks`** without 
+prior written consent from the ***[author](https://github.com/ImFloofo7)***.   
+
+* **PROHIBITION ON EXTRACTION:** You may **NOT** extract our Proprietary Work to use 
+  as a base for a competing public project or redistribute our modified assets 
+  publicly.   
+   
 ============================================================================================   
-This license applies **STRICTLY** and **EXCLUSIVELY** to the custom files, configuration
-overhauls ***`configs`***, ***`KubeJS scripts`***, ***`quest files`***, and the unique ***`combination/compilation`*** 
-work created specifically for "The Last Circuit" by [ImFloofo7](https://github.com/ImFloofo7) and 
-the development team.
-
-This license **DOES NOT** 
-* alter 
-* override 
-* replace    
-the original open-source licensing *(such as MIT, GPL, or Apache, etc)* of the standard public modifications 
-included within this pack. 
-All individual mods retain their respective 
-original distribution rights.
-
-============================================================================================
-## **2. PROHIBITED REDISTRIBUTION**
+### **Third-Party Licensing Exception**   
 ============================================================================================   
-You are **NOT** permitted to ***`republish`***, ***`re-upload`***, or ***`distribute`*** "The Last Circuit" 
-modpack, as a whole or in parts, on any other platform, launcher, or website 
-*(including but not limited to Modrinth, CurseForge mirrors, or private hosts)* 
-without explicit written permission from the [author](https://github.com/ImFloofo7).
 
-============================================================================================
-## **3. CONFIGURATION & SCRIPT USAGE (PERSONAL USE ONLY)**
-============================================================================================   
-All custom configurations ***`configs`***, ***`KubeJS scripts`***, ***`quest files`***, and ***`balancing 
-tweaks`*** created by ImFloofo7 and the development team are protected. 
-* You may edit these files for PERSONAL USE ONLY *(e.g., private Singleplayer 
-  or private dedicated servers)*.
-* You are **STRICTLY PROHIBITED** from ***`sharing`***, ***`publishing`***, or ***`distributing`*** your 
-  modified versions of these configs and scripts without prior written consent 
-  from the [author](https://github.com/ImFloofo7).
+*(All rights reserved)*
+--------------------------------------------------------------------------------------------   
+This section applies strictly to the closed-source modifications included in this pack that do not operate under public open-source licensing:
+* **[Nightfall](https://curseforge.com)** *(All Rights Reserved by its respective author/team)*
+* **[Gabou's Libs](https://curseforge.com)** *(All Rights Reserved by its respective author/team)*
 
----
-
-## **Third-Party Licensing Exception (All Rights Reserved)**
-This section applies to the closed-source modifications included in this pack 
-that do not operate under public MIT licensing:
-* [Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall) _(All Rights Reserved by its respective author/team)_
-* [Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs) _(All Rights Reserved by its respective author/team)_
-
-*These specific mods are bundled with explicit, private permission granted by 
-their original authors for use solely within "The Last Circuit". 
-All rights, titles, and intellectual property for these mods remain entirely with their respective creators. 
-You may **not** ***`redistribute`***, ***`modify`***, or ***`extract`*** these 
-binaries separate from this modpack.*
+*These specific mods are bundled with explicit, private permission granted by their original authors for use solely within "**The Last Circuit**".    
+All rights, titles, and intellectual property for these mods remain entirely with their respective creators.   
+You may **NOT** **`redistribute`**, **`modify`**, or **`extract`** these binaries separate from this modpack.*   
+*(details for permission can be found under respective "**[MOD NAME] License Permission.md**" in all branches.)*
