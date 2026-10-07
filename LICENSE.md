@@ -64,6 +64,7 @@ prior written consent from the ***[author](https://github.com/ImFloofo7)***.
 ============================================================================================   
 
 *(All rights reserved)*
+   
 --------------------------------------------------------------------------------------------   
 This section applies strictly to the closed-source modifications included in this pack that do not operate under public open-source licensing:
 * **[Nightfall](https://curseforge.com)** *(All Rights Reserved by its respective author/team)*
