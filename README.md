@@ -80,7 +80,7 @@ Players can construct complex, multi-block factories and digital storage network
 <summary>▶️Heavy Industry, Logistics & Automation</summary>
 
 *   **[Applied Energistics (AE2)](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)** – *Offers full digital inventory control, auto-crafting capabilities, and gas/chemical integration via *[Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)*.*
-*   **[Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)** - *An alternative to AE2, or why not run both with *
+*   **[Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)** - *An alternative to AE2, or why not run both? (separately)*
 *   **[Mekanism](https://curseforge.com/minecraft/mc-mods/mekanism)** *+ Lots of add-on's* – *Used for advanced ore processing, chemical processing, and early-to-mid game power networks.*
 *   **[Ender IO](https://curseforge.com/minecraft/mc-mods/enderio)** – *Handles tight logistical management using compact, advanced item, fluid, and energy conduits.*
 *   **[Extreme Reactors](https://curseforge.com/minecraft/mc-mods/extreme-reactors)** – *Provides massive, customizable multi-block reactors to fuel high-tier late-game energy grids.*
