@@ -72,4 +72,5 @@ This section applies strictly to the closed-source modifications included in thi
 *These specific mods are bundled with explicit, private permission granted by their original authors for use solely within "**The Last Circuit**".    
 All rights, titles, and intellectual property for these mods remain entirely with their respective creators.   
 You may **NOT** **`redistribute`**, **`modify`**, or **`extract`** these binaries separate from this modpack.*   
-*(details for permission can be found under respective "**[MOD NAME] License Permission.md**" in all branches.)*
+*(details for permission can be found under respective "**[MOD NAME] License Permission.md**" in all branche).*
+--------------------------------------------------------------------------------------------   
