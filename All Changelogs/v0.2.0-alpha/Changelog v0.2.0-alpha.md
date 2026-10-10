@@ -94,46 +94,23 @@ One of the requirements for getting permission to include **[Nightfall](https://
 
 To make things as seamless as possible for alpha testing, a massive overhaul has been done to the Resource Pack system. All custom assets, dark UI themes, and Fresh Animations patches are now **fully numbered and categorized in their strict logical loading order**.
 
-If the game layout resets or doesn't load them automatically on your first boot, simply move them into the active (`Selected`) column and stack them following their prefix indices:
+If the game layout resets or doesn't load them automatically on your first boot, simply move them into the active *(`Selected`)* column and stack them following their prefix indices:
 
-1. **🧱 Base Overhauls & Block Models (`0.1.1` > `0.1.9`):** Forms the core foundation of your world. This initiates the main Faithful 64x overhaul, custom 3D crops, connected flower pots, seamless ore glows, and base block textures.   
-2. **🧬 Fresh Animations Core & Extensions (`1.2.10` > `1.2.19`):** Loads the fundamental resource frameworks first, followed directly by the core Fresh Animations engine, official extensions (`FA+`), and custom entity additions (like Drodi's Villagers).   
-3. **⚔️ Combat, Item & Compatibility (`1.3.20` > `1.3.27`):** Integrates specialized creature compatibility patches ~~(`x FA`)~~ cleanly over the core models.   Player combat modifications, weapon shapes, and item action dependencies (like Eating Animations) load right alongside them to prevent visual clipping.   
-4. **⚙️ Mod Gränssnitt & Dark Expansions (`2.1.1` > `2.1.9`):** Loads the specialized dark theme configurations for major technology and automation mods (Create, Mekanism, Refined Storage etc).   
-5. **🗺️ Maps, Icons & Minimap Fixes (`3.1.1` > `3.1.4`):** Integrates customized map stylings, Excalibur alignment profiles, and icon patches cleanly over the engine layer.   
-6. **👑 UI, Fonts, and Core Fixes (`5.1.8` > `6.1.1` - Absolute Top):** Highest loading priority. Activates the custom container shadings, font overhauls (Der's Shaded Font), and global Sodium translation patches over all active asset arrays.   
+1. **🧱 Base Overhauls & Block Models (`0.1.1` > `0.2.11` *+ `2.1.6`* ):** Forms the core foundation of your world. This initiates the main Faithful 64x overhaul, seamless ore glows, and base block textures.   
+2. **🧬 Core & Extensions (`0.2.12` > `0.2.19`):** Loads the fundamental resource frameworks first and custom entity additions.   
+3. **⚔️ Combat, Item & Compatibility (`0.2.20` > `1.2.23`):** Integrates specialized creature compatibility patches cleanly over the core models.   Player combat modifications, weapon shapes, and item action dependencies *(like Eating Animations)* load right alongside them to prevent visual clipping.   
+4. **⚙️ Mod interface & Dark Expansions (`2.1.1` > `2.1.5` *- `2.1.6`*):** Loads the specialized dark theme configurations for major technology and automation mods *(Create, Mekanism, Refined Storage etc)*.   
+5. **🗺️ Maps, Icons & Minimap Fixes (`2.1.7` > `3.1.3`):** Integrates customized map stylings, Excalibur alignment profiles, and icon patches cleanly over the engine layer.   
+6. **👑 UI, Fonts, and Core Fixes (`4.1.1` > `5.1.1` - Absolute Top):** Highest loading priority. Activates the custom container shadings, font overhauls *(Der's Shaded Font)*, and global Sodium translation patches over all active asset arrays.   
 
 ### Starting with "0.1.1" being at the bottom. - 
 *Start with adding **`0.1.1`** first, **`0.1.2`** second, etc.*
 
-***Disclaimer!***
+### ***Disclaimer!***
 
-  * Some resourcepacks cannot be included at this time because of licensing, this makes it a bit tideous since some are ***semi-required***, but most of them are optional.   
-    But I highly recommend you download them *(and put them in the order displayed next to them in the list below)*   
-       
-**REQUIRED:**   
-  * **[Eating Animations Farmer's Delight Compat](https://www.curseforge.com/minecraft/texture-packs/eating-animations-x-farmers-delight-add-ons)** > ``
-  * **[Eating Animations More Mod Compat](https://www.curseforge.com/minecraft/texture-packs/eat-animations-more-mod-compatibility)** > ``
-  * **[Eating Animations Vanilla Compat](https://www.curseforge.com/minecraft/texture-packs/eat-animations-more-mod-compatibility-vanilla)** > ``
-  * **[Eating Animations Born In Chaos Compat](https://www.curseforge.com/minecraft/texture-packs/eating-animations-x-born-in-chaos)** > ``
-  * **[Icon Xaero](https://www.curseforge.com/minecraft/texture-packs/icon-xaeros)** > ``
- 
-
-**RECOMMENDED:**   
-  * **[AL's Spiders Revamped](https://www.curseforge.com/minecraft/texture-packs/als-spiders-revamped)** > ``   
-  * **[Azu's Enhanced Zombie *(variants)*](https://www.curseforge.com/minecraft/texture-packs/azus-variants-zombie-enhanced)** > ``   
-  * **[Better Beds 3d](https://www.curseforge.com/minecraft/texture-packs/better-3d-beds)** > `0.1.6`    
-  * **[Creeper's Reforged](https://modrinth.com/resourcepack/creepers-reforged)** > ``   
-  * **[Drigo's 3D Lantern's x Punchy](https://www.curseforge.com/minecraft/texture-packs/drigo-3d-lantern-s-x-punchy)** > ``    
-  * **[Drodi's Villagers](https://www.curseforge.com/minecraft/texture-packs/drodis-villagers)** > ``   
-  * **[Excalibur Xaero's World Map](https://modrinth.com/resourcepack/xaeros-world-map-excalibur-support)** > ``   
-  * **[Fresh Ores & Ingots](https://modrinth.com/resourcepack/fresh-ores-and-ingots)** > ``    
-  * **[Mystical 3D Retextured](https://modrinth.com/resourcepack/mystical-3dretextured%2B)** > ``   
-  * **[Rainbow's Foliage *(Polytone)*](https://modrinth.com/resourcepack/rainbows-foliage)** > ``   
-  * **[Visual Effects +](https://www.curseforge.com/minecraft/texture-packs/visual-effects-plus)** > ``   
-  * **Untitled Punchies** > ``
-  * **[Waystones PBR](https://modrinth.com/resourcepack/waystones-pbr)** > ``   
-  * **[Waystones Emissive](https://modrinth.com/resourcepack/waystones-emissive)** > ``   
+  * Some resourcepacks **cannot** be included at this time because of licensing, this makes it a bit tideous since some are ***semi-required*** *(Pre-installed)*, but most of them are **optional**.   
+    But I highly recommend you download them *(and put them in the order listen on the sheet **[HERE](https://docs.google.com/spreadsheets/d/1aFkWyf8V0sgwXtd2bKsqFTWQClMtUoas1fNS3lf8A84/edit?usp=sharing)**)*   
+    * *You can install *most* of the packs directly from within minecraft using **Resouricify***
 You can also install **Fresh Animations** *with various add-on's* if you want, *(this was something I was going to do)* but this tanks performance greatly and is not recommended.   
 *(I also can't bother to ask for license permission at this time since it is such a performance reducer in this modpack)*   
 
@@ -379,6 +356,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)** - *Adds a Kotlin language loader and provides some optional utilities.*   
   *   **[KotlinLangForge](https://www.curseforge.com/minecraft/mc-mods/kotlinlangforge)** - *Provides a Kotlin language adapter for Forge and Neoforge*   
   *   **[LDLib](https://www.curseforge.com/minecraft/mc-mods/ldlib)** - *library for UI, rendering, synchronization, persistence, and in-game editors.*   
+  *   **[LibJF](https://www.curseforge.com/minecraft/mc-mods/libjf)** - *Library mod*
   *   **[MezzConfig](https://www.curseforge.com/minecraft/mc-mods/mezzconfig)** - *Simple configuration library for mods*   
   *   **[MRU](https://www.curseforge.com/minecraft/mc-mods/mru)** - *Library mod*   
   *   **[Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core)** - *Optimizes particles.*   
