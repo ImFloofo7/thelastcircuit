@@ -250,7 +250,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Just Enough Items: Structures](https://www.curseforge.com/minecraft/mc-mods/jei-structures)** - *Adds structure information browsing to **JEI**.*  
   *   **[Just Enough Items: WorldGen](https://www.curseforge.com/minecraft/mc-mods/jei-worldgen)** - *View ore generation information from inside JEI (compatible with the majority of modded ores since it reads directly from the biome data).*     
   *   **[Just Enough TacZ](https://www.curseforge.com/minecraft/mc-mods/jet-just-enough-tacz)** - *This mods adds config that allows removal of guns and addons from the game*     
-  *   **[Loot Integrations: Yung Structures](https://www.curseforge.com/minecraft/mc-mods/yung-structures-addon-for-loot-integrations)** - *Addon for **Loot Integrations**, changes loot-table for the Yung mod's structures:*    
+  *   **[Loot Integrations:  Structures](https://www.curseforge.com/minecraft/mc-mods/-structures-addon-for-loot-integrations)** - *Addon for **Loot Integrations**, changes loot-table for the  mod's structures:*    
   *   **[Loot Integrations: Randomized Loot](https://www.curseforge.com/minecraft/mc-mods/vanilla-loot-addon-for-loot-integrations)** - *Addon for Loot Integrations that enhances loot variety in standard chest loot tables.*    
   *   **[ME Requester](https://www.curseforge.com/minecraft/mc-mods/merequester)** - *Easy automation methos to keep **AE2** ME-system "in stock"*   
   *   **[Mekanism Turrets & Fences](https://www.curseforge.com/minecraft/mc-mods/mekanism-turrets-fences)** - *Adds defensive turrents and fences*     
@@ -293,7 +293,6 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Evolved Mekanism JEI Compat](https://www.curseforge.com/minecraft/mc-mods/evolved-mekanism-jei-emi-compat)** - *Adds compatibility between **Evolved Mekansim** and **JEI***   
   *   **[Iris Veil Compat](https://www.curseforge.com/minecraft/mc-mods/iris-veil-compat)** - *Allow mods using the Veil rendering engine to render correctly when using Iris Shaderpacks.*   
   *   **[Jade Additional Entities](https://www.curseforge.com/minecraft/mc-mods/jade-additional-entities)** - *Adds support for displaying information from **Jade** on entities added by other mods.*   
-    *    **[L_Ender's Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs)** - *Some config changes so that mobs properly spawn in **YUNG's Nether Fortresses***   
   *   **[Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations)** - *Implemented global looting balance patches covering ***Born in Chaos**, **L_ender's Cataclysm**, **Integrated**, **Yung's**, and Vanilla variables.*  
   *   **[Loot Integrations: Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for **Born in Chaos** structures and bosses.*    
   *   **[Loot Integrations: L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for **L_Ender's Cataclysm**structures and bosses.*   
@@ -355,6 +354,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete)** - *Another Library mod*   
   *   **[Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)** - *Adds a Kotlin language loader and provides some optional utilities.*   
   *   **[KotlinLangForge](https://www.curseforge.com/minecraft/mc-mods/kotlinlangforge)** - *Provides a Kotlin language adapter for Forge and Neoforge*   
+  *   **[Fragmentum](https://www.curseforge.com/minecraft/mc-mods/fragmentum-neoforge)** - *Lightweight core library used by other Obscuria Collection mods*
   *   **[LDLib](https://www.curseforge.com/minecraft/mc-mods/ldlib)** - *library for UI, rendering, synchronization, persistence, and in-game editors.*   
   *   **[LibJF](https://www.curseforge.com/minecraft/mc-mods/libjf)** - *Library mod*
   *   **[MezzConfig](https://www.curseforge.com/minecraft/mc-mods/mezzconfig)** - *Simple configuration library for mods*   
