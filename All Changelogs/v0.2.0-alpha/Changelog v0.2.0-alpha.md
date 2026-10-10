@@ -297,18 +297,18 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations)** - *Implemented global looting balance patches covering ***Born in Chaos**, **L_ender's Cataclysm**, **Integrated**, **Yung's**, and Vanilla variables.*  
   *   **[Loot Integrations: Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for **Born in Chaos** structures and bosses.*    
   *   **[Loot Integrations: L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for **L_Ender's Cataclysm**structures and bosses.*   
-  *   **[Macaw's Betters](https://www.curseforge.com/minecraft/mc-mods/macaws-betters)** - *Adds multi-compatibility for **Macaw's**..   
-        * **[Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)**   
-        * **[Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)**   
-        * **[Fences & Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)**   
-        * **[Furnitures](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)**   
-        * **[Lights & Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)**   
-        * **[Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)**   
-        * **[Paths & Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)**   
-        * **[Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)**   
-        * **[Stairs](https://www.curseforge.com/minecraft/mc-mods/macaws-stairs)**   
-        * **[Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)**   
-        * **[Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)**   
+  *   **[Macaw's Betters](https://www.curseforge.com/minecraft/mc-mods/macaws-betters)** - *Adds multi-compatibility for **Macaw's**.. 
+        * **[Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)**
+        * **[Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)**
+        * **[Fences & Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)**
+        * **[Furnitures](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)**
+        * **[Lights & Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)**
+        * **[Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)**
+        * **[Paths & Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)**
+        * **[Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)**
+        * **[Stairs](https://www.curseforge.com/minecraft/mc-mods/macaws-stairs)**
+        * **[Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)**
+        * **[Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)**
         *for **[BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether-neoforge)** and **[BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend-neoforge)**.*   
   *   **[Mystical Agriculture Compats](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-compats)** - *Adds compatibility between **Mystical Agriculture**, **Mekanism's** Enrichment Chamber and EnderIO's SAG Mill* 
   *   **[Mystical Engineering](https://www.curseforge.com/minecraft/mc-mods/mystical-engineering)** - *Adds comaptibility between **Mystical Agriculture** and Immersive Engineering's "Garden Clocke"*   
