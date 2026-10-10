@@ -7,12 +7,12 @@ When I released the initial [v0.1.1-alpha-r.dev](https://modrinth.com/modpack/th
 *   Art is made by me, in [Gimp](https://www.gimp.org/) and [Krita](https://krita.org/sv/).    
 *(I did ask an AI to enhance it by removing rough edges and blend it together a bit more, hence the "AI feel" I guess..)*   
    
-This was in a way some good feedback, could've said it in another way but, I appreciate the feedback.   
+This was in a way some good feedback, could've said it in another way but, but I still appreciate the feedback.   
 It motivated me to remake the whole splashart for it and not trying to push the modpack release too quickly.
  
 
 ### **"Nah, by the looks of it, doesn't seem like you put any effort into it. Can't endorse it."**
-*   As of the time writing this, I have poured 2 weeks of my time into art, configuring and making it even run. All by myself.   
+*   At the time writing this, I have poured 2+ weeks of my time into art, configuring and making it even run. All by myself.   
 Which might make you think *"Oh but that's not so hard, just throw them together and play"*.   
 I'll tell you right now, *in **most** cases* putting together something with 600+ mods *(v0.1.0)* and make it run flawlessly, it's not easy. Even if something says it's compatible or no listings of incompatible mods, it still might when you throw so many mods together.
 
@@ -81,7 +81,7 @@ Players can construct complex, multi-block factories and digital storage network
 <summary>▶️Heavy Industry, Logistics & Automation</summary>
 
 *   **[Applied Energistics (AE2)](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)** – *Offers full digital inventory control, auto-crafting capabilities, and gas/chemical integration via *[Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)*.*
-*   **[Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)** - *An alternative to AE2, or why not run both with *
+*   **[Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)** - *An alternative to AE2, or why not run both? (separately)*
 *   **[Mekanism](https://curseforge.com/minecraft/mc-mods/mekanism)** *+ Lots of add-on's* – *Used for advanced ore processing, chemical processing, and early-to-mid game power networks.*
 *   **[Ender IO](https://curseforge.com/minecraft/mc-mods/enderio)** – *Handles tight logistical management using compact, advanced item, fluid, and energy conduits.*
 *   **[Extreme Reactors](https://curseforge.com/minecraft/mc-mods/extreme-reactors)** – *Provides massive, customizable multi-block reactors to fuel high-tier late-game energy grids.*
