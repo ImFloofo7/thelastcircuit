@@ -94,4 +94,8 @@ Press `Ctrl` + `S` to save the changes or in the top left "`File`" > "`Save`" an
 Now you're all done!
 Just boot up your instance and enjoy!
 
+<<<<<<< Updated upstream
 </details>
+=======
+</details>
+>>>>>>> Stashed changes
