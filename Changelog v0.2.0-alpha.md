@@ -451,7 +451,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **Power Utilities** -> Updated from `1.3` to `1.5`    
   *   **Quantum Generators** -> Updated from `1.4` to `1.5`   
   *   **Simply Quarries** -> Updated from `1.3` to `1.4`   
-  *   **TaczCurios (TCC)** -> Clean jump from version `1.4.4` to `1.4.11`
+  *   **TaczCurios (TCC)** -> Clean jump from version `1.4.1` to `1.4.4`
   *   **The Broken Script** -> Minor hotfix build alignment from `2.0.4-hotfix` to `2.0.5`
   *   **The Ravenous** -> Major jump from version `2.0.5` to `3.0`   
   *   **Tooltip Overhaul** -> Updated from `2.0.3` to `2.0.4`   
