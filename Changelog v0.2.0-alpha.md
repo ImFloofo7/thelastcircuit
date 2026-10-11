@@ -292,8 +292,12 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Epic Fight: Tweaks](https://www.curseforge.com/minecraft/mc-mods/epic-tweaks)** - *Core adjustments for overall damage parameters and entity behaviors.*   
   *   **[Evolved Mekanism JEI Compat](https://www.curseforge.com/minecraft/mc-mods/evolved-mekanism-jei-emi-compat)** - *Adds compatibility between **Evolved Mekansim** and **JEI***   
   *   **[Iris Veil Compat](https://www.curseforge.com/minecraft/mc-mods/iris-veil-compat)** - *Allow mods using the Veil rendering engine to render correctly when using Iris Shaderpacks.*   
-  *   **[Jade Additional Entities](https://www.curseforge.com/minecraft/mc-mods/jade-additional-entities)** - *Adds support for displaying information from **Jade** on entities added by other mods.*   
-    *    **[L_Ender's Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs)** - *Some config changes so that mobs properly spawn in **YUNG's Nether Fortresses***   
+  *   **[Jade Additional Entities](https://www.curseforge.com/minecraft/mc-mods/jade-additional-entities)** - *Adds support for displaying information from **Jade** on entities added by other mods.*  
+  *   **[Jade Animal Info](https://www.curseforge.com/minecraft/mc-mods/jade-animal-info)** - **
+  *   **Jade Born in Chaos** - *Adds useful growth details to animal tooltips through Jade.*
+  *   **[Jade Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-jade-compatibility)** - *Adds rich Jade tooltips for Sophisticated Backpacks.*
+  *   **[Jade TacZ Compat](https://www.curseforge.com/minecraft/mc-mods/tacz-jade-compatibility-timeless-and-classics-zero)** - *Adds compatibility for **TacZ** to **Jade**.*
+  *   **[L_Ender's Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs)** - *Some config changes so that mobs properly spawn in **YUNG's Nether Fortresses.***   
   *   **[Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations)** - *Implemented global looting balance patches covering ***Born in Chaos**, **L_ender's Cataclysm**, **Integrated**, **Yung's**, and Vanilla variables.*  
   *   **[Loot Integrations: Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for **Born in Chaos** structures and bosses.*    
   *   **[Loot Integrations: L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for **L_Ender's Cataclysm**structures and bosses.*   
@@ -310,11 +314,11 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
         * **[Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)**
         * **[Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)**
         *for **[BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether-neoforge)** and **[BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend-neoforge)**.*   
-  *   **[Mystical Agriculture Compats](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-compats)** - *Adds compatibility between **Mystical Agriculture**, **Mekanism's** Enrichment Chamber and EnderIO's SAG Mill* 
-  *   **[Mystical Engineering](https://www.curseforge.com/minecraft/mc-mods/mystical-engineering)** - *Adds comaptibility between **Mystical Agriculture** and Immersive Engineering's "Garden Clocke"*   
+  *   **[Mystical Agriculture Compats](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-compats)** - *Adds compatibility between **Mystical Agriculture**, **Mekanism's** Enrichment Chamber and EnderIO's SAG Mill.* 
+  *   **[Mystical Engineering](https://www.curseforge.com/minecraft/mc-mods/mystical-engineering)** - *Adds comaptibility between **Mystical Agriculture** and Immersive Engineering's "Garden Clocke".*   
   *   **[ReIntegrated: Chipped](https://www.curseforge.com/minecraft/mc-mods/reintegrated-chipped)** - *Smoothly integrates the blocks from the Chipped mod into vanilla's biomes and structures.*   
-  *   **[Spawn Animations Compat](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-compats)** - *Adds compatibility between **Spawn animations** and 50+ mods !*   
-  *   **[TacZ: Curios](https://www.curseforge.com/minecraft/mc-mods/taczcurios)** - *TaczCurios adds custom curios (accessories) to the mod **TacZ***   
+  *   **[Spawn Animations Compat](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-compats)** - *Adds compatibility between **Spawn animations** and 50+ mods!*   
+  *   **[TacZ: Curios](https://www.curseforge.com/minecraft/mc-mods/taczcurios)** - *TaczCurios adds custom curios (accessories) to the mod **TacZ**.*   
   *   **** - **
    </details> 
 
@@ -447,11 +451,12 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **Power Utilities** -> Updated from `1.3` to `1.5`    
   *   **Quantum Generators** -> Updated from `1.4` to `1.5`   
   *   **Simply Quarries** -> Updated from `1.3` to `1.4`   
-  *   **TaczCurios (TCC)** -> Updated from `1.4.1+1.21.1` to `1.4.1-hotfix+1.21.1`   
+  *   **TaczCurios (TCC)** -> Clean jump from version `1.4.4` to `1.4.11`
+  *   **The Broken Script** -> Minor hotfix build alignment from `2.0.4-hotfix` to `2.0.5`
   *   **The Ravenous** -> Major jump from version `2.0.5` to `3.0`   
   *   **Tooltip Overhaul** -> Updated from `2.0.3` to `2.0.4`   
   *   **Valhelsia Core** -> Updated from `1.1.4` to `1.1.5`   
-  *   **Veil** -> Updated from `4.5.0` to `4.5.1`   
+  *   **[Veil](https://curseforge.com/mc-mods/veil-lib)** -> Updated from `4.5.1` to `4.5.2`
   *   **Waystones** -> Updated from `21.1.45` to `21.1.46`   
   *   **Yukami's Sophisticated Backpack Tab** -> Updated from `2.1.1` to `2.2.0`   
   *   **Zero CORE 2** -> Updated from Zero CORE (1) `2.4.9` to `2.4.21`   
@@ -488,7 +493,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)** - *Permanently extracted to resolve hard rendering conflicts between multi-threaded data fixes and custom weapon animation states.*
 
   *   **[Railways Navigator](https://www.curseforge.com/minecraft/mc-mods/create-railways-navigator)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistles***   
-  *   **[Remove Loading Screen:](https://www.curseforge.com/minecraft/mc-mods/rrls)** - **Remove loading screen** has been permanently removed from the pack *(removed in v0.1.3-alpha-r.dev)*, as it is **completely** incompatible with 
+  *   **[Remove Loading Screen](https://www.curseforge.com/minecraft/mc-mods/rrls)** - **Remove loading screen** has been permanently removed from the pack *(removed in v0.1.3-alpha-r.dev)*, as it is **completely** incompatible with 
 
       <details>
       <summary>our upcoming..</summary>   
@@ -501,7 +506,8 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
 
       </details>   
    
-
+  *   **TBS Void Paradox (`tbsvoidparadox`)** - *Extracted to clean up script overrides and layout variables in the final End generation steps.*
+  *   **The Broken Script Reprogrammed** - *Legacy build framework removed in favor of the cleaner, optimized main core library.*
   *   **[True Darkness Biomes](https://www.curseforge.com/minecraft/mc-mods/true-darkness-biomes)** - *Replaced by [Vulcan's Darkness](https://www.curseforge.com/minecraft/mc-mods/vulcans-darkness)*
   *   **[Woodwalkers](https://www.curseforge.com/minecraft/mc-mods/woodwalkers)** - *Removed because redundancy*   
   *   **[Xaero Train Map](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***     
