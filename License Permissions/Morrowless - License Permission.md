@@ -5,6 +5,6 @@ Special permission for using "[Morrowless](https://www.curseforge.com/minecraft/
   
    
 ### **Note:**     
-*This project is **NOT** available on Modrinth anymore.*   
+This project is **NOT** available on Modrinth anymore.   
 Special thanks to [Tiganu](https://legacy.curseforge.com/members/tiganu/projects). 
 
