@@ -17,17 +17,37 @@
 
 ### [Epic Fight-Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall) & [Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs) now included!
 
-Finally managed to come to an agreement on permission of usage for the mods, so they are now included in the modpack!
+Finally managed to come to an agreement on permission of usage for the mods, so they are now included in the modpack!   
 
-**HUGE THANKS** to **[Gaboouu](https://www.curseforge.com/members/gaboouu/projects)** & **[Super_awespme_baby](https://www.curseforge.com/members/super_awesome_baby/projects)** again for granting me permission to include these in the modpack! ❤️
+**HUGE THANKS** to,,   
+* **[Gaboouu](https://www.curseforge.com/members/gaboouu/projects)**   
+* **[Super_awespme_baby](https://www.curseforge.com/members/super_awesome_baby/projects)**    
+again for granting me permission to include these in the modpack! ❤️
 
 
 ## 🆕 Major **NEW** Additions!
 
-**[Voxy](https://modrinth.com/mod/voxy)** - *New LoD rendering mod*   
+On the topic of license permissions, firstly we also have two new major additions to the modpack, first one being..
+
+### **[Morrowless](https://www.curseforge.com/minecraft/mc-mods/morrowless)**
+
+A horror mod inspired by the TV series "FROM", Morrowless is a dark horror-adventure mod built to make Minecraft survival feel dangerous, unfamiliar, and worth exploring again, expanding minecraft by adding big atmospeheric additions as well as..   
+  * Original hostile creatures
+  * Boss encounters
+  * New structures and locations
+    * *...and more!*
+
+So a **HUGE THANKS** to:   
+* **[Tiganu](https://www.curseforge.com/members/tiganu)** aswell!
+
+---
+
+and the second being..
+
+### **[Voxy](https://modrinth.com/mod/voxy)** - *New LoD rendering mod*   
    
-We have **ALSO** decided to switch over to ***Voxy*** for many reasons.    
-Unfortunately, until [MCRcortex](https://github.com/MCRcortex/) makes an official back-port, you will have to install an *unofficial* backport manually since I am **not** allowed to distribute any actual files.   
+For many reasons, we have decided to switch over to ***Voxy***.  
+Unfortunately however, until [MCRcortex](https://github.com/MCRcortex/) makes an official back-port, you will have to install an *unofficial* backport manually since I am **not** allowed to distribute any actual files. *(As of now, I am however working on an agreement).*   
 ***(see steps below)***
 
 
@@ -36,7 +56,7 @@ Unfortunately, until [MCRcortex](https://github.com/MCRcortex/) makes an officia
 
 **1.** Go to the GitHub for the ***[Unofficial Uackport](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)***.   
 **2.** Clone or download the source code/zip to your computer.   
-**3.** Build the project using Gradle, ***VSCode*** or ***IntelliJ***. 
+**3.** Build the project using Gradle, ***[VSCode](https://code.visualstudio.com/)*** or ***[IntelliJ](https://code.visualstudio.com/)***. 
       *(If you want to use an IDE instead of the terminal, you can follow these video tutorials:)*      
          • **Video Guide:** *[How to build Gradle projects with VS Code](https://www.youtube.com/watch?v=Y6Qd_Bovo-o)*   
          • **Video Guide:** *[How to build Gradle projects with IntelliJ IDEA](https://www.youtube.com/watch?v=e500ohACgYI&xstg=CAMSEBUJ_b-oH-PhF0yjBgavkzY%3D)*   
@@ -110,9 +130,9 @@ If the game layout resets or doesn't load them automatically on your first boot,
 
   * Some resourcepacks **cannot** be included at this time because of licensing, this makes it a bit tideous since some are ***semi-required*** *(Pre-installed)*, but most of them are **optional**.   
     But I highly recommend you download them *(and put them in the order listen on the sheet **[HERE](https://docs.google.com/spreadsheets/d/1aFkWyf8V0sgwXtd2bKsqFTWQClMtUoas1fNS3lf8A84/edit?usp=sharing)**)*   
-    * *You can install *most* of the packs directly from within minecraft using **Resouricify***
-You can also install **Fresh Animations** *with various add-on's* if you want, *(this was something I was going to do)* but this tanks performance greatly and is not recommended.   
-*(I also can't bother to ask for license permission at this time since it is such a performance reducer in this modpack)*   
+    * You can install *most* of the packs directly from within minecraft using **Resouricify**
+You can also install **Fresh Animations** *with various add-on's* if you want, *(this was something I was going to do)* but this tanks performance greatly and is not recommended at this time.   
+*(I also can't bother to ask for license permission at this time since it is such a performance reducer in this modpack).*   
 
  * Some resourcepacks are built-in with some mods and should be left at the bottom of the loading order, except for "punchy" which should be placed at `0.2.21`   
 
@@ -138,8 +158,9 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)** - *Adds lots of realism-inspired technology*   
   *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content.*   
   *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** - *Adds the ability to create micro (pixel) blocks.*   
-  *   **[MagiTech: Arcane Engineering](https://www.curseforge.com/minecraft/mc-mods/magitech-arcane-engineering)** - *Adds "MagiTech", combinging magical and engineering elements with a progression tree centered around minerals.* 
-  *   **[Pack-a-Punch Machine](https://www.curseforge.com/minecraft/mc-mods/pack-a-punch-machine)** - *Adds the option to upgrade weapons. Full support for **Tacz** and vanilla firearms.*   
+  *   **[MagiTech: Arcane Engineering](https://www.curseforge.com/minecraft/mc-mods/magitech-arcane-engineering)** - *Adds "MagiTech", combinging magical and engineering elements with a progression tree centered around minerals.*   
+  *   **[Morrowless](https://www.curseforge.com/minecraft/mc-mods/morrowless)** - *A dark horror-adventure mod built to make Minecraft survival feel dangerous, unfamiliar, and worth exploring again.*
+  *   **[Pack-a-Punch Machine](https://www.curseforge.com/minecraft/mc-mods/pack-a-punch-machine)** - *Adds the option to upgrade weapons. Full support for **Tacz** and vanilla firearms.*  
   *   **[Sanity: Renewed](https://www.curseforge.com/minecraft/mc-mods/sanity-renewed)** - *Introduces a sanity meter inspired by Don't Starve, adding a new mechanic that forces players to manage their mental state alongside hunger and health.*   
   *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *Lets you snipe entities from extreme distances with realistic ballistics.*   
   *   **[TacZ Attributes](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes)** - *Adds more than 250 attributes to TacZ weapons*   
@@ -523,10 +544,9 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
 
 ***This is the roadmap for v0.3.0-alpha.***
 
-### 🕙 Mods to be added:   
+### 🕙 Planned to be added:   
    We're constantly looking at adding and removing mods until we're satisfied with the pack, here are some mods we plan to add in the future:
-   *   **Morrowless** - *currently waiting on license permission* 
-   *Discover mysterious monoliths and uncover the ancient powers hidden within!*   
+   *   **[Some Spooky Cave Additions](https://www.curseforge.com/minecraft/mc-mods/some-spooky-cave-additions)** - *currently waiting on license permission.*    
 
 ---
 
@@ -541,15 +561,16 @@ and other various "integrations", configs etc.
 
 Regarding overall quality, we're also working on `mod balancing`, `quests` and `atmospheric changes` as well as some other improvements, so not just adding more mods and configs - like the FancyMenu changes I mentioned [above](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Changelogs/Changelog%20v0.2.0-alpha.md#mod-updates--removals) *(under the **Remove Loading Screen** removal)*, to keep the "creepy" horror-like feeling relevant throughout the whole pack *(including menu's and stuff).*   
 
-For balancing, we will also be making it "*harder*" to gain access to certain items, like powerful guns and spells, implementing a **"immersive" progression system** to balance the modpack and actually make you work to stay alive. This will be a progessive implementation using *[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)* and *[Progressive Stages](https://www.curseforge.com/minecraft/mc-mods/progressivestages)*, amongst other.
+For balancing, we will also be making it "*harder*" to gain access to certain items, like powerful guns and spells, implementing a **"immersive" progression system** to balance the modpack and actually make you work to stay alive. This will be a progessive implementation using *[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)* and *[Progressive Stages](https://www.curseforge.com/minecraft/mc-mods/progressivestages)*, amongst other.   
 The idea is **NOT** to lock everything behind progression, but rather just some aspects of the modpack and make it more intriguing and "long-lived".    
 
-### 📋 "To-do list"   
+### 📋 "To-do list" *(future planned changes etc)*   
    
   * Create a full modlist   
-  * Configure, balance, tweak and test all aspects of the modpack   
+  * Configure, balance, tweak and test all aspects of the modpack more   
   * Configure Discord
-  * Create more artwork   
+  * Create more artwork
+  * Create original content   
 
 As well as everything else I have mentioned above, and probably more that I can't remember right now.. *lol*.
 
@@ -558,7 +579,6 @@ As well as everything else I have mentioned above, and probably more that I can'
 <a href="http://discord.gg/A3TFF6TqEU" title="Redirects to The Last Circuit discord">
   <img width="500" height="175" alt="JoinOurDiscord" src="https://github.com/user-attachments/assets/54c6a0cc-b757-4fa7-af55-bee608a78be9" />
 </a>
-
 
 
 ---
