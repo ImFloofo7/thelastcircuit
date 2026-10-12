@@ -130,6 +130,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
    
   *   **[Advanced Finders](https://www.curseforge.com/minecraft/mc-mods/advanced-finders)** - *Adds specialized ore detection tools*   
   *   **[Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)** - *Adds 3 specialized hooks with distinct mechanics.*   
+  *   **[BridgingMod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod)** - *Adds a bridging assist feature often referred to as "Reach-Around Placement", also found in ***Quark*** and ***Bedrock Edition***!*
   *   **[Distant Friends](https://www.curseforge.com/minecraft/mc-mods/distant-friends)** - *Adds stalking player-like mobs that creep at you from a distance.*   
   *   **[Epic Fight - Bosses'Rise](https://www.curseforge.com/minecraft/mc-mods/bossesrise)** - *Adds souls-like bosses, dungeons and loot.*     
   *   **[Fight Back](https://www.curseforge.com/minecraft/mc-mods/fight-back)** - *Adds powerful tools and armor to defend yourself against the dark entities that haunt your world.*   
