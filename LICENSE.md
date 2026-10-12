@@ -69,6 +69,7 @@ prior written consent from the ***[author](https://github.com/ImFloofo7)***.
 This section applies strictly to the closed-source modifications included in this pack that do not operate under public open-source licensing:
 * **[Nightfall](https://curseforge.com)** *(All Rights Reserved by its respective author/team)*
 * **[Gabou's Libs](https://curseforge.com)** *(All Rights Reserved by its respective author/team)*
+* **[Tiganu](https://legacy.curseforge.com/members/tiganu)** *(All Rights Reserved by its respective author/team)*
 
 *These specific mods are bundled with explicit, private permission granted by their original authors for use solely within "**The Last Circuit**".    
 All rights, titles, and intellectual property for these mods remain entirely with their respective creators.   
