@@ -3,4 +3,6 @@
 
 Special permission for using "[Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)" in this modpack.
 
-### **Note:** This project is **NOT** available on Modrinth anymore, enabling the usage of this mod, special thanks to ["Super_awespme_baby"](https://www.curseforge.com/members/super_awesome_baby/projects).
+### **Note:**   
+This project is **NOT** available on Modrinth anymore, *enabling the usage of this mod*.   
+Special thanks to ["Super_awespme_baby"](https://www.curseforge.com/members/super_awesome_baby/projects).
