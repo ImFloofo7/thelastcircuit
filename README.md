@@ -1,12 +1,11 @@
 # Before you start your journey.. 
 
-When I released the initial [v0.1.1-alpha-r.dev](https://modrinth.com/modpack/the-last-circuit/version/0.1.1-alpha-r.dev), I got a **bunch** of hate on various platforms, for many different things and I writing this to clarify some things. 
+When I released the initial [v0.1.1-alpha-r.dev](https://modrinth.com/modpack/the-last-circuit/version/0.1.1-alpha-r.dev), I got a **bunch** of feedback *(hate)* on various platforms, for many different things and I am writing this to clarify some things. 
 
 
 ### **"AI SLOP"**
 *   Art is made by me, in [Gimp](https://www.gimp.org/) and [Krita](https://krita.org/sv/).    
 *(I did ask an AI to enhance it by removing rough edges and blend it together a bit more, hence the "AI feel" I guess..)*   
-   
 This was in a way some good feedback, could've said it in another way but, but I still appreciate the feedback.   
 It motivated me to remake the whole splashart for it and not trying to push the modpack release too quickly.
  
@@ -26,33 +25,32 @@ There is still a lot left to do and so many things I want, and will implement - 
 
 *(if you want to contribute to the project in anyway, please join our [Discord](https://discord.gg/A3TFF6TqEU) and open a ticket)*
 
-*(this message will be removed when closing in on a full release)*
+*(this message will be moved when closing in on a full release)*
 
 ---
 
 ![A banner containing "The Last Circuit" official logo as well as a fancy background symbolizing the clash between "Tech & Magic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
 
 
-***Anomalies are twisting the world and your only shot at survival is to master both advanced engineering and ancient sorcery.***
-***Build your automated sanctuary, harness the ancient magic lingering in the world and fight back the darkness that hides in the shadows.***
+***Anomalies are twisting the world and your only shot at survival is to master both advanced engineering and ancient sorcery.***   
+***Build your automated sanctuary, harness the ancient magic lingering in the world and fight back the darkness that hides in the shadows.***   
 
-***The clock is ticking.***
-
-***Will you bring light to the shadows and survive?***
+***The clock is ticking.***   
+***Will you bring light to the shadows and survive?***   
 
 ---
 
 ![A fancy text saying "Project purpose & Overview" with some nice background details around it to match the aesthetics of the colors for the modpack.](https://cdn.modrinth.com/data/cached_images/3ae77e0987466c294a21a0b158b10aa36bd04861.png)
 
 
-**The Last Circuit** is an industrial tech-horror and dark magic progression modpack built for **Minecraft 1.21.1 on the NeoForge loader**. 
+**The Last Circuit** is an industrial tech-horror and dark magic progression modpack built for **Minecraft 1.21.1 on the NeoForge loader**.   
 
-*   The main purpose of this project is to deliver a **challenging and atmospheric** survival experience where the world is actively corrupted by *"a broken script"* and stalking anomalies. 
-Players cannot rely on standard vanilla gear; instead, the core gameplay loop functions as a race against the dark, forcing players to advance technologically and master ancient sorcery to build a highly automated, fortified sanctuary capable of holding back the entities that lurk in the dark.
+*   The main purpose of this project is to deliver a **challenging and atmospheric** survival experience where the world is actively corrupted by *"a broken script"* and stalking anomalies.   
+Players cannot rely on standard vanilla gear; instead, the core gameplay loop functions as a race against the dark, forcing players to advance technologically and master ancient sorcery to build a highly automated, fortified sanctuary capable of holding back the entities that lurk in the dark.   
 
-*   Inspired by many years of playing Minecraft, including heavily modded setups, I wanted to try something new. 
-I've played many different premade modpacks over the years, but always felt like something was missing—whether it was specific features like elevators or just a bit more ambience, sometimes something really "*dumb*" like [Appleskin](https://curseforge.com/minecraft/mc-mods/appleskin).
-Basically I always ended up playing a modified version of a pack until I was satisfied. 
+*   Inspired by many years of playing Minecraft, including heavily modded setups, I wanted to try something new.    
+I've played many different premade modpacks over the years, but always felt like something was missing—whether it was specific features like elevators or just a bit more ambience, sometimes something really "*dumb*" like [Appleskin](https://curseforge.com/minecraft/mc-mods/appleskin).   
+Basically I always ended up playing a modified version of a pack until I was satisfied.    
 
 So, I decided to build something from scratch this time. 
 After watching a lot of **Minecraft Horror** content on various platforms *(shoutout [@Claygamer2003 on TikTok](https://www.tiktok.com/@claygamer2003))*. 
@@ -105,6 +103,7 @@ To combat the stalking elements, the pack introduces high-tier automated defensi
 *   **[TacZ](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero)** – Adds fully animated, modular firearms.
 *   **[Create: Big Cannons](https://curseforge.com/minecraft/mc-mods/create-big-cannons)** – Allows the construction of functional, large-scale defensive artillery for base perimeters.
 *   **[Ars Nouveau](https://curseforge.com/minecraft/mc-mods/ars-nouveau)** *+ [Ars Creo](https://curseforge.com/minecraft/mc-mods/ars-creo)* – Implements a flexible, customizable spellcasting system, and also bridges directly into *[Create](https://curseforge.com/minecraft/mc-mods/create)* contraptions, automated logistics, and moving train platforms.
+*   **[Neo Vitae](https://www.curseforge.com/minecraft/mc-mods/neovitae)** - *A magical mod where blood is the currency of power. Harvest it, refine it, weave it into rituals and runes, and bend the world to your will.*
 *   ***..and many more!***
 
 </details>
@@ -124,6 +123,7 @@ The world generation and audio design are overhauled to maximize isolation and p
      *   *Future plan is to make custom sounds so stay tuned for that*
 *   **[Regions Unexplored](https://curseforge.com/minecraft/mc-mods/regions-unexplored)** – Overhauls the landscape with dark, dense, and bleak overworld biomes that blend seamlessly with the building blocks provided by *[Chipped](https://curseforge.com/minecraft/mc-mods/chipped)* and *[Rechiseled](https://curseforge.com/minecraft/mc-mods/rechiseled)*.
 *   **[No_moon.jar](https://modrinth.com/mod/no_moon.jar)** - *Slowly corrupts your world and slowly turns everything chaotic.*
+*   **[Morrowless](https://www.curseforge.com/minecraft/mc-mods/morrowless)** - *A dark horror-adventure mod built to make Minecraft survival feel dangerous, unfamiliar, and worth exploring again.*
 *   ***..and many more!***
 
 </details>
@@ -167,7 +167,8 @@ However there are, dependent on the latest version, changelogs, aswell as in the
 
 <summary>▶️Changelogs</summary>
 
-*As the modpack updates, mods will be added, updated, removed and replaced. So, to make it easier **(for everyone)**, I have gathered all the changelogs [here](https://github.com/ImFloofo7/thelastcircuit/tree/Latest/All%20Changelogs)*
+*As the modpack updates, mods will be added, updated, removed and replaced. So, to make it easier **(for everyone)**, I have gathered all the changelogs*   
+### [HERE](https://github.com/ImFloofo7/thelastcircuit/tree/Latest/All%20Changelogs)
 
 </details>
 
@@ -253,11 +254,14 @@ More information regarding server setups will be provided in the future if there
 ## **Special thanks:**
 
 Special thanks to:
-* [Gaboouu](https://github.com/xGabou) 
+* [Gaboouu](https://www.curseforge.com/members/gaboouu/projects) 
 * ["Super_awespme_baby"](https://www.curseforge.com/members/super_awesome_baby)   
-for giving me permission to use their mods, permissions can be found on my [GitHub](https://github.com/ImFloofo7/thelastcircuit).
+* [Tiganu](https://legacy.curseforge.com/members/tiganu)   
 
-*(You can find each respective creator on their individual mod page).*
+for giving me permission to use their mods!
+*Permissions can be found on my [GitHub](https://github.com/ImFloofo7/thelastcircuit).**
+
+*(You can find each respective creator on their individual mod page aswell).*
 
 ## ***This modpack is created solely for gameplay distribution purposes.***
 ***
