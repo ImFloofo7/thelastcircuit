@@ -2,9 +2,9 @@
 
 Special permission for using "[Morrowless](https://www.curseforge.com/minecraft/mc-mods/morrowless)" in this modpack.   
    
-**HUGE** *thanks to [Tiganu](https://legacy.curseforge.com/members/tiganu/projects).*   
+  
    
 ### **Note:**     
 *This project is **NOT** available on Modrinth anymore.*   
-
+Special thanks to [Tiganu](https://legacy.curseforge.com/members/tiganu/projects). 
 
