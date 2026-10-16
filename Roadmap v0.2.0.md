@@ -13,6 +13,8 @@ Below you can find coming and previous versions.
 
 # Coming Soon!
 
+(We would highly appreciate If you would want to help out with issues, bugs and/or features/content you want added, changed or removed in the next version. Just open a post on [Discord](http://discord.gg/A3TFF6TqEU)!)
+
 </details>
 
 ---
@@ -57,6 +59,8 @@ I said that there is nothing here yet D:
 
 ### 📋 General "TO-DO" list *(overall future planned changes etc)*   
 
+<details>
+<summary>CLICK ME!</summary>
 *These are things I am going to do etc, that aren't really planned for any specific version.   
 *A "to-do" list basically.*
    
@@ -65,10 +69,9 @@ I said that there is nothing here yet D:
   * Configure Discord   
   * Create more artwork    
   * Add fully original content   
-      *stay tuned*
-
+        *stay tuned*
   * Recruit dev's   
-    *Join the discord and pick "**I want to help!**" in the ***Onboarding***, then submit a ticket under "***apply-for-dev***"   
+    *Join the discord and pick "**I want to help!**" in the ***Onboarding***, then submit a ticket under "***📨・𝐀𝐩𝐩𝐥𝐲-𝐟𝐨𝐫-𝐝𝐞𝐯***".   
 
 Everything might not be listed here, but we will do our best to keep this up-to-date.   
 For more "consistent" updates, make sure to check out "👀・𝐒𝐧𝐞𝐚𝐤-𝐏𝐞𝐞𝐤𝐬" and "🔔・𝐀𝐧𝐧𝐨𝐮𝐧𝐜𝐞𝐦𝐞𝐧𝐭𝐬" on our discord!   

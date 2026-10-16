@@ -5,12 +5,13 @@ When I released the initial ***v0.1.1-alpha-r.dev***, I got a **bunch** of feedb
 
 ### **"AI SLOP"**
 *   Art is made by me, in [Gimp](https://www.gimp.org/) and [Krita](https://krita.org/sv/).    
-*(I did ask an AI to enhance it by removing rough edges and blend it together a bit more, hence the "AI feel" I guess..)*   
-This was in a way some good feedback, could've said it in another way but, but I still appreciate the feedback.   
-It motivated me to remake the whole splashart for it and not trying to push the modpack release too quickly.
+*(I did ask an AI to "enhance" the first version of the splash art etc, by removing rough edges and blend it together a bit more, and make it more of a "poster", hence the **AI feel** I guess..)*   
+This was in a way some good feedback, it could've been said another way but, but I still appreciate the feedback.   
+It motivated me to remake the whole splashart and to not try "pushing" the modpack, art or anything else too quickly.   
  
 
 ### **"Nah, by the looks of it, doesn't seem like you put any effort into it. Can't endorse it."**
+
 *   At the time writing this, I have poured 2+ weeks of my time into art, configuring and making it even run. All by myself.   
 Which might make you think *"Oh but that's not so hard, just throw them together and play"*.   
 I'll tell you right now, *in **most** cases* putting together something with 600+ mods *(v0.1.0)* and make it run flawlessly, it's not easy. Even if something says it's compatible or no listings of incompatible mods, it still might when you throw so many mods together.
@@ -20,11 +21,11 @@ And no, I have not yet done a ton of config or implemented much in the way of un
 This is far from finished, but it will be finished.
 
 There is still a lot left to do and so many things I want, and will implement - features, improvements and uniqueness.
-### I ***promise*** you all that.   
+## I ***promise*** you all that.   
 *(Though it mike take a sec because I am at the time of writing this the only one working on it).*
-
 *(if you want to contribute to the project in anyway, please join our [Discord](https://discord.gg/A3TFF6TqEU) and open a ticket)*
-
+ 
+  
 *(this message will be moved when closing in on a full release)*
 
 ---
@@ -32,11 +33,11 @@ There is still a lot left to do and so many things I want, and will implement - 
 ![A banner containing "The Last Circuit" official logo as well as a fancy background symbolizing the clash between "Tech & Magic vs Darkness"](https://cdn.modrinth.com/data/cached_images/78041d46d3b5f2bdbc1ef68da2cb31aba0a62b50.png)
 
 
-***Anomalies are twisting the world and your only shot at survival is to master both advanced engineering and ancient sorcery.***   
-***Build your automated sanctuary, harness the ancient magic lingering in the world and fight back the darkness that hides in the shadows.***   
+**Anomalies are twisting the world and your only shot at survival is to master both advanced engineering and ancient sorcery.**   
+**Build your automated sanctuary, harness the ancient magic lingering in the world and fight back the darkness that hides in the shadows.**   
 
-***The clock is ticking.***   
-***Will you bring light to the shadows and survive?***   
+**The clock is ticking.**   
+*Will you bring light to the shadows and survive?*   
 
 ---
 
