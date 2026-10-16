@@ -192,22 +192,24 @@ If a problem turns out to be a genuine bug with a specific mod, I will direct yo
 
 <summary>Mods that has to be updated/downloaded manually</summary>
 
-Since switching to CurseForge for `v.0.2.0-Alpha`, there are a decent amount of mods not available for "quick update".
-Therefore, I strongly recommend leaving the mods in the modpack as is, until full modpack updates are released.
+Since switching to CurseForge for `v.0.2.0-Alpha`, there are a decent amount of mods available for "quick update" *(since most mods are available on CF)*.
+However, I strongly recommend leaving the mods in the modpack as is, until **full** modpack updates are released.
 
-* *(If you don't want to wait and still want to update the mods manually, you will have to look up newer versions not available on CurseForge yourself on Modrinth or elsewhere, though I cannot guarantee compatibility and do I will also **NOT** assist in troubleshooting).*
+* *(If you don't want to wait and still want to update the mods manually, you might have to look up newer versions that are not available on CurseForge yourself, on Modrinth or elsewhere, though I cannot guarantee compatibility and do I will also **NOT** assist in extensive troubleshooting).*
      *   *However, if you do decide to update mods and find bugs with newer versions of a mod, it is **highly appreciated** if you would share them with us in the [Discord](https://discord.gg/A3TFF6TqEU) or on GitHub under "[issues](https://github.com/ImFloofo7/thelastcircuit/issues)"*.
 
 </details>
 
 The modpack is configured as we want it to be experienced but you are of course allowed to make the changes you want for personal usage. 
-Any and all configurations are still available *for now*, and instructions on how to do turn on/off or edit any features so can be found on each respective mod page.
+Any and all configurations are still configurable *(for now)*, but it is recommended to play as we've configured it to not cause any unnecessary issues.   
+Instructions on how to edit *(turn them on/off)* configs can be found on each respective mod page.
+For a decent amount of mods, settings can be changed in the ***"Mod Menu"*** and does **NOT** require you to go into configs for changes..
 
 ---
 
 This modpack combines multiple advanced horror systems *([The Broken Script](https://modrinth.com/mod/the-broken-script)*, *[The Knocker](https://curseforge.com/minecraft/mc-mods/the-knocker)*, *[The Obsessed](https://curseforge.com/minecraft/mc-mods/obsessed)*, *[ArPhEx](https://curseforge.com/minecraft/mc-mods/arphex)*, etc); into a single interconnected ecosystem. 
 
-**By downloading this pack, you acknowledge that it is designed to induce extreme paranoia and psychological dread.**
+### **By downloading this pack, you acknowledge that it is designed to induce extreme paranoia and psychological dread.**
 
 **Proceed with caution if you are sensitive to:**
 *   Depictions of graphic violence and blood.
@@ -224,17 +226,19 @@ This pack also features ARG and meta-horror elements that mimic system "glitches
 It is entirely safe and **does NOT contain malware**, but it can affect your game in the following ways:
 
 * **Intentional Crashes & Popups:** *Can trigger fake error windows and deliberate game crashes.*
-* **File Interaction:** *Generates custom text files outside your instance directory as part of the lore.*
+* **File Interaction/Creation:** *Generates custom text files outside your instance directory as part of the lore.*
 * **World Corruption:** *Can destroy chunks, corrupt terrain, or render specific worlds unplayable.*
 * **Sensory Triggers:** *Features close to pitch-black environments *(enviromental configs), sudden loud noises, and flashing lights/patterns-*    
 *(**Photosensitivity/Epilepsy warning**)*
-*   *Several horror mods in this pack **CAN** and **WILL** intentionally **`kick`** you or "**`ban`**" you from your world as a "psychological scare mechanic".* 
+*   *Several horror mods in this pack* **CAN** *(and **WILL**)* *intentionally **`kick`** or "**`ban`**" you from your world as a "psychological scare mechanic".* 
 To be absolutely sure about how each mod operates and to secure your gameplay experience, 
-**I highly recommend** going into the configuration menu *(or files)* before playing to manually toggle ON/OFF any mechanics you do not want.   
+**I highly recommend** going into the **"Mod Menu"** *(or config files)* before playing to toggle ON/OFF any mechanics you do not want, that we already haven't disabled.   
+***(Most "game breaking" mechanics such as world corrupton and banning is disabled by default).***   
 
-*Please see each mods respective page for instructions on how to do so or create a ticket on my [Discord](https://discord.gg/A3TFF6TqEU) or create an issue on [GitHub](https://github.com/ImFloofo7/thelastcircuit/issues) if you can't figure it out and we will do our best to resolve the issue..*
+*Please see each mods respective page for instructions on how to do so or create a ticket on my [Discord](https://discord.gg/A3TFF6TqEU) or create an [issue on GitHub](https://github.com/ImFloofo7/thelastcircuit/issues) if you can't figure it out, and we will do our best to resolve the issue.*
   
-***Note:*** It will **NOT** `turn off your PC`, `read personal files` or `brick your instance`.
+###***Note:*** It will **NOT** `turn off your PC`, `read personal files` or `brick your instance`.   
+**If you would encounter any bug like this, please contact us immediately.**
 
 ### ***Server Info***
 *   If you are planning to install this on a server, please note that there are several mods *(like [unknown_file.jar](https://curseforge.com/minecraft/mc-mods/unknown-file-jar))* that need to be removed, and alot that need to be added/moved to the server-side mod directory 
@@ -255,7 +259,7 @@ More information regarding server setups will be provided in the future if there
 
 Special thanks to:
 * [Gaboouu](https://www.curseforge.com/members/gaboouu/projects) 
-* ["Super_awespme_baby"](https://www.curseforge.com/members/super_awesome_baby)   
+* [Super_awespme_baby](https://www.curseforge.com/members/super_awesome_baby)   
 * [Tiganu](https://legacy.curseforge.com/members/tiganu)   
 
 for giving me permission to use their mods!

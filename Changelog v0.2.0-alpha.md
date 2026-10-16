@@ -92,16 +92,52 @@ One of the requirements for getting permission to include **[Nightfall](https://
      *   Removing mods
      *   Adding *more* compatibility- and performance mods
      *   Making some configurations to utilize said mods and make things run smoother   
-  * **Fixed Rendering issue:**  Thanks to ***"[FixSodiumShaderLoader](https://github.com/coco875/Fix-sodium-ShaderLoader)"*** and switching to a backport of ***[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)*** *(instead of ***[Distant Horizons](https://modrinth.com/mod/distanthorizons))***, you *should* now be able to use shaders without a hassle. 
+  * **Fixed Rendering issue:**  Thanks to ***"[FixSodiumShaderLoader](https://github.com/coco875/Fix-sodium-ShaderLoader)"*** and switching to a backport of ***[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)*** *(instead of ***[Distant Horizons](https://modrinth.com/mod/distanthorizons))***, you *should* now be able to use shaders without a hassle.   
 </details>
   
 <details>
-<summary>✅ Fixes & QoL</summary>
+<summary>✅ Fixes, QoL & Configs</summary>
   
-  * **Cleaned Up Codes:** Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the 
+  * **Cleaned Up Codes:** 
+    * Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the 
   resource packs.
-  * **[Managed order for resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** Custom order for resource packs
-
+    * Resolved crash related to `MenuType`. 
+  * **[Managed order for resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** *Custom order for resource packs.*   
+     
+  <details>
+  <summary>Configs</summary>
+  **Here are some in-depth config changes:**
+  * Almost Unified: **`Startup.json`** *"world_gen_unification"* `false` -> `true`   
+  * **`Apothic_enchanting.cfg`** *"Sculkshelf Noise Chance"* `200` -> `250`   
+  * BetterCaves: **`liquidregions.json`** *"water_region_spawn_chance"* `0.40` -> `0.33`   
+  * **`Boss_checklist-client.json`** *"searchBarEnabled"* `false` -> `true`   
+  * The Broken Script:   
+    * **`disableBlockBreaking`** `false` -> `true`   
+  *#World configuration*   
+    * **`removeDeepslate`** `true` -> `false`   
+    * **`allowOldWorldGen`** `true` -> `false`   
+    * **`disableWorldEater`** `false` -> `true`   
+    * **`nightmareTeleportChance`** `15` -> `9`   
+    * **`disableSeedChanger`** `false` -> `true`   
+    * **`structureDayApart`** `1` -> `10`   
+  *#Event Rate Config*   
+    * **`maxEventsPerDay`** `8` -> `3`   
+    * **`enableMoonCorruptionMobDespawns`** `true` -> `false`   
+   *  **`disguisedCircuitOreChance`** `0.01` -> `0,005`   
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  </details>
 </details>
 
 
@@ -196,6 +232,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[BetterEnd Cities](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-better-end)** - *Changes to end city generation and loot.*   
   *   **[Draconic Insight](https://www.curseforge.com/minecraft/mc-mods/draconic-insight)** - *Adds an informational "companion" for **Draconic Evolution***   
   *   **[Dough Slime Ball Recipe](https://www.curseforge.com/minecraft/mc-mods/dough-slime-ball-recipe)** - *Create slime with dough from **Farmers Delight** and dye!*   
+  *   **[Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)** - *Adds enchantment desscriptions to your enchanted gear (both vanilla and some modded)*
   *   **[Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod)** - *Adds lots of enhancements and possibilities like the ability to host multiplayer worlds for free!*     
   *   **[FastFind](https://www.curseforge.com/minecraft/mc-mods/fastfind)** - *Helps you locate specific items inside any inventory block — `chests`, `furnaces`, `hoppers`, `shulker boxes`, `barrels`, you name it.*   
   *   **[First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)** - *Client-side mod that changes what you see in 1st person*   
@@ -309,8 +346,9 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[EMF Comapt: Physics](https://www.curseforge.com/minecraft/mc-mods/physics-emf-compat)** - *This allows resource packs that use **EMF** — such as **Fresh Animations** — to work correctly with **Physics Mod's** ragdoll and other physics mods.*   
   *   **[EMF Compat: TACZ](https://www.curseforge.com/minecraft/mc-mods/emf-compat-tacz)** - *Adds EMF compatibility for **TacZ***   
   *   **[Epic Fight Auto Compat](https://www.curseforge.com/minecraft/mc-mods/epic-fight-auto-compat)** - *Background translation framework for out-of-the-box combat styles.*   
+  *   **[Epic Fight & Better Combat x Punchy!](https://www.curseforge.com/minecraft/mc-mods/epic-fight-better-combat-x-punchy)** - *Simply disables ***Punchy!*** from rendering when in "epic fight battle mode" and when using better combat swing just so you can use custom animation packs for better combat such as malfu's.* 
   *   **[Epic Fight: Curios Compat 2.0](https://curseforge.com)** - *Adds compatibility/fix between **Curios** and **Epic Fight***   
-  *   **[Epic Fight: Curios Elytra](https://www.curseforge.com/minecraft/mc-mods/epicurios-elytra-epic-fight-elytra-slot-compat-fix)** - *Allows slotting of standard flight parameters inside Curios accessories.*   
+  *   **[Epic Fight: Curios Elytra](https://www.curseforge.com/minecraft/mc-mods/epicurios-elytra-epic-fight-elytra-slot-compat-fix)** - *Allows slotting of standard flight parameters inside Curios accessories.
   *   **[Epic Fight x Punchy](https://curseforge.com)** - *Adds compatibility between **Punchy** and **Epic Fight***   
   *   **[Epic Fight: Tweaks](https://www.curseforge.com/minecraft/mc-mods/epic-tweaks)** - *Core adjustments for overall damage parameters and entity behaviors.*   
   *   **[Evolved Mekanism JEI Compat](https://www.curseforge.com/minecraft/mc-mods/evolved-mekanism-jei-emi-compat)** - *Adds compatibility between **Evolved Mekansim** and **JEI***   
@@ -448,21 +486,20 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Ars QOL](https://www.curseforge.com/minecraft/mc-mods/ars-qol)** -> Updated from `1.0.0` to `1.1.0`   
   *   **[AutoEMC](https://www.curseforge.com/minecraft/mc-mods/autoemc)** -> Updated from `2.1.0` to `2.1.1`   
   *   **[Balm](https://www.curseforge.com/minecraft/mc-mods/balm)** -> Updated from `21.0.65` to `21.0.66`   
-  *   **CBCAT Fix** -> Updated from `1.1.0` to `1.1.2`   
-  *   **CIT Resewn** -> Updated to `patched_citresewn-1.2.2+1.21.jar`   
-  *   **CompatLink** -> Updated from `1.1.2` to `1.3.0`   
-  *   **Create Compression** -> Updated from `2.0.0` to `2.0.1`   
-  *   **Create: Lazy Tick** -> Updated from `2.6.25-6.0.10` to `2.7.29-6.0.10`   
-  *   **Display Delight** -> Updated from `1.6.0` to `1.7.0`   
-  *   **Distraction Free Recipes** -> Updated from `1.2.1` to `1.2.2`   
-  *   **Enderite Mod** -> Updated from `1.6.2` to stable `1.6.1`   
-  *   **Extreme Reactors** -> Massive backend update from `2.4.9` to `2.4.28`   
-  *   **Fight Back** -> Updated from `1.3.0` to `1.3.2`   
-  *   **Industrial Upgrade** -> Updated from `3.4.0.11` to `3.4.0.13`   
-  *   **Interiors (Macaw's Create)** -> Updated to `interiors-0.6.1 v2.jar`   
-  *   **Ksyxis** -> Updated from `1.4.4` to `1.4.5`   
-  *   **LittleTiles** -> Updated from `1.6.0-pre229` to `1.6.0-pre230`   
-  *   **Zelda: Legend of the Master Sword** -> Updated from `2.4.2` to `2.4.6`   
+  *   **[CBCAT Fix](https://www.curseforge.com/minecraft/mc-mods/cbc-advanced-technologies-aeronautics-fix)** -> Updated from `1.1.0` to `1.1.4`   
+  *   **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)** -> Updated to `patched_citresewn-1.2.2+1.21.jar`   
+  *   **[CompatLink](https://www.curseforge.com/minecraft/mc-mods/compatlink-epic-fight-weapons-compat)** -> Updated from `1.1.2` to `1.3.0`   
+  *   **[Create Compression](https://www.curseforge.com/minecraft/mc-mods/create-compression)** -> Updated from `2.0.0` to `2.0.1`   
+  *   **[Create: Lazy Tick](https://www.curseforge.com/minecraft/mc-mods/create-lazytick)** -> Updated from `2.6.25-6.0.10` to `2.7.29-6.0.10`   
+  *   **[Display Delight](https://www.curseforge.com/minecraft/mc-mods/display-delight)** -> Updated from `1.6.0` to `1.7.0`   
+  *   **[Distraction Free Recipes](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)** -> Updated from `1.2.1` to `1.2.2`   
+  *   **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge)** -> Updated from `1.6.2` to stable `1.6.3`   
+  *   **[Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)** -> Massive backend update from `2.4.9` to `2.4.28`   
+  *   **[Fight Back](https://www.curseforge.com/minecraft/mc-mods/fight-back)** -> Updated from `1.3.0` to `1.3.2`   
+  *   **[Industrial Upgrade](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade)** -> Updated from `3.4.0.11` to `3.4.0.13`    
+  *   **[Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis)** -> Updated from `1.4.4` to `1.4.6`   
+  *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** -> Updated from `1.6.0-pre229` to `1.6.0-pre234`   
+  *   **[Zelda: Legend of the Master Sword](https://www.curseforge.com/minecraft/mc-mods/zelda-legend-of-the-master-sword)** -> Updated from `2.4.2` to `2.5.0`   
   *   **Mekanism Turrets** -> Updated from `2.2.2` to `2.2.3`   
   *   **Mekanism Unleashed** -> Updated from `0.3.2` to `0.3.4`   
   *   **Mekanism TrashCube** -> Updated from `2.0.4-NeoForge` to `2.0.5-NeoForge`   
@@ -512,6 +549,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
       *   *"[Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)"*   
       *   *"[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)*   
           *Removed because of incompatibility (and I don't wanna fix it right now lol), and other mods like **Almost Unified** cover most of this anyway.*   
+  *   **[Interiors (Macaw's create)](https://www.curseforge.com/minecraft/mc-mods/interiors)** - *Caused unnecessary load*
   *   **[Mekanism: Elements](https://www.curseforge.com/minecraft/mc-mods/mekanism-elements)** - *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*   
   *   **[ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)** - *Permanently extracted to resolve hard rendering conflicts between multi-threaded data fixes and custom weapon animation states.*
 
@@ -529,8 +567,8 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
 
       </details>   
    
-  *   **TBS Void Paradox (`tbsvoidparadox`)** - *Extracted to clean up script overrides and layout variables in the final End generation steps.*
-  *   **The Broken Script Reprogrammed** - *Legacy build framework removed in favor of the cleaner, optimized main core library.*
+  *   **[TBS Void Paradox](https://modrinth.com/mod/the-void-paradox)** - *Removed to decrease clutter*
+  *   **[The Broken Script Reprogrammed](https://modrinth.com/mod/thebrokenscript_reprogrammed)** - *Removed for now because of incompatibility and "roughness"*
   *   **[True Darkness Biomes](https://www.curseforge.com/minecraft/mc-mods/true-darkness-biomes)** - *Replaced by [Vulcan's Darkness](https://www.curseforge.com/minecraft/mc-mods/vulcans-darkness)*
   *   **[Woodwalkers](https://www.curseforge.com/minecraft/mc-mods/woodwalkers)** - *Removed because redundancy*   
   *   **[Xaero Train Map](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***     
@@ -545,7 +583,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
 
 <details>
 <summary>Interested?</summary>
-Roadmaps can be found **HERE**.
+Roadmaps can be found **[HERE](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Roadmap.md)**.
 </details>
 
 ### If you have any suggestions or want sneak peeks, I highly recommend you to..
