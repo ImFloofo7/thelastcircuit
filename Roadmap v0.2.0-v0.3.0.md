@@ -1,6 +1,6 @@
 # 🗺️ **ROADMAP** 
 
-### Welcome to the v0.3.0 roadmap!   
+### Welcome to the **v0.3.0 roadmap**!   
 This is the roadmap for the "next version", going from v0.2.0 > v0.3.0, not to be confused with the main roadmap that can be found [here](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/Main%20Roadmap.md)   
 Below you can find coming and previous versions.   
 
@@ -19,7 +19,7 @@ Below you can find coming and previous versions.
 
 ---
 
-<details>
+  <details>
      <summary>v0.2.0 -> v0.3.0</summary>  
 
 ***This is the roadmap for v0.3.0-alpha.***
@@ -43,19 +43,19 @@ Regarding overall quality, we're also working on `mod balancing`, `quests` and `
 
 For balancing, we will also be making it "*harder*" to gain access to certain items, like powerful guns and spells, implementing a **"immersive" progression system** to balance the modpack and actually make you work to stay alive. This will be a progessive implementation using *[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)* and *[Progressive Stages](https://www.curseforge.com/minecraft/mc-mods/progressivestages)*, amongst other.   
 The idea is **NOT** to lock everything behind progression, but rather just some aspects of the modpack and make it more intriguing and "long-lived".    
-    </details>
+  </details>
 </details>
-
-<details>
-<summary>Previous</summary>
-    <details>
-     <summary>Nothing here yet!</summary>
+   
+  <details>
+    <summary>Previous</summary>
+      <details>
+       <summary>Nothing here yet!</summary>
    
 I said that there is nothing here yet D:
 ---
-    </details>
-</details>
-   
+      </details>
+  </details>
+</details>   
 
 ### 📋 General "TO-DO" list *(overall future planned changes etc)*   
 
