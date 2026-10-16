@@ -13,6 +13,8 @@ Below you can find coming and previous versions.
 
 # Coming Soon!
 
+(We would highly appreciate If you would want to help out with issues, bugs and/or features/content you want added, changed or removed in the next version. Just open a post on [Discord](http://discord.gg/A3TFF6TqEU)!)
+
 </details>
 
 
