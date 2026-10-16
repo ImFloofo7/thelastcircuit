@@ -1,9 +1,9 @@
 # 🗺️ **ROADMAP** 
 
-Welcome to the roadmap!   
+Welcome to the **Main roadmap**!   
 Here I will *try* to regularly update upcoming changes, features and other stuff, kind of like a changelog but in a minimalistic form.   
-Below you can find coming and previous versions.
-
+Below you can find coming and previous versions.   
+   
 ### Versions:
 
 <details>
@@ -13,7 +13,7 @@ Below you can find coming and previous versions.
 
 # Coming Soon!
 
-(We would highly appreciate If you would want to help out with issues, bugs and/or features/content you want added, changed or removed in the next version. Just open a post on [Discord](http://discord.gg/A3TFF6TqEU)!)
+*(We would highly appreciate If you would want to help out with issues, bugs and/or features/content you want added, changed or removed in the next version. Just open a post on [Discord](http://discord.gg/A3TFF6TqEU)!)*
 
 </details>
 
@@ -21,7 +21,7 @@ Below you can find coming and previous versions.
 <details>
      <summary>v0.2.0 -> v0.3.0</summary>  
 
-Found **HERE**
+Found **[HERE](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Roadmap%20v0.2.0%20%3E%20v0.3.0.md)**
     </details>
 </details>
 
@@ -39,8 +39,9 @@ I said that there is nothing here yet D:
 
 <details>
 <summary>CLICK ME!</summary>
-*These are things I am going to do etc, that aren't really planned for any specific version.   
-*A "to-do" list basically.*
+
+*These are things I am going to do etc, that aren't really planned for any specific version.*   
+*A "to-do" list basically.*   
    
   * Create a full modlist   
   * Configure, balance, tweak and test all aspects of the modpack more   
