@@ -39,7 +39,7 @@ I said that there is nothing here yet D:
 
 <details>
 <summary>CLICK ME!</summary>
-*These are things I am going to do etc, that aren't really planned for any specific version.   
+*These are things I am going to do etc, that aren't really planned for any specific version.*
 *A "to-do" list basically.*
    
   * Create a full modlist   
