@@ -65,6 +65,6 @@ I said that there is nothing here yet D:
   * Add fully original content *stay tuned*
 
   * Recruit dev's   
-    *Join the discord and pick "**I want to help!**" in the ***Onboarding***, then submit a ticket under "***apply-for-dev***"   
+    *IF you're interested, feel free to join the discord and pick "**I want to help!**" in the ***Onboarding***, then submit a ticket under "***apply-for-dev***"*   
 
 </details>
