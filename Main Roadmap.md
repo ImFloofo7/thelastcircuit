@@ -1,6 +1,6 @@
 # 🗺️ **ROADMAP** 
 
-Welcome to the **Main roadmap**!   
+### Welcome to the **Main roadmap**!   
 Here I will *try* to regularly update upcoming changes, features and other stuff, kind of like a changelog but in a minimalistic form.   
 Below you can find coming and previous versions.   
    
