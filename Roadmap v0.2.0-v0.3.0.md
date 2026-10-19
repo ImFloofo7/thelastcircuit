@@ -27,7 +27,8 @@ Below you can find coming and previous versions.
 ### 🕙 Planned to be added:   
    We're constantly looking at adding and removing mods until we're satisfied with the pack, here are some mods we plan to add in the future:
    *   **[Some Spooky Cave Additions](https://www.curseforge.com/minecraft/mc-mods/some-spooky-cave-additions)** - *currently waiting on license permission.*    
-
+   *   **[Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)** - *Seasons with changing colors, shifting temperatures, and more!*   
+   *   **[Xaero's Mini- & Worldmap x Waystones](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-world-map-waystones-compability)** - *Creates a Waypoint in Xaero's Minimap & World Map when activate a Waystone*   
 ---
 
 ### 🔜 Configurations and Custom content:   

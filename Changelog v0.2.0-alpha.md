@@ -39,7 +39,7 @@ A horror mod inspired by the TV series "FROM", Morrowless is a dark horror-adven
     * *...and more!*
 
 So a **HUGE THANKS** to:   
-* **[Tiganu](https://www.curseforge.com/members/tiganu)** aswell!
+* **[Tiganu](https://www.curseforge.com/members/tiganu)** as well!
 
 ---
 
@@ -55,7 +55,7 @@ Unfortunately however, until [MCRcortex](https://github.com/MCRcortex/) makes an
 <details>
 <summary>How to Install Voxy</summary>
 
-**1.** Go to the GitHub for the ***[Unofficial Uackport](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)***.   
+**1.** Go to the GitHub for the ***[Unofficial Backport](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)***.   
 **2.** Clone or download the source code/zip to your computer.   
 **3.** Build the project using Gradle, ***[VSCode](https://code.visualstudio.com/)*** or ***[IntelliJ](https://code.visualstudio.com/)***. 
       *(If you want to use an IDE instead of the terminal, you can follow these video tutorials:)*      
@@ -73,7 +73,7 @@ Unfortunately however, until [MCRcortex](https://github.com/MCRcortex/) makes an
 
 ## 🔄 Platform changes!
 One of the requirements for getting permission to include **[Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)** and **[Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)** was that we publish on CurseForge. Combined with a few technical reasons, we have decided to switch to CurseForge **permanently**!   
-*(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`-`v0.1.9-alpha-r.dev`** is [no longer available](https://github.com/ImFloofo7/thelastcircuit/blob/v0.1.0-alpha-r.dev---v0.1.9-alpha-r.dev/README.md) for the public).*
+*(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`-> `v0.1.9-alpha-r.dev`** is [no longer available](https://github.com/ImFloofo7/thelastcircuit/blob/v0.1.0-alpha-r.dev---v0.1.9-alpha-r.dev/README.md) for the public).*
 
    
 
@@ -92,15 +92,14 @@ One of the requirements for getting permission to include **[Nightfall](https://
      *   Removing mods
      *   Adding *more* compatibility- and performance mods
      *   Making some configurations to utilize said mods and make things run smoother   
-  * **Fixed Rendering issue:**  Thanks to ***"[FixSodiumShaderLoader](https://github.com/coco875/Fix-sodium-ShaderLoader)"*** and switching to a backport of ***[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)*** *(instead of ***[Distant Horizons](https://modrinth.com/mod/distanthorizons))***, you *should* now be able to use shaders without a hassle.   
+  * **Fixed Rendering issue:**  Thanks to ***"[FixSodiumShaderLoader](https://github.com/coco875/Fix-sodium-ShaderLoader)"*** and switching to a backport of **[Voxy](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)** *(instead of **[Distant Horizons](https://modrinth.com/mod/distanthorizons))***, you *should* now be able to use shaders without a hassle.   
 </details>
   
 <details>
 <summary>✅ Fixes, QoL & Configs</summary>
   
   * **Cleaned Up Codes:** 
-    * Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the 
-  resource packs.
+    * Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the resource packs.
     * Resolved crash related to `MenuType`. 
   * **[Managed order for resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** *Custom order for resource packs.*   
      
@@ -109,8 +108,10 @@ One of the requirements for getting permission to include **[Nightfall](https://
   **Here are some in-depth config changes:**
   * Almost Unified: **`Startup.json`** *"world_gen_unification"* `false` -> `true`   
   * **`Apothic_enchanting.cfg`** *"Sculkshelf Noise Chance"* `200` -> `250`   
+     
   * BetterCaves: **`liquidregions.json`** *"water_region_spawn_chance"* `0.40` -> `0.33`   
   * **`Boss_checklist-client.json`** *"searchBarEnabled"* `false` -> `true`   
+     
   * The Broken Script:   
     * **`disableBlockBreaking`** `false` -> `true`   
   *#World configuration*   
@@ -124,19 +125,8 @@ One of the requirements for getting permission to include **[Nightfall](https://
     * **`maxEventsPerDay`** `8` -> `3`   
     * **`enableMoonCorruptionMobDespawns`** `true` -> `false`   
    *  **`disguisedCircuitOreChance`** `0.01` -> `0,005`   
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
+     
+  * **** - 
   </details>
 </details>
 
@@ -196,9 +186,11 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Laser IO](https://www.curseforge.com/minecraft/mc-mods/laserio)** - *EnderIO Pipes but reworked, and with additional content.*   
   *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** - *Adds the ability to create micro (pixel) blocks.*   
   *   **[MagiTech: Arcane Engineering](https://www.curseforge.com/minecraft/mc-mods/magitech-arcane-engineering)** - *Adds "MagiTech", combinging magical and engineering elements with a progression tree centered around minerals.*   
+  *   **[Modopedia](https://www.curseforge.com/minecraft/mc-mods/modopedia)** - *Adds custom resource-driven guidebooks (Upcoming)*
   *   **[Morrowless](https://www.curseforge.com/minecraft/mc-mods/morrowless)** - *A dark horror-adventure mod built to make Minecraft survival feel dangerous, unfamiliar, and worth exploring again.*
   *   **[Pack-a-Punch Machine](https://www.curseforge.com/minecraft/mc-mods/pack-a-punch-machine)** - *Adds the option to upgrade weapons. Full support for **Tacz** and vanilla firearms.*  
   *   **[Sanity: Renewed](https://www.curseforge.com/minecraft/mc-mods/sanity-renewed)** - *Introduces a sanity meter inspired by Don't Starve, adding a new mechanic that forces players to manage their mental state alongside hunger and health.*   
+  *   **[Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)** - *Adds immersive, world-wide seasonal changes*
   *   **[TacZ: AoS](https://www.curseforge.com/minecraft/mc-mods/tacz-art-of-sniping)** - *Lets you snipe entities from extreme distances with realistic ballistics.*   
   *   **[TacZ Attributes](https://www.curseforge.com/minecraft/mc-mods/tacz-attributes)** - *Adds more than 250 attributes to TacZ weapons*   
   *   **[The Final Goatman](https://www.curseforge.com/minecraft/mc-mods/the-final-goatman)** - *Adds a terrifying cryptid*    
@@ -229,9 +221,10 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[AE2 Tangible Bookmarks](https://www.curseforge.com/minecraft/mc-mods/ae2-tangible-bookmarks)** - *Let's you bookmark items in **AE2** and more!*   
   *   **[AE2 Terminal Scroll Wheel Cycle](https://www.curseforge.com/minecraft/mc-mods/ae2-terminal-cycling)** - *Allows you to use your scroll wheel in various **AE2** terminals*   
   *   **[Auto Swap](https://www.curseforge.com/minecraft/mc-mods/auto-swap)** - *Automates inventory management and equipment swapping*   
-  *   **[BetterEnd Cities](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-better-end)** - *Changes to end city generation and loot.*   
-  *   **[Draconic Insight](https://www.curseforge.com/minecraft/mc-mods/draconic-insight)** - *Adds an informational "companion" for **Draconic Evolution***   
+  *   **[BetterEnd Cities](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-better-end)** - *Changes to end city generation and loot.*    
+  *   **[Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash)** - *Adds the ability to restore deleted worlds*
   *   **[Dough Slime Ball Recipe](https://www.curseforge.com/minecraft/mc-mods/dough-slime-ball-recipe)** - *Create slime with dough from **Farmers Delight** and dye!*   
+  *   **[Draconic Insight](https://www.curseforge.com/minecraft/mc-mods/draconic-insight)** - *Adds an informational "companion" for **Draconic Evolution***    
   *   **[Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)** - *Adds enchantment desscriptions to your enchanted gear (both vanilla and some modded)*
   *   **[Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod)** - *Adds lots of enhancements and possibilities like the ability to host multiplayer worlds for free!*     
   *   **[FastFind](https://www.curseforge.com/minecraft/mc-mods/fastfind)** - *Helps you locate specific items inside any inventory block — `chests`, `furnaces`, `hoppers`, `shulker boxes`, `barrels`, you name it.*   
@@ -244,10 +237,9 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)** - *Adds/modifies a lot of missing third-person animations from first-person*    
   *   **[PatPat](https://www.curseforge.com/minecraft/mc-mods/patpat)** - *Let's you pat mobs!*    
   *   **[Punchy!](https://www.curseforge.com/minecraft/mc-mods/punchy)** - *Engine for various first-person animations.*    
-  *   **[Refined Storage Warning](https://www.curseforge.com/minecraft/mc-mods/rs-storage-warnings)** - *Warns you when **Refined Storage** storage capacity is low *   
+  *   **[Refined Storage Warning](https://www.curseforge.com/minecraft/mc-mods/rs-storage-warnings)** - *Warns you when **Refined Storage** storage capacity is low*   
   *   **[Resourcify](https://www.curseforge.com/minecraft/mc-mods/resourcify)** - *In-game resource pack, data pack and shader browser + updater.*   
   *   **[Packed Packs](https://www.curseforge.com/minecraft/mc-mods/packed-packs)** - *Adds resourcepack folders*
-  ((  *   **[Roxy](https://www.curseforge.com/minecraft/mc-mods/roxy)** - *Allows **Voxy** (that is for fabric) to work on NeoForge*   ))     
   *   **[Search for Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/searchfor)** - *Native integration for directory navigation inside shader options.*   
   *   **[SeeU](https://www.curseforge.com/minecraft/mc-mods/seeu)** - *Makes distant players visible far beyond vanilla entity tracking, Compatible with **Voxy***   
   *   **[Spawn Animations](https://www.curseforge.com/minecraft/mc-mods/spawn-animations-mod)** - *Adds fancy spawn animations to mobs!*     
@@ -280,7 +272,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Smooth Boot (Recreated)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-recreated)** - *Smooth loading allocations across split core processing.*   
   *   **[TacZ: Gunpack Redistribution](https://www.curseforge.com/minecraft/mc-mods/tacz-gunpack-redistribution-fork)** - *Small compatibility utility for **TacZ**.*   
   *   **[TT20](https://curseforge.com)** - *TT20 helps reduce lag by optimizing how ticks work when the server's TPS is low.*   
-  *   **** - **   
+  *   **[(QAPI) Quantified API](https://www.curseforge.com/minecraft/mc-mods/quantified-api)** - *High-performance API for Minecraft mobs, built to handletasks efficiently, reduce lag, use GPU acceleration, smart caching and multithreading.*   
    </details>
 
    <details>
@@ -333,6 +325,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
 
 ***The following mods has been added to add suport and compability between mods.***   
 
+  *   **[Agritech Seasons Compat](https://www.curseforge.com/minecraft/mc-mods/agritech-seasons-compat)** - *Adds compatibility between **Agritech** and **Serene Seasons***
   *   **[Ars Mekanica](https://www.curseforge.com/minecraft/mc-mods/ars-mekanica)** - *A compatibility addon that bridges **Ars Nouveau** and **Mekanism**.*   
   *   **[BetterEnd x Chipped](https://www.curseforge.com/minecraft/mc-mods/betterend-chipped)** - *Massive expansion of decorative variant choices for end-materials.*   
   *   **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)** - *Re-implements **MCPatcher's CIT***   
@@ -347,15 +340,15 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[EMF Compat: TACZ](https://www.curseforge.com/minecraft/mc-mods/emf-compat-tacz)** - *Adds EMF compatibility for **TacZ***   
   *   **[Epic Fight Auto Compat](https://www.curseforge.com/minecraft/mc-mods/epic-fight-auto-compat)** - *Background translation framework for out-of-the-box combat styles.*   
   *   **[Epic Fight & Better Combat x Punchy!](https://www.curseforge.com/minecraft/mc-mods/epic-fight-better-combat-x-punchy)** - *Simply disables ***Punchy!*** from rendering when in "epic fight battle mode" and when using better combat swing just so you can use custom animation packs for better combat such as malfu's.* 
-  *   **[Epic Fight: Curios Compat 2.0](https://curseforge.com)** - *Adds compatibility/fix between **Curios** and **Epic Fight***   
+  *   **[Epic Fight: Curios Compat 3.0](https://www.curseforge.com/minecraft/mc-mods/epicfightcurioscompat)** - *Adds compatibility/fix between **Curios** and **Epic Fight***   
   *   **[Epic Fight: Curios Elytra](https://www.curseforge.com/minecraft/mc-mods/epicurios-elytra-epic-fight-elytra-slot-compat-fix)** - *Allows slotting of standard flight parameters inside Curios accessories.
-  *   **[Epic Fight x Punchy](https://curseforge.com)** - *Adds compatibility between **Punchy** and **Epic Fight***   
+  *   **[Epic Fight x Punchy](https://www.curseforge.com/minecraft/mc-mods/epic-punchy-epic-fight-x-punchy-mod-compat)** - *Adds compatibility between **Punchy** and **Epic Fight***   
   *   **[Epic Fight: Tweaks](https://www.curseforge.com/minecraft/mc-mods/epic-tweaks)** - *Core adjustments for overall damage parameters and entity behaviors.*   
   *   **[Evolved Mekanism JEI Compat](https://www.curseforge.com/minecraft/mc-mods/evolved-mekanism-jei-emi-compat)** - *Adds compatibility between **Evolved Mekansim** and **JEI***   
   *   **[Iris Veil Compat](https://www.curseforge.com/minecraft/mc-mods/iris-veil-compat)** - *Allow mods using the Veil rendering engine to render correctly when using Iris Shaderpacks.*   
   *   **[Jade Additional Entities](https://www.curseforge.com/minecraft/mc-mods/jade-additional-entities)** - *Adds support for displaying information from **Jade** on entities added by other mods.*  
   *   **[Jade Animal Info](https://www.curseforge.com/minecraft/mc-mods/jade-animal-info)** - **
-  *   **Jade Born in Chaos** - *Adds useful growth details to animal tooltips through Jade.*
+  *   **[Jade Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos-jade-compat)** - *Adds useful growth details to animal tooltips through Jade.*
   *   **[Jade Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-jade-compatibility)** - *Adds rich Jade tooltips for Sophisticated Backpacks.*
   *   **[Jade TacZ Compat](https://www.curseforge.com/minecraft/mc-mods/tacz-jade-compatibility-timeless-and-classics-zero)** - *Adds compatibility for **TacZ** to **Jade**.*
   *   **[L_Ender's Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs)** - *Some config changes so that mobs properly spawn in **YUNG's Nether Fortresses.***   
@@ -426,6 +419,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[MRU](https://www.curseforge.com/minecraft/mc-mods/mru)** - *Library mod*   
   *   **[Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core)** - *Optimizes particles.*   
   *   **[PlayerNBT Quests](https://www.curseforge.com/minecraft/mc-mods/playernbt-quests-ftb-quests)** - *Extension mod that provides quest creators with player NBT data detection functionality. *   
+  *   **[Platform](https://www.curseforge.com/minecraft/mc-mods/platform)** - *Cross-platform library mod based on **Architectury** to access both Forge and Fabric API's*
   *   **[Progressive Stages](https://www.curseforge.com/minecraft/mc-mods/progressivestages)** - *Minecraft progression system*   
   *   **[Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)** - *Library mod for "sophisticated" mods.*   
   *   **[SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)** - *Adds lots of basic implementations for GUIs, blocks, tile entities, and network packets that allow for similar code between Minecraft 1.12-1.20*   
@@ -485,75 +479,89 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[Applied Pneumatics](https://www.curseforge.com/minecraft/mc-mods/applied-pneumatics)** -> Updated from `1.0.8` to `1.0.9`   
   *   **[Ars QOL](https://www.curseforge.com/minecraft/mc-mods/ars-qol)** -> Updated from `1.0.0` to `1.1.0`   
   *   **[AutoEMC](https://www.curseforge.com/minecraft/mc-mods/autoemc)** -> Updated from `2.1.0` to `2.1.1`   
+  *   **[Advanced Core Info (ACI)](https://www.curseforge.com/minecraft/mc-mods/advanced-core-info)** -> Updated from `1.4.0` to `1.5.0` 
+  *   **[Advanced Loot Info (ALI)](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info)** -> Updated from `2.4.0` to `2.5.0`   
+  *   **[Advanced Worldgen Info (AWI)](https://www.curseforge.com/minecraft/mc-mods/advanced-worldgen-info)** -> Updated from `1.3.0` to `1.3.2`  
   *   **[Balm](https://www.curseforge.com/minecraft/mc-mods/balm)** -> Updated from `21.0.65` to `21.0.66`   
   *   **[CBCAT Fix](https://www.curseforge.com/minecraft/mc-mods/cbc-advanced-technologies-aeronautics-fix)** -> Updated from `1.1.0` to `1.1.4`   
+  *   **[Certain Question Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions)** -> Updated from `` to `` 
   *   **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)** -> Updated to `patched_citresewn-1.2.2+1.21.jar`   
   *   **[CompatLink](https://www.curseforge.com/minecraft/mc-mods/compatlink-epic-fight-weapons-compat)** -> Updated from `1.1.2` to `1.3.0`   
-  *   **[Create Compression](https://www.curseforge.com/minecraft/mc-mods/create-compression)** -> Updated from `2.0.0` to `2.0.1`   
+  *   **[Collective](https://www.curseforge.com/minecraft/mc-mods/advanced-worldgen-info)** -> Updated from `8.53` to `8.58`
+  *   **[Create: Compression](https://www.curseforge.com/minecraft/mc-mods/create-compression)** -> Updated from `2.0.0` to `2.0.1`   
   *   **[Create: Lazy Tick](https://www.curseforge.com/minecraft/mc-mods/create-lazytick)** -> Updated from `2.6.25-6.0.10` to `2.7.29-6.0.10`   
+  *   **[Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)** -> Updated from `4.0.2` to ``5.0.2`   
   *   **[Display Delight](https://www.curseforge.com/minecraft/mc-mods/display-delight)** -> Updated from `1.6.0` to `1.7.0`   
   *   **[Distraction Free Recipes](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)** -> Updated from `1.2.1` to `1.2.2`   
+  *   **[Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)** -> Updated from `7.3` to `7.5`
   *   **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge)** -> Updated from `1.6.2` to stable `1.6.3`   
+  *   **[Enhanced Boss Bars](https://www.curseforge.com/minecraft/mc-mods/enhanced-boss-bars)** -> Updated from `1.1.1` to `1.1.2`
+  *   **[Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod)** -> Updated from `1.5.0.1` to `1.5.0`
   *   **[Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)** -> Massive backend update from `2.4.9` to `2.4.28`   
   *   **[Fight Back](https://www.curseforge.com/minecraft/mc-mods/fight-back)** -> Updated from `1.3.0` to `1.3.2`   
   *   **[Industrial Upgrade](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade)** -> Updated from `3.4.0.11` to `3.4.0.13`    
+  *   **Keybind Atlas** -> Updated from `` to ``
   *   **[Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis)** -> Updated from `1.4.4` to `1.4.6`   
   *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** -> Updated from `1.6.0-pre229` to `1.6.0-pre234`   
   *   **[Zelda: Legend of the Master Sword](https://www.curseforge.com/minecraft/mc-mods/zelda-legend-of-the-master-sword)** -> Updated from `2.4.2` to `2.5.0`   
-  *   **Mekanism Turrets** -> Updated from `2.2.2` to `2.2.3`   
-  *   **Mekanism Unleashed** -> Updated from `0.3.2` to `0.3.4`   
-  *   **Mekanism TrashCube** -> Updated from `2.0.4-NeoForge` to `2.0.5-NeoForge`   
-  *   **More Backpack Upgrades** -> Updated from `1.0.5` to `1.0.7`   
-  *   **Modonomicon** -> Updated from `1.120.5` to `1.120.7`   
-  *   **Moonlight Lib** -> Updated from `3.6.8` to `3.6.9`   
-  *   **Neo Vitae** -> Updated from `1.1.26` to `1.1.27`    
-  *   **Polytone** -> Updated from `4.5.0` to `4.5.1`   
-  *   **Power Utilities** -> Updated from `1.3` to `1.5`    
-  *   **Quantum Generators** -> Updated from `1.4` to `1.5`   
-  *   **Simply Quarries** -> Updated from `1.3` to `1.4`   
-  *   **TaczCurios (TCC)** -> Clean jump from version `1.4.1` to `1.4.4`
-  *   **The Broken Script** -> Minor hotfix build alignment from `2.0.4-hotfix` to `2.0.5`
-  *   **The Ravenous** -> Major jump from version `2.0.5` to `3.0`   
-  *   **Tooltip Overhaul** -> Updated from `2.0.3` to `2.0.4`   
-  *   **Valhelsia Core** -> Updated from `1.1.4` to `1.1.5`   
+  *   **[Mekanism Turrets](https://www.curseforge.com/minecraft/mc-mods/mekanism-turrets-fences)** -> Updated from `2.2.2` to `2.2.3`   
+  *   **[Mekanism Unleashed](https://www.curseforge.com/minecraft/mc-mods/mekanism-unleashed)** -> Updated from `0.3.2` to `0.3.4`   
+  *   **[Mekanism TrashCube](https://www.curseforge.com/minecraft/mc-mods/mekanism-trashcube)** -> Updated from `2.0.4-NeoForge` to `2.0.5-NeoForge`   
+  *   **[More Backpack Upgrades](https://www.curseforge.com/minecraft/mc-mods/more-backpack-upgrades-neoforge)** -> Updated from `1.0.5` to `1.0.7`   
+  *   **[Modonomicon](https://www.curseforge.com/minecraft/mc-mods/modonomicon)** -> Updated from `1.120.5` to `1.120.7`   
+  *   **[Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)** -> Updated from `3.6.8` to `3.7.2`   
+  *   **[Neo Vitae](https://www.curseforge.com/minecraft/mc-mods/neovitae)** -> Updated from `1.1.26` to `1.1.44`    
+  *   **[Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone)** -> Updated from `4.5.0` to `5.1.3`   
+  *   **[(IU) Power Utilities](https://www.curseforge.com/minecraft/mc-mods/power-utilities-iu)** -> Updated from `1.3` to `1.5`    
+  *   **[Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)** -> Updated from `0.6.1` to `0.6.3`
+  *   **[(IU) Simply Quarries](https://www.curseforge.com/minecraft/mc-mods/simply-quarries)** -> Updated from `1.3` to `1.4`   
+  *   **[Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)** -> Updated from `1.11.3` to `1.11.4`   
+  *   **[Scalable Lux](https://www.curseforge.com/minecraft/mc-mods/scalablelux)** -> `0.3.0-alpha.0.6 devbuild` to `0.3.0-alpha.0.8 devbuild`
+  *   **[Sophisticated backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)** -> Updated from `3.26.8.2189` to `3.26.12.2208`
+  *   **[Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)** -> Updated from `1.5.7.2381` to `1.5.13.2404`
+  *   **[TaczCurios (TCC)](https://www.curseforge.com/minecraft/mc-mods/taczcurios)** -> Clean jump from version `1.4.1` to `1.4.4` *(do **NOT** update this)*
+  *   **[The Broken Script](https://modrinth.com/mod/the-broken-script/version/2.0.5)** -> Updated from `2.0.4-hotfix` to `2.0.5`
+  *   **[The Ravenous](https://www.curseforge.com/minecraft/mc-mods/ravenous)** -> Major jump from version `2.0.5` to `3.0`   
+  *   **[Tooltip Overhaul](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul)** -> Updated from `2.0.3` to `2.0.6`   
+  *   **[Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)** -> Updated from `1.1.4` to `1.1.5`   
   *   **[Veil](https://curseforge.com/mc-mods/veil-lib)** -> Updated from `4.5.1` to `4.5.2`
-  *   **Waystones** -> Updated from `21.1.45` to `21.1.46`   
-  *   **Yukami's Sophisticated Backpack Tab** -> Updated from `2.1.1` to `2.2.0`   
-  *   **Zero CORE 2** -> Updated from Zero CORE (1) `2.4.9` to `2.4.21`   
+  *   **[Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)** -> Updated from `21.1.45` to `21.1.46`   
+  *   **[Yukami's Sophisticated Backpack Tab](https://www.curseforge.com/minecraft/mc-mods/yukamis-sophisticated-backpack-tab)** -> Updated from `2.1.1` to `2.2.0`   
+  *   **[Zero CORE 2](https://www.curseforge.com/minecraft/mc-mods/zerocore)** -> Updated from Zero CORE (1) `2.4.9` to `2.4.21`   
    </details>
 
    <details>
     <summary>❌ Removed</summary>  
   
   *Due to incompatibilities, change of vision and more, we've decided to remove the following mods from this version:*   
-
+   
   *   **[AE2: Lightning Tech](https://www.curseforge.com/minecraft/mc-mods/ae2-lightning-tech)** -  *Outdated version and it's "a bit too much tbh"*   
   *   **[AE2: Better Villagers](https://www.curseforge.com/minecraft/mc-mods/ae2-better-villagers)** - *Causing fatal `MenuType` error*   
-  *   **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistles***   
+  *   **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)** - *Trains don't fit..*   
   *   **[Create: Better Villager](https://www.curseforge.com/minecraft/mc-mods/create-better-villager)** *Causing fatal `MenuType` error*   
   *   **[Create: Bits 'n' Bobs](https://www.curseforge.com/minecraft/mc-mods/create-bits-n-bobs)** - *Removed to decrease clutter.*   
   *   **[Create Blocks & Bogies](https://www.curseforge.com/minecraft/mc-mods/create-blocks-bogies):** *Extracted to preserve clean schematic layouts in custom factory builds.*   
   *   **[Create: Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen)** - *Removed to decrease clutter since there are already lots of kitchen/food releated stuff,*   
   *   **[Create: Unlimited](https://www.curseforge.com/minecraft/mc-mods/create-unlimited)** - *There is enough industrial power to go around..*   
   *   **[Create: Gunsmithing:](https://www.curseforge.com/minecraft/mc-mods/cgs)** - *It's enough with just TacZ.. atleast for now.*   
-  *   **[Create: Train Lights](https://www.curseforge.com/minecraft/mc-mods/create-train-lights)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
+  *   **[Create: Train Lights](https://www.curseforge.com/minecraft/mc-mods/create-train-lights)** - *Addon that is no longer needed due to the removal of **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)***   
   *   **[Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)** - *Removed to decreace clutter.*   
-  *   **[Create: More Seats](https://www.curseforge.com/minecraft/mc-mods/create-more-seats)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
-  *   **[Crate: Station Details](https://www.curseforge.com/minecraft/mc-mods/create-station-essentials)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
-  *   **[Create: Threaded Trains](https://www.curseforge.com/minecraft/mc-mods/create-threaded-trains)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
-  *   **[Create: Train Utilities](https://www.curseforge.com/minecraft/mc-mods/create-trainutilities)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistles***   
-  *   **[Create: Track Map: Fork](https://www.curseforge.com/minecraft/mc-mods/create-track-map-fork2)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***   
+  *   **[Create: More Seats](https://www.curseforge.com/minecraft/mc-mods/create-more-seats)** - *Addon that is no longer needed due to the removal of **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)***   
+  *   **[Crate: Station Details](https://www.curseforge.com/minecraft/mc-mods/create-station-essentials)** - *Addon that is no longer needed due to the removal of **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)***   
+  *   **[Create: Threaded Trains](https://www.curseforge.com/minecraft/mc-mods/create-threaded-trains)** - *Addon that is no longer needed due to the removal of **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)***   
+  *   **[Create: Train Utilities](https://www.curseforge.com/minecraft/mc-mods/create-trainutilities)** - *Addon that is no longer needed due to the removal of **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)***   
+  *   **[Create: Track Map: Fork](https://www.curseforge.com/minecraft/mc-mods/create-track-map-fork2)** - *Addon that is no longer needed due to the removal of **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)***   
   *   **[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)** - *Replaced by Voxy*   
   *   **Every Compat** - 
-      *   *[Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)"*   
+      *   *"[Wood Good](https://www.curseforge.com/minecraft/mc-mods/every-compat)"*   
       *   *"[Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)"*   
-      *   *"[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)*   
+      *   *"[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)"*   
           *Removed because of incompatibility (and I don't wanna fix it right now lol), and other mods like **Almost Unified** cover most of this anyway.*   
   *   **[Interiors (Macaw's create)](https://www.curseforge.com/minecraft/mc-mods/interiors)** - *Caused unnecessary load*
   *   **[Mekanism: Elements](https://www.curseforge.com/minecraft/mc-mods/mekanism-elements)** - *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*   
-  *   **[ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)** - *Permanently extracted to resolve hard rendering conflicts between multi-threaded data fixes and custom weapon animation states.*
-
-  *   **[Railways Navigator](https://www.curseforge.com/minecraft/mc-mods/create-railways-navigator)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistles***   
+  *   **[Quantum Generators](https://www.curseforge.com/minecraft/mc-mods/quantum-generators)** - *Removed due to crashes*     
+  *   **[ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)** - *Permanently extracted to resolve hard rendering conflicts between multi-threaded data fixes and custom weapon animation states.*   
+  *   **[Railways Navigator](https://www.curseforge.com/minecraft/mc-mods/create-railways-navigator)** - *Addon that is no longer needed due to the removal of **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)***   
   *   **[Remove Loading Screen](https://www.curseforge.com/minecraft/mc-mods/rrls)** - **Remove loading screen** has been permanently removed from the pack *(removed in v0.1.3-alpha-r.dev)*, as it is **completely** incompatible with 
 
       <details>
@@ -571,7 +579,7 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
   *   **[The Broken Script Reprogrammed](https://modrinth.com/mod/thebrokenscript_reprogrammed)** - *Removed for now because of incompatibility and "roughness"*
   *   **[True Darkness Biomes](https://www.curseforge.com/minecraft/mc-mods/true-darkness-biomes)** - *Replaced by [Vulcan's Darkness](https://www.curseforge.com/minecraft/mc-mods/vulcans-darkness)*
   *   **[Woodwalkers](https://www.curseforge.com/minecraft/mc-mods/woodwalkers)** - *Removed because redundancy*   
-  *   **[Xaero Train Map](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map)** - *Addon that is no longer needed due to the removal of **Create: Bells & Whistless***     
+  *   **[Xaero Train Map](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map)** - *Addon that is no longer needed due to the removal of **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)***     
 
 
    </details>
@@ -583,7 +591,8 @@ You can also install **Fresh Animations** *with various add-on's* if you want, *
 
 <details>
 <summary>Interested?</summary>
-Roadmaps can be found **[HERE](https://github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Roadmap.md)**.
+
+Roadmaps can be found **[HERE](https://www.github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Roadmap.md)**.
 </details>
 
 ### If you have any suggestions or want sneak peeks, I highly recommend you to..
