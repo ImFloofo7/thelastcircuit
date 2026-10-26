@@ -10,6 +10,7 @@
 
 ### Disclaimer!
 ***Please note that this is not the finished v0.2.0-alpha and that we are still in an early Alpha stage overall, so more unintended crashes, glitches and bugs will appear than when v0.2.0 is released.***
+### Also make sure to read the "Requirements" under "**📦 File structure**" below.
 
 
 ## ☑️ Mod permissions!
@@ -84,6 +85,17 @@ One of the requirements for getting permission to include **[Nightfall](https://
 ## 📦 File structure
  
 OVerrides folder is now in place with the **current** fixes, changes etc *(more will be added for the full release)*   
+ 
+ 
+### ⚠️ Requirements
+
+Due to platform hosting limits and license permissions, a few essential *(pun intended)* client-side assets cannot be bundled directly into the CurseForge manifest. Please apply these manual fixes before your first boot:
+
+*   **CIT Resewn (Custom Item Textures):** 
+    *   *To see custom weapon models and specialized item states correctly, you **strictly** need **[CITResewnNeoPatcher](https://modrinth.com/mod/cit-resewn-neopatcher)** and **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)**.*
+    *   *Please download **[citresewn_neopatcher-1.3.0-1.2.2.jar](https://modrinth.com/mod/cit-resewn-neopatcher/version/1.3.0)** from Modrinth and drop it directly into your local `mods/` folder.*
+*   **[Essential Mod](https://modrinth.com/mod/essential):**
+    *   *This is entirely optional for this build and has been stripped out of the core manifest. If you want to use its host-and-play network capabilities, you can install it manually via the CurseForge application window.*
 
 ---
 
@@ -162,7 +174,7 @@ If the game layout resets or doesn't load them automatically on your first boot,
 
   * Some resourcepacks **cannot** be included at this time because of licensing, this makes it a bit tideous since some are ***semi-required*** *(Pre-installed)*, but most of them are **optional**.   
     But I highly recommend you download them *(and put them in the order listen on the sheet **[HERE](https://docs.google.com/spreadsheets/d/1aFkWyf8V0sgwXtd2bKsqFTWQClMtUoas1fNS3lf8A84/edit?usp=sharing)**)*   
-    * You can install *most* of the packs directly from within minecraft using **Resouricify**
+    * You can install *most* of the packs directly from within minecraft using **Resouricify**.   
 You can also install **Fresh Animations** *with various add-on's* if you want, *(this was something I was going to do)* but this tanks performance greatly and is not recommended at this time.   
 *(I also can't bother to ask for license permission at this time since it is such a performance reducer in this modpack).*   
 
