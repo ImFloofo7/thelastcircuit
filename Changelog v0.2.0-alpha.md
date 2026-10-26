@@ -3,7 +3,7 @@
 # V0.2.0-Alpha IS HERE, **AND IT'S HUGE!**
 
 
-***Banner coming soon***
+***Banner coming when v0.2.0-alpha launches***
 
 
 # 🛠️ Changelog: v0.2.0-alpha
@@ -79,6 +79,12 @@ One of the requirements for getting permission to include **[Nightfall](https://
 
 ***Please note: we **do not condone** in republishing this modpack without the permission from the author of this modpack anymore.***    
 *(Please see updated **[LICENSE](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/LICENSE.md))***
+
+---
+
+## 📦 File structure
+ 
+OVerrides folder is now in place with the **current** fixes, changes etc *(more will be added for the full release)*   
 
 ---
 
