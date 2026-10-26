@@ -99,6 +99,9 @@ Due to platform hosting limits and license permissions, a few essential *(pun in
 *   **The Broken Script (Core Overhaul):**   
     *   *Download **[The Broken Script (2.0)](https://modrinth.com/mod/the-broken-script/version/2.0.5)** directly from the official [The Broken Script Modrinth Page](https://modrinth.com/mod/the-broken-script)*.   
       *   *Note: It is highly recommended to run `/safemode` upon world creation during alpha testing to prevent the mod's lock mechanics from locking you out of your test worlds during crashes or debugging sessions.*   
+2.  **The Broken Script: BLACKOUT (Addon):**
+    *   Download the latest NeoForge version directly from the [official Modrinth Page](https://modrinth.com/mod/tbs_blackout)
+    *   *Note:* This mod can delete worlds or ban you as an in-game mechanic; please make sure to double-check the config file variables before loading your main test worlds!
    
 **Drop both `.jar` files into your `mods` folder and your client is fully synchronized and ready to boot!**   
 
@@ -163,10 +166,12 @@ Due to platform hosting limits and license permissions, a few essential *(pun in
 
 ## 🎨 Resource Pack Architecture
 
-To make things as seamless as possible for alpha testing, a massive overhaul has been done to the Resource Pack system. All custom assets, dark UI themes, and Fresh Animations patches are now **fully numbered and categorized in their strict logical loading order**.
+We've included some resourcepacks that we're playing with ourselves and **highly recommend** you also get.   
+*(these may come to change in the future, and you're welcome to use, or not use, whatever you prefer.)*   
+To make things as seamless as possible for alpha testing, a massive overhaul has been done to the Resource Pack system. All custom assets, dark UI themes, and Fresh Animations patches are now **fully numbered and categorized in their strict logical loading order**.   
 
-If the game layout resets or doesn't load them automatically on your first boot, simply move them into the active *(`Selected`)* column and stack them following their prefix indices:
-
+If the game layout resets or doesn't load them automatically on your first boot, simply move them into the active *(`Selected`)* column and stack them following their prefix indices:   
+   
 1. **🧱 Base Overhauls & Block Models (`0.1.1` > `0.2.11` *+ `2.1.6`* ):** Forms the core foundation of your world. This initiates the main Faithful 64x overhaul, seamless ore glows, and base block textures.   
 2. **🧬 Core & Extensions (`0.2.12` > `0.2.19`):** Loads the fundamental resource frameworks first and custom entity additions.   
 3. **⚔️ Combat, Item & Compatibility (`0.2.20` > `1.2.23`):** Integrates specialized creature compatibility patches cleanly over the core models.   Player combat modifications, weapon shapes, and item action dependencies *(like Eating Animations)* load right alongside them to prevent visual clipping.   

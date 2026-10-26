@@ -85,7 +85,7 @@ resourcePacks:["file/5.1.1. - (OPTIONAL) SodiumTranslations.zip","file/4.1.1. - 
 
 </details>   
    
-You can if you want, just copy this and put it there, packs that you don't have installed won't be loaded and after a restart remove the strings that are not available.
+You can if you want, just copy the text above in the "example" after you've downloaded them and put it there, packs that you don't have installed won't be loaded and after a restart remove the strings that are not available.
 
 ### Step 5
 
