@@ -1,16 +1,15 @@
-# **WORK IN PROGRESS**
-
-# V0.2.0-Alpha IS HERE, **AND IT'S HUGE!**
-
-
-***Banner coming soon***
-
+# v0.2.0 PRE-RELEASE 
+ 
+ 
+***Banner will be ready for v0.2.0***
+ 
 
 # 🛠️ Changelog: v0.2.0-alpha
 
+**This changelog is a copy of the current state of the v0.2.0 changelog *(before the v0.2.0 release that is)* and will be updated for v0.2.0**, but will mostly be the same in the end, except for some version changes and config changes ofc.
 
-
-### ***Please note that we are still in an early Alpha stage some unintended crashes, glitches and bugs will appear.***
+### Disclaimer!
+***Please note that this is not the finished v0.2.0-alpha and that we are still in an early Alpha stage overall, so more unintended crashes, glitches and bugs will appear than when v0.2.0 is released.***
 
 
 ## ☑️ Mod permissions!
@@ -79,6 +78,12 @@ One of the requirements for getting permission to include **[Nightfall](https://
 
 ***Please note: we **do not condone** in republishing this modpack without the permission from the author of this modpack anymore.***    
 *(Please see updated **[LICENSE](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/LICENSE.md))***
+
+---
+
+## 📦 File structure
+ 
+OVerrides folder is now in place with the **current** fixes, changes etc *(more will be added for the full release)*   
 
 ---
 
