@@ -59,6 +59,13 @@ prior written consent from the ***[author](https://github.com/ImFloofo7)***.
   as a base for a competing public project or redistribute our modified assets 
   publicly.   
    
+   ### 4. CURSEFORGE MANIFEST & HASH-BASED DISTRIBUTION
+--------------------------------------------------------------------------------------------
+This project is distributed via the official CurseForge metadata manifest ecosystem (`manifest.json`).  
+**This modpack does NOT copy, redistribute, host, or alter the binaries (`.jar` files) of any third-party modifications.**    
+
+All included modifications are represented solely by unique project IDs and cryptographic hashes. Upon installation, the user's client launcher fetches and downloads every mod binary directly from the original authors' official CurseForge hosting pages. As such, all traffic, download statistics, and creator rewards (Author Rewards) are fully preserved and directed to the rightful copyright holders.   
+
 ============================================================================================   
 ### **Third-Party Licensing Exception**   
 ============================================================================================   

@@ -92,11 +92,18 @@ OVerrides folder is now in place with the **current** fixes, changes etc *(more 
 
 Due to platform hosting limits and license permissions, a few essential *(pun intended)* client-side assets cannot be bundled directly into the CurseForge manifest. Please apply these manual fixes before your first boot:
 
-*   **CIT Resewn (Custom Item Textures):** 
-    *   *To see custom weapon models and specialized item states correctly, you **strictly** need **[CITResewnNeoPatcher](https://modrinth.com/mod/cit-resewn-neopatcher)** and **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)**.*
-    *   *Please download **[citresewn_neopatcher-1.3.0-1.2.2.jar](https://modrinth.com/mod/cit-resewn-neopatcher/version/1.3.0)** from Modrinth and drop it directly into your local `mods/` folder.*
-*   **[Essential Mod](https://modrinth.com/mod/essential):**
-    *   *This is entirely optional for this build and has been stripped out of the core manifest. If you want to use its host-and-play network capabilities, you can install it manually via the CurseForge application window.*
+*   **CIT Resewn (Custom Item Textures):**    
+    *   *To see custom weapon models and specialized item states correctly, you **strictly** need **[CITResewnNeoPatcher](https://modrinth.com/mod/cit-resewn-neopatcher)** and **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)**.*   
+      *   *Please download **[citresewn_neopatcher-1.3.0-1.2.2.jar](https://modrinth.com/mod/cit-resewn-neopatcher/version/1.3.0)** from Modrinth and drop it directly into your local `mods/` folder.*   
+*   **[Essential Mod](https://modrinth.com/mod/essential):**   
+    *   *This is entirely optional for this build and has been stripped out of the core manifest. If you want to use its host-and-play network capabilities, you can install it manually via the CurseForge application window.*   
+*   **The Broken Script (Core Overhaul):**   
+    *   *Download **[The Broken Script (2.0)](https://modrinth.com/mod/the-broken-script/version/2.0.5)** directly from the official [The Broken Script Modrinth Page](https://modrinth.com/mod/the-broken-script)*.   
+      *   *Note: It is highly recommended to run `/safemode` upon world creation during alpha testing to prevent the mod's lock mechanics from locking you out of your test worlds during crashes or debugging sessions.*   
+   
+**Drop both `.jar` files into your `mods` folder and your client is fully synchronized and ready to boot!**   
+
+### **If you have less than *`676`* mods when the pack is downloaded, please write to us on discord or start a "issue" on our GitHub for troubleshooting.**
 
 ---
 
