@@ -1,16 +1,14 @@
 # **WORK IN PROGRESS**
 
-# V0.2.0-Alpha IS HERE, **AND IT'S HUGE!**
-
 
 ***Banner coming when v0.2.0-alpha launches***
 
 
-# 🛠️ Changelog: v0.2.0-alpha
+# 🛠️ Changelog: v0.2.0-alpha (pre-release)
 
 
 
-### ***Please note that we are still in an early Alpha stage some unintended crashes, glitches and bugs will appear.***
+### ***Please note that this is a pre-release and a bit away from the finished v0.2.0 version that I plan on launching within the coming 2 months or so and that more bugs, crashes and performance issues may occur.***
 ### Also make sure to read the "Requirements" under "**📦 File structure**" below.
 
 
