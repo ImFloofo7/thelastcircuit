@@ -106,7 +106,7 @@ Due to platform hosting limits and license permissions, a few essential *(pun in
    
 **Drop both `.jar` files into your `mods` folder and your client is fully synchronized and ready to boot!**   
 
-### **If you have less than *`676`* mods when the pack is downloaded, please write to us on discord or start a "issue" on our GitHub for troubleshooting.**
+### **If you have less than *`673`* mods when the pack is downloaded, please write to us on discord or start a "issue" on our GitHub for troubleshooting.**
 
 ---
 
@@ -129,7 +129,8 @@ Due to platform hosting limits and license permissions, a few essential *(pun in
   * **Cleaned Up Codes:** 
     * Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the resource packs.
     * Resolved crash related to `MenuType`. 
-  * **[Managed order for resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** *Custom order for resource packs.*   
+  * **[Indexed Resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** *Custom order for resource packs.
+    * Sadly we cannot include the resourcepacks at this time due to multiple reasons, but it is easily installed by **[following this guide](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/Troubleshooting/troubleshooting%20and%20knows%20issues.md#resource-pack-addingremoving)** to get the correct versions and then [follow this guide](https://docs.google.com/spreadsheets/d/1aFkWyf8V0sgwXtd2bKsqFTWQClMtUoas1fNS3lf8A84/edit?gid=0#gid=0) to put them in the correct order.   
      
   <details>
   <summary>Configs</summary>
@@ -167,31 +168,24 @@ Due to platform hosting limits and license permissions, a few essential *(pun in
 
 ## 🎨 Resource Pack Architecture
 
-We've included some resourcepacks that we're playing with ourselves and **highly recommend** you also get.   
+We've also made a list for resourcepacks that we recommend to use alongside this modpack, unfortunately due to licensing and all of them not being available on CF, you have to download them manually   
+Pick the resourcepacks you want from **[this list](https://docs.google.com/spreadsheets/d/1aFkWyf8V0sgwXtd2bKsqFTWQClMtUoas1fNS3lf8A84/edit?usp=sharing)** and then **[follow this guide](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/Troubleshooting/troubleshooting%20and%20knows%20issues.md#resource-pack-addingremoving)** for installation.    
 *(these may come to change in the future, and you're welcome to use, or not use, whatever you prefer.)*   
-To make things as seamless as possible for alpha testing, a massive overhaul has been done to the Resource Pack system. All custom assets, dark UI themes, and Fresh Animations patches are now **fully numbered and categorized in their strict logical loading order**.   
 
-If the game layout resets or doesn't load them automatically on your first boot, simply move them into the active *(`Selected`)* column and stack them following their prefix indices:   
+The indexing is grouped in the following order:   
    
 1. **🧱 Base Overhauls & Block Models (`0.1.1` > `0.2.11` *+ `2.1.6`* ):** Forms the core foundation of your world. This initiates the main Faithful 64x overhaul, seamless ore glows, and base block textures.   
 2. **🧬 Core & Extensions (`0.2.12` > `0.2.19`):** Loads the fundamental resource frameworks first and custom entity additions.   
 3. **⚔️ Combat, Item & Compatibility (`0.2.20` > `1.2.23`):** Integrates specialized creature compatibility patches cleanly over the core models.   Player combat modifications, weapon shapes, and item action dependencies *(like Eating Animations)* load right alongside them to prevent visual clipping.   
 4. **⚙️ Mod interface & Dark Expansions (`2.1.1` > `2.1.5` *- `2.1.6`*):** Loads the specialized dark theme configurations for major technology and automation mods *(Create, Mekanism, Refined Storage etc)*.   
 5. **🗺️ Maps, Icons & Minimap Fixes (`2.1.7` > `3.1.3`):** Integrates customized map stylings, Excalibur alignment profiles, and icon patches cleanly over the engine layer.   
-6. **👑 UI, Fonts, and Core Fixes (`4.1.1` > `5.1.1` - Absolute Top):** Highest loading priority. Activates the custom container shadings, font overhauls *(Der's Shaded Font)*, and global Sodium translation patches over all active asset arrays.   
+6. **👑 UI, Fonts, and Core Fixes (`4.1.1` > `5.1.1` - *Absolute Top*):** Highest loading priority. Activates the custom container shadings, font overhauls *(Der's Shaded Font)*, and global Sodium translation patches over all active asset arrays.   
 
-### Starting with "0.1.1" being at the bottom. - 
-*Start with adding **`0.1.1`** first, **`0.1.2`** second, etc.*
-
-### ***Disclaimer!***
-
-  * Some resourcepacks **cannot** be included at this time because of licensing, this makes it a bit tideous since some are ***semi-required*** *(Pre-installed)*, but most of them are **optional**.   
-    But I highly recommend you download them *(and put them in the order listen on the sheet **[HERE](https://docs.google.com/spreadsheets/d/1aFkWyf8V0sgwXtd2bKsqFTWQClMtUoas1fNS3lf8A84/edit?usp=sharing)**)*   
-    * You can install *most* of the packs directly from within minecraft using **Resouricify**.   
-You can also install **Fresh Animations** *with various add-on's* if you want, *(this was something I was going to do)* but this tanks performance greatly and is not recommended at this time.   
-*(I also can't bother to ask for license permission at this time since it is such a performance reducer in this modpack).*   
-
- * Some resourcepacks are built-in with some mods and should be left at the bottom of the loading order, except for "punchy" which should be placed at `0.2.21`   
+### Important Notes: 
+  * The order is from bottom to top; *meaning - you Start with adding **`0.1.1`** first, **`0.1.2`** second, etc. and finish with **"Sodium Translations"** at the top.*
+  * You can install *most* of the packs directly from within minecraft using **Resouricify**.   
+  * You can also install **Fresh Animations** *with various add-on's* if you want, *(this was something I was going to do)* but this tanks performance greatly and is not recommended at this time.   
+  * The built in resource "punchy" should be placed at `0.2.21`   
 
 ---
 

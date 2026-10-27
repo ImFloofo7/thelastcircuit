@@ -264,7 +264,7 @@ Special thanks to:
 * [Tiganu](https://legacy.curseforge.com/members/tiganu)   
 
 for giving me permission to use their mods!
-*Permissions can be found on my [GitHub](https://github.com/ImFloofo7/thelastcircuit).**
+***Permissions can be found on my [GitHub](https://github.com/ImFloofo7/thelastcircuit).***
 
 *(You can find each respective creator on their individual mod page aswell).*
 
