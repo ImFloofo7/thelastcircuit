@@ -522,7 +522,6 @@ The indexing is grouped in the following order:
   *   **[Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)** -> Massive backend update from `2.4.9` to `2.4.28`   
   *   **[Fight Back](https://www.curseforge.com/minecraft/mc-mods/fight-back)** -> Updated from `1.3.0` to `1.3.2`   
   *   **[Industrial Upgrade](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade)** -> Updated from `3.4.0.11` to `3.4.0.13`    
-  *   **Keybind Atlas** -> Updated from `` to ``
   *   **[Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis)** -> Updated from `1.4.4` to `1.4.6`   
   *   **[LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)** -> Updated from `1.6.0-pre229` to `1.6.0-pre234`   
   *   **[Zelda: Legend of the Master Sword](https://www.curseforge.com/minecraft/mc-mods/zelda-legend-of-the-master-sword)** -> Updated from `2.4.2` to `2.5.0`   
