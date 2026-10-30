@@ -1,5 +1,5 @@
 # Loading Screen
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-4c9f38?style=flat-square) ![Loader](https://img.shields.io/badge/Loader-NeoForge%2021.1.262-f97316?style=flat-square) ![Status](https://img.shields.io/badge/Status-Alpha%20Pre--release-b96ad9?style=flat-square)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-4c9f38?style=flat-square) ![Loader](https://img.shields.io/badge/Loader-NeoForge%2021.1.262-f97316?style=flat-square)
 
 <details>
 <summary>▶️ SHOW</summary>
@@ -36,7 +36,7 @@ If this doesn't fix the issue, please open a ticket in the [discord](https://dis
 
 
 # Resource pack adding/removing
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-4c9f38?style=flat-square) ![Loader](https://img.shields.io/badge/Loader-NeoForge%2021.1.262-f97316?style=flat-square) ![Status](https://img.shields.io/badge/Status-Alpha%20Pre--release-b96ad9?style=flat-square)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-4c9f38?style=flat-square) ![Loader](https://img.shields.io/badge/Loader-NeoForge%2021.1.262-f97316?style=flat-square) 
 
 <details>
 <summary>▶️ SHOW</summary>
