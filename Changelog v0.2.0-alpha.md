@@ -1,17 +1,10 @@
-# **WORK IN PROGRESS**
-
-# V0.2.0-Alpha IS HERE, **AND IT'S HUGE!**
-
-
-***Banner coming when v0.2.0-alpha launches***
-
+# V0.2.0 IS HERE, AND IT'S HUGE!
 
 # 🛠️ Changelog: v0.2.0-alpha
 
 
-
-### ***Please note that we are still in an early Alpha stage some unintended crashes, glitches and bugs will appear.***
-### Also make sure to read the "Requirements" under "**📦 File structure**" below.
+### ***Please note that this is still in **alpha** and a bit away from the final release version. Bugs, crashes and performance issues may occur.***
+### Also make sure to read the "**⚠️ Requirements**" under "**📦 File structure**" below.
 
 
 ## ☑️ Licensing permissions!
@@ -54,7 +47,7 @@ Unfortunately however, until [MCRcortex](https://github.com/MCRcortex/) makes an
 
 
 <details>
-<summary>How to Install Voxy</summary>
+<summary><strong>How to Install Voxy:</strong></summary>
 
 **1.** Go to the GitHub for the ***[Unofficial Backport](https://github.com/NHblock-Johnsnow/neo-voxy-multiversion)***.   
 **2.** Clone or download the source code/zip to your computer.   
@@ -72,10 +65,14 @@ Unfortunately however, until [MCRcortex](https://github.com/MCRcortex/) makes an
 </details>
 
 
-## 🔄 Platform changes!
+## 🔄 Changes!
+
+### Requirements
 One of the requirements for getting permission to include **[Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)** and **[Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs)** was that we publish on CurseForge. Combined with a few technical reasons, we have decided to switch to CurseForge **permanently**!   
 *(Project on Modrinth has been deleted and **`v0.1.0-alpha-r.dev`-> `v0.1.9-alpha-r.dev`** is [no longer available](https://github.com/ImFloofo7/thelastcircuit/blob/v0.1.0-alpha-r.dev---v0.1.9-alpha-r.dev/README.md) for the public).*
 
+### No_Moon.jar
+Sadly, in the process of releasing the pre-release, I had to remove [No_Moon.jar](https://www.curseforge.com/minecraft/mc-mods/no-moon-jar) because the author has now archived the mod.. **R.I.P**..
    
 
 ***Please note: we **do not condone** in republishing this modpack without the permission from the author of this modpack anymore.***    
@@ -92,27 +89,30 @@ OVerrides folder is now in place with the **current** fixes, changes etc *(more 
 
 Due to platform hosting limits and license permissions, a few essential *(pun intended)* client-side assets cannot be bundled directly into the CurseForge manifest. Please apply these manual fixes before your first boot:
 
+*   **[AE2 Dynamic Trees Fix](https://modrinth.com/mod/ae2-dynamic-trees-fix)** - *Required fix*
+*   **[FixSodiumShaderLoader](https://github.com/coco875/Fix-sodium-ShaderLoader)** - *Semi-optional, recommended if you want to play with shaders and still render Voxy LoD.*
 *   **CIT Resewn (Custom Item Textures):**    
     *   *To see custom weapon models and specialized item states correctly, you **strictly** need **[CITResewnNeoPatcher](https://modrinth.com/mod/cit-resewn-neopatcher)** and **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)**.*   
       *   *Please download **[citresewn_neopatcher-1.3.0-1.2.2.jar](https://modrinth.com/mod/cit-resewn-neopatcher/version/1.3.0)** from Modrinth and drop it directly into your local `mods/` folder.*   
-*   **[Essential Mod](https://modrinth.com/mod/essential):**   
-    *   *This is entirely optional for this build and has been stripped out of the core manifest. If you want to use its host-and-play network capabilities, you can install it manually via the CurseForge application window.*   
 *   **The Broken Script (Core Overhaul):**   
     *   *Download **[The Broken Script (2.0)](https://modrinth.com/mod/the-broken-script/version/2.0.5)** directly from the official [The Broken Script Modrinth Page](https://modrinth.com/mod/the-broken-script)*.   
       *   *Note: It is highly recommended to run `/safemode` upon world creation during alpha testing to prevent the mod's lock mechanics from locking you out of your test worlds during crashes or debugging sessions.*   
-2.  **The Broken Script: BLACKOUT (Addon):**
+*  **The Broken Script: BLACKOUT (Addon):**
     *   Download the latest NeoForge version directly from the [official Modrinth Page](https://modrinth.com/mod/tbs_blackout)
-    *   *Note:* This mod can delete worlds or ban you as an in-game mechanic; please make sure to double-check the config file variables before loading your main test worlds!
-   
-**Drop both `.jar` files into your `mods` folder and your client is fully synchronized and ready to boot!**   
+    *   *Note:* This mod can delete worlds or ban you as an in-game mechanic; please make sure to double-check the config file variables before loading your main test worlds!   
 
-### **If you have less than *`673`* mods when the pack is downloaded, please write to us on discord or start a "issue" on our GitHub for troubleshooting.**
+*   **[Essential Mod](https://modrinth.com/mod/essential):**   
+    *   *This is entirely optional for this build and has been stripped out of the core manifest. If you want to use its host-and-play network capabilities, you can install it manually via the CurseForge application window.*   
+   
+**Drop the `.jar` files into your `mods` folder and your client is fully synchronized and ready to boot!**   
+
+### **If you have less than *`702`* mods when the pack is downloaded, please write to us on discord or start a "issue" on our GitHub for troubleshooting.**
 
 ---
 
 ## ⚙️ Optimizations & Fixes
 <details>
-  <summary>🍪 Optimizations</summary>   
+  <summary><strong>🍪 Optimizations</strong></summary>   
 
   * **Launch Performance:** Fixed early launch loading stalls and graphics adapter workarounds by purging legacy translation caches.   
   * **Engine Optimizations:** Enhanced thread prioritization and sub-millisecond memory cleanups *("`ZGC`")* to completely eliminate cyclic lag spikes in heavy factory zones.   
@@ -124,38 +124,124 @@ Due to platform hosting limits and license permissions, a few essential *(pun in
 </details>
   
 <details>
-<summary>✅ Fixes, QoL & Configs</summary>
+<summary><strong>✅ Fixes, QoL & Configs</strong></summary>
   
   * **Cleaned Up Codes:** 
     * Fixed multiple fatal JSON metadata boot errors *(like "`No key pack_format`")* hidden inside the resource packs.
     * Resolved crash related to `MenuType`. 
   * **[Indexed Resourcepacks](https://github.com/ImFloofo7/thelastcircuit/edit/v0.2.0/Changelog%20v0.2.0-alpha.md#-resource-pack-architecture):** *Custom order for resource packs.
     * Sadly we cannot include the resourcepacks at this time due to multiple reasons, but it is easily installed by **[following this guide](https://github.com/ImFloofo7/thelastcircuit/blob/Latest/Troubleshooting/troubleshooting%20and%20knows%20issues.md#resource-pack-addingremoving)** to get the correct versions and then [follow this guide](https://docs.google.com/spreadsheets/d/1aFkWyf8V0sgwXtd2bKsqFTWQClMtUoas1fNS3lf8A84/edit?gid=0#gid=0) to put them in the correct order.   
+  * **[Apothic Spawners](https://www.curseforge.com/minecraft/mc-mods/apothic-spawners)** - *Replaces **[ME Spawner](https://modrinth.com/mod/me-spawner)** due to it not being available on CF.*
      
   <details>
-  <summary>Configs</summary>
-  **Here are some in-depth config changes:**
-  * Almost Unified: **`Startup.json`** *"world_gen_unification"* `false` -> `true`   
-  * **`Apothic_enchanting.cfg`** *"Sculkshelf Noise Chance"* `200` -> `250`   
+  <summary><strong>⚙️ Configs</strong></summary>
+  <strong>Here are some in-depth config changes:</strong>   
+
+### **[Advanced Finders](https://www.curseforge.com/minecraft/mc-mods/advanced-finders)**   
+> **Advanced Finders Client Configuration**   
+>> ***> GEM***   
+   * *nameColor* `DARK_AQUA` -> `BLUE`   
+   * *drawOutline* `OFF` -> `ON`   
+>> ***> Metal***   
+   * *drawOutline* `OFF` -> `ON`   
+>> ***> Mineral***   
+   * *drawOutline* `OFF` -> `ON`   
      
-  * BetterCaves: **`liquidregions.json`** *"water_region_spawn_chance"* `0.40` -> `0.33`   
-  * **`Boss_checklist-client.json`** *"searchBarEnabled"* `false` -> `true`   
+### **[Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)**   
+> **Advanced Hook Launchers Common Configuration**   
+>> ***> Pudge***   
+>>> ***> Launcher***   
+   * *durability* `300` -> `600`   
+>> ***> Spear***     
+>>> ***> Launcher***   
+   * *durability* `180` -> `800`   
+>> ***> Web***   
+>>> ***> Launcher***   
+   * *durability* `240` -> `500`   
+
+### **[Almost Unified](https://www.curseforge.com/minecraft/mc-mods/almostunified)**:   
+   * ***`Startup.json`*** **world_gen_unification** `false` -> `true`   
      
-  * The Broken Script:   
-    * **`disableBlockBreaking`** `false` -> `true`   
-  *#World configuration*   
-    * **`removeDeepslate`** `true` -> `false`   
-    * **`allowOldWorldGen`** `true` -> `false`   
-    * **`disableWorldEater`** `false` -> `true`   
-    * **`nightmareTeleportChance`** `15` -> `9`   
-    * **`disableSeedChanger`** `false` -> `true`   
-    * **`structureDayApart`** `1` -> `10`   
-  *#Event Rate Config*   
-    * **`maxEventsPerDay`** `8` -> `3`   
-    * **`enableMoonCorruptionMobDespawns`** `true` -> `false`   
-   *  **`disguisedCircuitOreChance`** `0.01` -> `0,005`   
+### **[Apothic Enchanting](https://www.curseforge.com/minecraft/mc-mods/apothic-enchanting)**   
+   * **Sculkshelf Noise Chance** `200` -> `250`   
+
+### **[Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)**   
+> **> Client**    
+>> ***> Misc***   
+   * *Disable Skyweave* `OFF` -> `ON`   *
+
+### **[Arthropod Phobia Expansions](https://www.curseforge.com/minecraft/mc-mods/arphex)**   
+> **Ar Ph Ex Configurations**   
+>> ***> Spawning***   
+   * *Boss rarity* `2.0` -> `3.0`   
+
+### **[Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)**   
+> **Artifacts Config**   
+>> ***> General***   
+   * *Remove Slot Restrictions* `No` -> `Yes`   
+>> ***> Items***   
+   * *Bunny Hoppers*    
+     * *Fall Damage Multiplier* - `0.0` -> `0.1`   
+     * *Jump Strength Bonus* `0.4` -> `0.6`   
+   * *Digging Claws*   
+     * *Block Break Speed* `0.3` - > `0.15`   
+     * *Tool Tier* `stone` -> `diamond`   
+   * *Everlasting Beef*   
+     * *Drop Rate* `0.002` -> `0.052`
      
-  * **** - 
+### **[AutoSwap](https://www.curseforge.com/minecraft/mc-mods/auto-swap)**   
+> **Tool Switching**   
+   * *Auto Weapon On Attack* `OFF` -> `ON`   
+   * *Restore Previous Item After Auto Tool* `OFF` -> `ON`   
+
+### **[Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)**   
+> **Common**   
+>> ***> General***   
+   * *Modpack name **added***   
+   * *Project ID **added***   
+   * *Modpack version **added***   
+
+### **[BetterCaves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)**: 
+   * ***`liquidregions.json`*** -> **water_region_spawn_chance** `0.40` -> `0.33`   
+
+### **[Boss_checklist-client](https://www.curseforge.com/minecraft/mc-mods/boss-checklist)** 
+   * **searchBarEnabled** `false` -> `true`   
+     
+### **[Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod)**  
+> **Features**   
+   * *Only Bridge While Crouching* `OFF` -> `ON`  
+> **Visuals**   
+   * *Show Bridging Outline* -> `OFF` -> `ON`   
+  
+### **[Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)**   
+   * *Added **Ancient Remnants** Monoliths to **Regions Unexplored** biomes*   
+   * *Tweaked the spawn rates slightly*   
+    
+### **[Sanity Renewed](https://www.curseforge.com/minecraft/mc-mods/sanity-renewed)**
+   * *Balanced **almost** all gain and loss values*   
+
+### **[The Broken Script](https://modrinth.com/mod/the-broken-script)**:   
+> **General Configuration**
+   * **disableBlockBreaking** `false` -> `true`   
+> **World configuration**   
+   * **removeDeepslate** `true` -> `false`   
+   * **allowOldWorldGen** `true` -> `false`   
+   * **disableWorldEater** `false` -> `true`   
+   * **nightmareTeleportChance** `15` -> `9`   
+   * **disableSeedChanger** `false` -> `true`   
+   * **structureDayApart** `1` -> `10`   
+> **Event Rate Config**   
+   * **maxEventsPerDay** `8` -> `3`   
+   * **enableMoonCorruptionMobDespawns** `true` -> `false`   
+   * **disguisedCircuitOreChance** `0.01` -> `0,005`   
+
+### **[Void.jar](https://www.curseforge.com/minecraft/mc-mods/void-jar):**   
+> **Void Jar Config**   
+>> ***> Variables***   
+   * *Max Events Cooldown* `3500` -> `9500`   
+   * *Min Events Cooldown* `600` -> `3500`  
+   * *Spawn Chance* `250` -> `420`   
+     
   </details>
 </details>
 
@@ -193,9 +279,9 @@ The indexing is grouped in the following order:
 
 
 <details>
-  <summary>▶️ Added:</summary>
+  <summary><strong>▶️ Added:</strong></summary>
    <details>
-    <summary>🆕 Features & Core Content</summary> 
+    <summary><strong>🆕 Features & Core Content</strong></summary> 
       
   ***The following mods are what one would call "core mods", adding key elements to the gameplay.***    
    
@@ -236,11 +322,11 @@ The indexing is grouped in the following order:
    </details>
 
    <details>
-    <summary>💎 QoL & Other:</summary>
+    <summary><strong>💎 QoL & Other:</strong></summary>
 
 ***Mods that tweaks the world, particles, mobs, blocks features etc. or adds something that isn't really content***    
 
-  *   **[2032 (world height)](https://www.curseforge.com/minecraft/mc-mods/world-height-2032)** - *Sets the world height limit to Y=2032*   
+  *   **[Higher Heights Mod](https://www.curseforge.com/minecraft/mc-mods/higher-heights)** - *Increases the world height tremendously*   
   *   **[AAA World](https://www.curseforge.com/minecraft/mc-mods/aaa-particles-world)** - *Adds back the lightning effect in older version of **AAA Particles** mod, and more!*   
   *   **[AE2 Tangible Bookmarks](https://www.curseforge.com/minecraft/mc-mods/ae2-tangible-bookmarks)** - *Let's you bookmark items in **AE2** and more!*   
   *   **[AE2 Terminal Scroll Wheel Cycle](https://www.curseforge.com/minecraft/mc-mods/ae2-terminal-cycling)** - *Allows you to use your scroll wheel in various **AE2** terminals*   
@@ -248,9 +334,7 @@ The indexing is grouped in the following order:
   *   **[BetterEnd Cities](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-better-end)** - *Changes to end city generation and loot.*    
   *   **[Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash)** - *Adds the ability to restore deleted worlds*
   *   **[Dough Slime Ball Recipe](https://www.curseforge.com/minecraft/mc-mods/dough-slime-ball-recipe)** - *Create slime with dough from **Farmers Delight** and dye!*   
-  *   **[Draconic Insight](https://www.curseforge.com/minecraft/mc-mods/draconic-insight)** - *Adds an informational "companion" for **Draconic Evolution***    
   *   **[Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)** - *Adds enchantment desscriptions to your enchanted gear (both vanilla and some modded)*
-  *   **[Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod)** - *Adds lots of enhancements and possibilities like the ability to host multiplayer worlds for free!*     
   *   **[FastFind](https://www.curseforge.com/minecraft/mc-mods/fastfind)** - *Helps you locate specific items inside any inventory block — `chests`, `furnaces`, `hoppers`, `shulker boxes`, `barrels`, you name it.*   
   *   **[First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)** - *Client-side mod that changes what you see in 1st person*   
   *   **[Fog](https://www.curseforge.com/minecraft/mc-mods/fog)** - *A total overhaul of Minecraft's fog, offering many different options for customization.*   
@@ -258,6 +342,7 @@ The indexing is grouped in the following order:
   *   **[Inventory Mending](https://www.curseforge.com/minecraft/mc-mods/inventory-mending)** - *Takes away the need to hold the tools with mending*   
   *   **[KubeJS Apothic](https://www.curseforge.com/minecraft/mc-mods/apothic-xp-fix)** - *Fixes/changes how experience costs from Apothic Enchanting are handled.*   
   *   **[Keep Inventory Always](https://www.curseforge.com/minecraft/mc-mods/keep-inventory-always)** - *Turns on the `KeepInventory` gamerule by default.*   
+  *   **[MiniBoss Boss bars](https://www.curseforge.com/minecraft/mc-mods/mini-boss-boss-bars)** - *Adds bossbars for minibosses*   
   *   **[Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)** - *Adds/modifies a lot of missing third-person animations from first-person*    
   *   **[PatPat](https://www.curseforge.com/minecraft/mc-mods/patpat)** - *Let's you pat mobs!*    
   *   **[Punchy!](https://www.curseforge.com/minecraft/mc-mods/punchy)** - *Engine for various first-person animations.*    
@@ -279,7 +364,7 @@ The indexing is grouped in the following order:
 
     
    <details>
-    <summary>📈 Optimization:</summary>
+    <summary><strong>📈 Optimization:</strong></summary>
    
 ***The following mods has been added to improve quality and performance***   
 
@@ -294,13 +379,13 @@ The indexing is grouped in the following order:
   *   **[Quick Pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack)** - *Improves datapack & resourcepack zip gile loading times.*     
   *   **[Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn)** - *Optimized memory usage and re-mapped memory leak garbage tracking.*   
   *   **[Smooth Boot (Recreated)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-recreated)** - *Smooth loading allocations across split core processing.*   
-  *   **[TacZ: Gunpack Redistribution](https://www.curseforge.com/minecraft/mc-mods/tacz-gunpack-redistribution-fork)** - *Small compatibility utility for **TacZ**.*   
+  *   **[TacZ: Gunpack Redistribution](https://www.curseforge.com/minecraft/mc-mods/tacz-gunpack-redistribution)** - *Small compatibility utility for **TacZ**.*   
   *   **[TT20](https://curseforge.com)** - *TT20 helps reduce lag by optimizing how ticks work when the server's TPS is low.*   
   *   **[(QAPI) Quantified API](https://www.curseforge.com/minecraft/mc-mods/quantified-api)** - *High-performance API for Minecraft mobs, built to handletasks efficiently, reduce lag, use GPU acceleration, smart caching and multithreading.*   
    </details>
 
    <details>
-    <summary>📇 Add-on's:</summary>    
+    <summary><strong>📇 Add-on's:</strong></summary>    
  
 ***The following mods are add-ons for mods already in the modpack.***   
 
@@ -345,7 +430,7 @@ The indexing is grouped in the following order:
 
 
    <details>
-    <summary>📎 Integrations & Compatibility:</summary>    
+    <summary><strong>📎 Integrations & Compatibility:</strong></summary>    
 
 ***The following mods has been added to add suport and compability between mods.***   
 
@@ -354,8 +439,10 @@ The indexing is grouped in the following order:
   *   **[BetterEnd x Chipped](https://www.curseforge.com/minecraft/mc-mods/betterend-chipped)** - *Massive expansion of decorative variant choices for end-materials.*   
   *   **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)** - *Re-implements **MCPatcher's CIT***   
   *   **[CITResewnNeoPatcher](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)** - *Patches CIT Resewn mods so it runs on NeoForge through **Sinytra Connector***   
+  *   **[Create Better End Compat](https://www.curseforge.com/minecraft/mc-mods/betterend-create-compat)** - *Adds compatibility between **Create** and **BetterEnd***
   *   **[Dynamic Trees x BetterNether](https://www.curseforge.com/minecraft/mc-mods/dynamictrees-betternether)** - *Bring **Dynamic Trees** support to the trees and fungi added by **BetterNether**.*   
   *   **[Dynamic Trees x BetterEnd](https://www.curseforge.com/minecraft/mc-mods/dynamictrees-betterend)** - *Bring **Dynamic Trees** support to the trees and giant fungi added by **BetterEnd**.*   
+  *   **[Dynamic Trees x VanillaBackport](https://www.curseforge.com/minecraft/mc-mods/dynamictrees-vanillabackport)** - *Adds compatibiltty between **Dynamic Trees** and **VanillaBackPort***
   *   **[EMF Comapt: Carry On](https://www.curseforge.com/minecraft/mc-mods/emf-compat-carry-on)** - *A small client-side mod that makes Carry On carry poses work correctly with Entity Model Features player models.*   
   *   **[EMF Compat: Core](https://www.curseforge.com/minecraft/mc-mods/emf-compat-core)** - *A shared client-side library that lets all EMF Compat addons fix animation conflicts with Entity Model Features.*   
   *   **[EMF Compat: Malum](https://www.curseforge.com/minecraft/mc-mods/emc-for-malum)** - *Adds compatibility between **ProjectE** and **Malum***   
@@ -367,16 +454,17 @@ The indexing is grouped in the following order:
   *   **[Epic Fight: Curios Compat 3.0](https://www.curseforge.com/minecraft/mc-mods/epicfightcurioscompat)** - *Adds compatibility/fix between **Curios** and **Epic Fight***   
   *   **[Epic Fight: Curios Elytra](https://www.curseforge.com/minecraft/mc-mods/epicurios-elytra-epic-fight-elytra-slot-compat-fix)** - *Allows slotting of standard flight parameters inside Curios accessories.
   *   **[Epic Fight x Punchy](https://www.curseforge.com/minecraft/mc-mods/epic-punchy-epic-fight-x-punchy-mod-compat)** - *Adds compatibility between **Punchy** and **Epic Fight***   
+  *   **[Epic FIght x TacZ](https://www.curseforge.com/minecraft/mc-mods/epic-fight-tacz-first-person-compat)** - *compatibility patch that restores TacZ's gun animations — both first-person (reload, inspect, draw) and third-person (gun-holding pose, body tilt, leg stance), when Epic Fight is installed alongside TacZ.*   
   *   **[Epic Fight: Tweaks](https://www.curseforge.com/minecraft/mc-mods/epic-tweaks)** - *Core adjustments for overall damage parameters and entity behaviors.*   
   *   **[Evolved Mekanism JEI Compat](https://www.curseforge.com/minecraft/mc-mods/evolved-mekanism-jei-emi-compat)** - *Adds compatibility between **Evolved Mekansim** and **JEI***   
   *   **[Iris Veil Compat](https://www.curseforge.com/minecraft/mc-mods/iris-veil-compat)** - *Allow mods using the Veil rendering engine to render correctly when using Iris Shaderpacks.*   
   *   **[Jade Additional Entities](https://www.curseforge.com/minecraft/mc-mods/jade-additional-entities)** - *Adds support for displaying information from **Jade** on entities added by other mods.*  
   *   **[Jade Animal Info](https://www.curseforge.com/minecraft/mc-mods/jade-animal-info)** - **
-  *   **[Jade Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos-jade-compat)** - *Adds useful growth details to animal tooltips through Jade.*
-  *   **[Jade Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-jade-compatibility)** - *Adds rich Jade tooltips for Sophisticated Backpacks.*
-  *   **[Jade TacZ Compat](https://www.curseforge.com/minecraft/mc-mods/tacz-jade-compatibility-timeless-and-classics-zero)** - *Adds compatibility for **TacZ** to **Jade**.*
+  *   **[Jade Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos-jade-compat)** - *Adds useful growth details to animal tooltips through Jade.*   
+  *   **[Jade Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-jade-compatibility)** - *Adds rich Jade tooltips for Sophisticated Backpacks.*   
+  *   **[Jade TacZ Compat](https://www.curseforge.com/minecraft/mc-mods/tacz-jade-compatibility-timeless-and-classics-zero)** - *Adds compatibility for **TacZ** to **Jade**.*   
   *   **[L_Ender's Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs)** - *Some config changes so that mobs properly spawn in **YUNG's Nether Fortresses.***   
-  *   **[Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations)** - *Implemented global looting balance patches covering ***Born in Chaos**, **L_ender's Cataclysm**, **Integrated**, **Yung's**, and Vanilla variables.*  
+  *   **[Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations)** - *Implemented global looting balance patches covering ***Born in Chaos**, **L_ender's Cataclysm**, **Integrated**, **Yung's**, and Vanilla variables.*   
   *   **[Loot Integrations: Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for **Born in Chaos** structures and bosses.*    
   *   **[Loot Integrations: L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm)** - *Enhances loot for **L_Ender's Cataclysm**structures and bosses.*   
   *   **[Macaw's Betters](https://www.curseforge.com/minecraft/mc-mods/macaws-betters)** - *Adds multi-compatibility for **Macaw's**.. 
@@ -402,7 +490,7 @@ The indexing is grouped in the following order:
 
 
    <details>
-    <summary>🎱 Misc:</summary>  
+    <summary><strong>🎱 Misc:</strong></summary>  
 
 ***Libraries, engines and more required mods.***   
 
@@ -455,7 +543,7 @@ The indexing is grouped in the following order:
 
 
    <details>
-      <summary>↗️ For Upcoming Changes:</summary>
+      <summary><strong>↗️ For Upcoming Changes:</strong></summary>
 
 ***The following mods have been added for enabling work on some future upcoming changes & features.***   
 
@@ -494,11 +582,10 @@ The indexing is grouped in the following order:
 ## 🔄Updates & Removals   
 
    <details>
-    <summary>🔋 Updated:</summary>
+    <summary><strong>🔋 Updated:</strong></summary>
 
 ***The following mods have been updated.***   
   
-  *   **[CITResewnPatcher](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)** -> Updated from Fabric version *(previously ran through Sinytra Connector)* to [NeoForge version](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher)   
   *   **[AE2 Growth Accelerator Tiers](https://www.curseforge.com/minecraft/mc-mods/ae2-growth-accelerators)** -> Updated from Fabric version *(ran with Sinytra Connector)* to `AGA Neo 1.21.1 2.2.0`   
   *   **[Applied Pneumatics](https://www.curseforge.com/minecraft/mc-mods/applied-pneumatics)** -> Updated from `1.0.8` to `1.0.9`   
   *   **[Ars QOL](https://www.curseforge.com/minecraft/mc-mods/ars-qol)** -> Updated from `1.0.0` to `1.1.0`   
@@ -508,8 +595,8 @@ The indexing is grouped in the following order:
   *   **[Advanced Worldgen Info (AWI)](https://www.curseforge.com/minecraft/mc-mods/advanced-worldgen-info)** -> Updated from `1.3.0` to `1.3.2`  
   *   **[Balm](https://www.curseforge.com/minecraft/mc-mods/balm)** -> Updated from `21.0.65` to `21.0.66`   
   *   **[CBCAT Fix](https://www.curseforge.com/minecraft/mc-mods/cbc-advanced-technologies-aeronautics-fix)** -> Updated from `1.1.0` to `1.1.4`   
-  *   **[Certain Question Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions)** -> Updated from `` to `` 
-  *   **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)** -> Updated to `patched_citresewn-1.2.2+1.21.jar`   
+  *   **[Certain Question Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions)** -> Updated to `1.2.0.5` 
+  *   **[CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neoforge)** -> Updated to NeoForge version `CITResewn-1.21.1-neoforge-0.7.22.jar`   
   *   **[CompatLink](https://www.curseforge.com/minecraft/mc-mods/compatlink-epic-fight-weapons-compat)** -> Updated from `1.1.2` to `1.3.0`   
   *   **[Collective](https://www.curseforge.com/minecraft/mc-mods/advanced-worldgen-info)** -> Updated from `8.53` to `8.58`
   *   **[Create: Compression](https://www.curseforge.com/minecraft/mc-mods/create-compression)** -> Updated from `2.0.0` to `2.0.1`   
@@ -554,7 +641,7 @@ The indexing is grouped in the following order:
    </details>
 
    <details>
-    <summary>❌ Removed</summary>  
+    <summary><strong>❌ Removed</strong></summary>  
   
   *Due to incompatibilities, change of vision and more, we've decided to remove the following mods from this version:*   
    
@@ -581,14 +668,17 @@ The indexing is grouped in the following order:
       *   *"[Gems Realm](https://www.curseforge.com/minecraft/mc-mods/gems-realm)"*   
           *Removed because of incompatibility (and I don't wanna fix it right now lol), and other mods like **Almost Unified** cover most of this anyway.*   
   *   **[Interiors (Macaw's create)](https://www.curseforge.com/minecraft/mc-mods/interiors)** - *Caused unnecessary load*
+  *   **[Jade Trades](https://modrinth.com/mod/jade-trades)** - *Not available on CF*
   *   **[Mekanism: Elements](https://www.curseforge.com/minecraft/mc-mods/mekanism-elements)** - *Purged from the environment chain to prevent recipe conflicts with advanced alloy automation.*   
+  *   **[Mekanism Plums](https://modrinth.com/mod/mekanism-plums)** - *Not available on CF and frankly unnecessary.*   
+  *   **[Mekanism Water Provider](https://modrinth.com/mod/mekanism-water-provider)** - *Not available on CF.*
   *   **[Quantum Generators](https://www.curseforge.com/minecraft/mc-mods/quantum-generators)** - *Removed due to crashes*     
   *   **[ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)** - *Permanently extracted to resolve hard rendering conflicts between multi-threaded data fixes and custom weapon animation states.*   
   *   **[Railways Navigator](https://www.curseforge.com/minecraft/mc-mods/create-railways-navigator)** - *Addon that is no longer needed due to the removal of **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)***   
   *   **[Remove Loading Screen](https://www.curseforge.com/minecraft/mc-mods/rrls)** - **Remove loading screen** has been permanently removed from the pack *(removed in v0.1.3-alpha-r.dev)*, as it is **completely** incompatible with 
 
       <details>
-      <summary>our upcoming..</summary>   
+      <summary><strong>our upcoming..</strong></summary>   
 
       - **[Fancy Menu](https://www.curseforge.com/minecraft/mc-mods/fancymenu)**    
         - *(Fully customized main menu, "ESC" menu, video settings, audio settings etc.)*   
@@ -597,10 +687,13 @@ The indexing is grouped in the following order:
       - **Fully customized music in menus**   
 
       </details>   
-   
+
+  *   **[Rot Enderman](https://www.curseforge.com/minecraft/mc-mods/rot-enderman)** - *Caused world creation crashes*
+  *   **[TacZ SR (Sound overhaul)](https://modrinth.com/mod/tacz-sound-overhaul-reforged)** - *Not available on CF.* 
   *   **[TBS Void Paradox](https://modrinth.com/mod/the-void-paradox)** - *Removed to decrease clutter*
   *   **[The Broken Script Reprogrammed](https://modrinth.com/mod/thebrokenscript_reprogrammed)** - *Removed for now because of incompatibility and "roughness"*
-  *   **[True Darkness Biomes](https://www.curseforge.com/minecraft/mc-mods/true-darkness-biomes)** - *Replaced by [Vulcan's Darkness](https://www.curseforge.com/minecraft/mc-mods/vulcans-darkness)*
+  *   **[True Darkness Biomes](https://www.curseforge.com/minecraft/mc-mods/true-darkness-biomes)** - *Replaced by [Vulcan's Darkness](https://www.curseforge.com/minecraft/mc-mods/vulcans-darkness)*   
+  *   **[The White Eyes](https://modrinth.com/mod/the-white-eyes)** - *Not available on CF*
   *   **[Woodwalkers](https://www.curseforge.com/minecraft/mc-mods/woodwalkers)** - *Removed because redundancy*   
   *   **[Xaero Train Map](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map)** - *Addon that is no longer needed due to the removal of **[Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles)***     
 
@@ -613,7 +706,7 @@ The indexing is grouped in the following order:
 ## 🗺️ **ROADMAP**   
 
 <details>
-<summary>Interested?</summary>
+<summary><strong>Interested?</strong></summary>
 
 Roadmaps can be found **[HERE](https://www.github.com/ImFloofo7/thelastcircuit/blob/v0.2.0/Roadmap.md)**.
 </details>
